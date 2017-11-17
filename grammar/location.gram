@@ -1,0 +1,13 @@
+#JSGF V1.0;
+grammar Location;
+
+public <a> = [<greeting>] where is the (<room> | <course>);
+public <a> = [<greeting>] where is the <course> <room>;
+public <a> = [<greeting>] where does the <course> (meet | take place);
+public <a> = [<greeting>] what is the <room> of [the] <course>;
+
+<greeting> = hi | hey | hello; 
+<room> = classroom | room | location | building;
+<course> = class | course | CMPE297 | Deep Learning;
+
+

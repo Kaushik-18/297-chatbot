@@ -1,0 +1,11 @@
+#JSGF V1.0;
+grammar Professor;
+
+public <a> = [<greeting>] who <teaches> [the] <course>;
+public <b> = [<greeting>] who is <professor> for <course>;
+
+<greeting> = hi | hey | hello; 
+<course> = class | course | CMPE297 | Deep Learning;
+<professor> = teacher | lecturer | professor;
+<teaches> = teaches | takes;
+
