@@ -17,4 +17,6 @@
 - how do we find the fallback class?
 - sequence to sequence model for generating fallback responses
 
+- Integration with Alexa/ Fb messenger / Front-end
+
   
