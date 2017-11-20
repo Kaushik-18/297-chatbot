@@ -2,9 +2,9 @@
 grammar Location;
 
 public <a> = [<greeting>] where is the (<room> | <course>);
-public <a> = [<greeting>] where is the <course> <room>;
-public <a> = [<greeting>] where does the <course> (meet | take place);
-public <a> = [<greeting>] what is the <room> of [the] <course>;
+public <b> = [<greeting>] where is the <course> <room>;
+public <c> = [<greeting>] where does the <course> (meet | take place);
+public <d> = [<greeting>] what is the <room> of [the] <course>;
 
 <greeting> = hi | hey | hello; 
 <room> = classroom | room | location | building;
