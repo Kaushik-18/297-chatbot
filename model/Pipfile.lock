@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "6ce897df9ee37240880986a185524afebecf157f4435f89dab0267890764b270"
+            "sha256": "fa2540c6f80b682aac52bc97eebe7ac84fe038211922415566b072611f41e256"
         },
         "requires": {},
         "sources": [
@@ -15,14 +15,32 @@
         "bleach": {
             "version": "==1.5.0"
         },
+        "click": {
+            "version": "==6.7"
+        },
         "enum34": {
             "version": "==1.1.6"
+        },
+        "flask": {
+            "version": "==0.12.2"
+        },
+        "gunicorn": {
+            "version": "==19.7.1"
         },
         "html5lib": {
             "version": "==0.9999999"
         },
+        "itsdangerous": {
+            "version": "==0.24"
+        },
+        "jinja2": {
+            "version": "==2.10"
+        },
         "markdown": {
             "version": "==2.6.9"
+        },
+        "markupsafe": {
+            "version": "==1.0"
         },
         "nltk": {
             "version": "==3.2.5"
