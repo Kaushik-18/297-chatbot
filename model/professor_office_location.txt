@@ -1,0 +1,960 @@
+where is sir office
+where is sir room
+where is sir location
+where is sir building
+where is professor office
+where is professor room
+where is professor location
+where is professor building
+where is professors office
+where is professors room
+where is professors location
+where is professors building
+where is teacher office
+where is teacher room
+where is teacher location
+where is teacher building
+where is the sir office
+where is the sir room
+where is the sir location
+where is the sir building
+where is the professor office
+where is the professor room
+where is the professor location
+where is the professor building
+where is the professors office
+where is the professors room
+where is the professors location
+where is the professors building
+where is the teacher office
+where is the teacher room
+where is the teacher location
+where is the teacher building
+hi where is sir office
+hi where is sir room
+hi where is sir location
+hi where is sir building
+hi where is professor office
+hi where is professor room
+hi where is professor location
+hi where is professor building
+hi where is professors office
+hi where is professors room
+hi where is professors location
+hi where is professors building
+hi where is teacher office
+hi where is teacher room
+hi where is teacher location
+hi where is teacher building
+hi where is the sir office
+hi where is the sir room
+hi where is the sir location
+hi where is the sir building
+hi where is the professor office
+hi where is the professor room
+hi where is the professor location
+hi where is the professor building
+hi where is the professors office
+hi where is the professors room
+hi where is the professors location
+hi where is the professors building
+hi where is the teacher office
+hi where is the teacher room
+hi where is the teacher location
+hi where is the teacher building
+hey where is sir office
+hey where is sir room
+hey where is sir location
+hey where is sir building
+hey where is professor office
+hey where is professor room
+hey where is professor location
+hey where is professor building
+hey where is professors office
+hey where is professors room
+hey where is professors location
+hey where is professors building
+hey where is teacher office
+hey where is teacher room
+hey where is teacher location
+hey where is teacher building
+hey where is the sir office
+hey where is the sir room
+hey where is the sir location
+hey where is the sir building
+hey where is the professor office
+hey where is the professor room
+hey where is the professor location
+hey where is the professor building
+hey where is the professors office
+hey where is the professors room
+hey where is the professors location
+hey where is the professors building
+hey where is the teacher office
+hey where is the teacher room
+hey where is the teacher location
+hey where is the teacher building
+hello where is sir office
+hello where is sir room
+hello where is sir location
+hello where is sir building
+hello where is professor office
+hello where is professor room
+hello where is professor location
+hello where is professor building
+hello where is professors office
+hello where is professors room
+hello where is professors location
+hello where is professors building
+hello where is teacher office
+hello where is teacher room
+hello where is teacher location
+hello where is teacher building
+hello where is the sir office
+hello where is the sir room
+hello where is the sir location
+hello where is the sir building
+hello where is the professor office
+hello where is the professor room
+hello where is the professor location
+hello where is the professor building
+hello where is the professors office
+hello where is the professors room
+hello where is the professors location
+hello where is the professors building
+hello where is the teacher office
+hello where is the teacher room
+hello where is the teacher location
+hello where is the teacher building
+where sir sit
+where sir located
+where sir situated
+where professor sit
+where professor located
+where professor situated
+where professors sit
+where professors located
+where professors situated
+where teacher sit
+where teacher located
+where teacher situated
+where the sir sit
+where the sir located
+where the sir situated
+where the professor sit
+where the professor located
+where the professor situated
+where the professors sit
+where the professors located
+where the professors situated
+where the teacher sit
+where the teacher located
+where the teacher situated
+where does sir sit
+where does sir located
+where does sir situated
+where does professor sit
+where does professor located
+where does professor situated
+where does professors sit
+where does professors located
+where does professors situated
+where does teacher sit
+where does teacher located
+where does teacher situated
+where does the sir sit
+where does the sir located
+where does the sir situated
+where does the professor sit
+where does the professor located
+where does the professor situated
+where does the professors sit
+where does the professors located
+where does the professors situated
+where does the teacher sit
+where does the teacher located
+where does the teacher situated
+hi where sir sit
+hi where sir located
+hi where sir situated
+hi where professor sit
+hi where professor located
+hi where professor situated
+hi where professors sit
+hi where professors located
+hi where professors situated
+hi where teacher sit
+hi where teacher located
+hi where teacher situated
+hi where the sir sit
+hi where the sir located
+hi where the sir situated
+hi where the professor sit
+hi where the professor located
+hi where the professor situated
+hi where the professors sit
+hi where the professors located
+hi where the professors situated
+hi where the teacher sit
+hi where the teacher located
+hi where the teacher situated
+hi where does sir sit
+hi where does sir located
+hi where does sir situated
+hi where does professor sit
+hi where does professor located
+hi where does professor situated
+hi where does professors sit
+hi where does professors located
+hi where does professors situated
+hi where does teacher sit
+hi where does teacher located
+hi where does teacher situated
+hi where does the sir sit
+hi where does the sir located
+hi where does the sir situated
+hi where does the professor sit
+hi where does the professor located
+hi where does the professor situated
+hi where does the professors sit
+hi where does the professors located
+hi where does the professors situated
+hi where does the teacher sit
+hi where does the teacher located
+hi where does the teacher situated
+hey where sir sit
+hey where sir located
+hey where sir situated
+hey where professor sit
+hey where professor located
+hey where professor situated
+hey where professors sit
+hey where professors located
+hey where professors situated
+hey where teacher sit
+hey where teacher located
+hey where teacher situated
+hey where the sir sit
+hey where the sir located
+hey where the sir situated
+hey where the professor sit
+hey where the professor located
+hey where the professor situated
+hey where the professors sit
+hey where the professors located
+hey where the professors situated
+hey where the teacher sit
+hey where the teacher located
+hey where the teacher situated
+hey where does sir sit
+hey where does sir located
+hey where does sir situated
+hey where does professor sit
+hey where does professor located
+hey where does professor situated
+hey where does professors sit
+hey where does professors located
+hey where does professors situated
+hey where does teacher sit
+hey where does teacher located
+hey where does teacher situated
+hey where does the sir sit
+hey where does the sir located
+hey where does the sir situated
+hey where does the professor sit
+hey where does the professor located
+hey where does the professor situated
+hey where does the professors sit
+hey where does the professors located
+hey where does the professors situated
+hey where does the teacher sit
+hey where does the teacher located
+hey where does the teacher situated
+hello where sir sit
+hello where sir located
+hello where sir situated
+hello where professor sit
+hello where professor located
+hello where professor situated
+hello where professors sit
+hello where professors located
+hello where professors situated
+hello where teacher sit
+hello where teacher located
+hello where teacher situated
+hello where the sir sit
+hello where the sir located
+hello where the sir situated
+hello where the professor sit
+hello where the professor located
+hello where the professor situated
+hello where the professors sit
+hello where the professors located
+hello where the professors situated
+hello where the teacher sit
+hello where the teacher located
+hello where the teacher situated
+hello where does sir sit
+hello where does sir located
+hello where does sir situated
+hello where does professor sit
+hello where does professor located
+hello where does professor situated
+hello where does professors sit
+hello where does professors located
+hello where does professors situated
+hello where does teacher sit
+hello where does teacher located
+hello where does teacher situated
+hello where does the sir sit
+hello where does the sir located
+hello where does the sir situated
+hello where does the professor sit
+hello where does the professor located
+hello where does the professor situated
+hello where does the professors sit
+hello where does the professors located
+hello where does the professors situated
+hello where does the teacher sit
+hello where does the teacher located
+hello where does the teacher situated
+what is the office of sir
+what is the office of professor
+what is the office of professors
+what is the office of teacher
+what is the office of the sir
+what is the office of the professor
+what is the office of the professors
+what is the office of the teacher
+what is the room of sir
+what is the room of professor
+what is the room of professors
+what is the room of teacher
+what is the room of the sir
+what is the room of the professor
+what is the room of the professors
+what is the room of the teacher
+what is the location of sir
+what is the location of professor
+what is the location of professors
+what is the location of teacher
+what is the location of the sir
+what is the location of the professor
+what is the location of the professors
+what is the location of the teacher
+what is the building of sir
+what is the building of professor
+what is the building of professors
+what is the building of teacher
+what is the building of the sir
+what is the building of the professor
+what is the building of the professors
+what is the building of the teacher
+hi what is the office of sir
+hi what is the office of professor
+hi what is the office of professors
+hi what is the office of teacher
+hi what is the office of the sir
+hi what is the office of the professor
+hi what is the office of the professors
+hi what is the office of the teacher
+hi what is the room of sir
+hi what is the room of professor
+hi what is the room of professors
+hi what is the room of teacher
+hi what is the room of the sir
+hi what is the room of the professor
+hi what is the room of the professors
+hi what is the room of the teacher
+hi what is the location of sir
+hi what is the location of professor
+hi what is the location of professors
+hi what is the location of teacher
+hi what is the location of the sir
+hi what is the location of the professor
+hi what is the location of the professors
+hi what is the location of the teacher
+hi what is the building of sir
+hi what is the building of professor
+hi what is the building of professors
+hi what is the building of teacher
+hi what is the building of the sir
+hi what is the building of the professor
+hi what is the building of the professors
+hi what is the building of the teacher
+hey what is the office of sir
+hey what is the office of professor
+hey what is the office of professors
+hey what is the office of teacher
+hey what is the office of the sir
+hey what is the office of the professor
+hey what is the office of the professors
+hey what is the office of the teacher
+hey what is the room of sir
+hey what is the room of professor
+hey what is the room of professors
+hey what is the room of teacher
+hey what is the room of the sir
+hey what is the room of the professor
+hey what is the room of the professors
+hey what is the room of the teacher
+hey what is the location of sir
+hey what is the location of professor
+hey what is the location of professors
+hey what is the location of teacher
+hey what is the location of the sir
+hey what is the location of the professor
+hey what is the location of the professors
+hey what is the location of the teacher
+hey what is the building of sir
+hey what is the building of professor
+hey what is the building of professors
+hey what is the building of teacher
+hey what is the building of the sir
+hey what is the building of the professor
+hey what is the building of the professors
+hey what is the building of the teacher
+hello what is the office of sir
+hello what is the office of professor
+hello what is the office of professors
+hello what is the office of teacher
+hello what is the office of the sir
+hello what is the office of the professor
+hello what is the office of the professors
+hello what is the office of the teacher
+hello what is the room of sir
+hello what is the room of professor
+hello what is the room of professors
+hello what is the room of teacher
+hello what is the room of the sir
+hello what is the room of the professor
+hello what is the room of the professors
+hello what is the room of the teacher
+hello what is the location of sir
+hello what is the location of professor
+hello what is the location of professors
+hello what is the location of teacher
+hello what is the location of the sir
+hello what is the location of the professor
+hello what is the location of the professors
+hello what is the location of the teacher
+hello what is the building of sir
+hello what is the building of professor
+hello what is the building of professors
+hello what is the building of teacher
+hello what is the building of the sir
+hello what is the building of the professor
+hello what is the building of the professors
+hello what is the building of the teacher
+sir office
+sir room
+sir location
+sir building
+professor office
+professor room
+professor location
+professor building
+professors office
+professors room
+professors location
+professors building
+teacher office
+teacher room
+teacher location
+teacher building
+the sir office
+the sir room
+the sir location
+the sir building
+the professor office
+the professor room
+the professor location
+the professor building
+the professors office
+the professors room
+the professors location
+the professors building
+the teacher office
+the teacher room
+the teacher location
+the teacher building
+me sir office
+me sir room
+me sir location
+me sir building
+me professor office
+me professor room
+me professor location
+me professor building
+me professors office
+me professors room
+me professors location
+me professors building
+me teacher office
+me teacher room
+me teacher location
+me teacher building
+me the sir office
+me the sir room
+me the sir location
+me the sir building
+me the professor office
+me the professor room
+me the professor location
+me the professor building
+me the professors office
+me the professors room
+me the professors location
+me the professors building
+me the teacher office
+me the teacher room
+me the teacher location
+me the teacher building
+tell sir office
+tell sir room
+tell sir location
+tell sir building
+tell professor office
+tell professor room
+tell professor location
+tell professor building
+tell professors office
+tell professors room
+tell professors location
+tell professors building
+tell teacher office
+tell teacher room
+tell teacher location
+tell teacher building
+tell the sir office
+tell the sir room
+tell the sir location
+tell the sir building
+tell the professor office
+tell the professor room
+tell the professor location
+tell the professor building
+tell the professors office
+tell the professors room
+tell the professors location
+tell the professors building
+tell the teacher office
+tell the teacher room
+tell the teacher location
+tell the teacher building
+tell me sir office
+tell me sir room
+tell me sir location
+tell me sir building
+tell me professor office
+tell me professor room
+tell me professor location
+tell me professor building
+tell me professors office
+tell me professors room
+tell me professors location
+tell me professors building
+tell me teacher office
+tell me teacher room
+tell me teacher location
+tell me teacher building
+tell me the sir office
+tell me the sir room
+tell me the sir location
+tell me the sir building
+tell me the professor office
+tell me the professor room
+tell me the professor location
+tell me the professor building
+tell me the professors office
+tell me the professors room
+tell me the professors location
+tell me the professors building
+tell me the teacher office
+tell me the teacher room
+tell me the teacher location
+tell me the teacher building
+hi sir office
+hi sir room
+hi sir location
+hi sir building
+hi professor office
+hi professor room
+hi professor location
+hi professor building
+hi professors office
+hi professors room
+hi professors location
+hi professors building
+hi teacher office
+hi teacher room
+hi teacher location
+hi teacher building
+hi the sir office
+hi the sir room
+hi the sir location
+hi the sir building
+hi the professor office
+hi the professor room
+hi the professor location
+hi the professor building
+hi the professors office
+hi the professors room
+hi the professors location
+hi the professors building
+hi the teacher office
+hi the teacher room
+hi the teacher location
+hi the teacher building
+hi me sir office
+hi me sir room
+hi me sir location
+hi me sir building
+hi me professor office
+hi me professor room
+hi me professor location
+hi me professor building
+hi me professors office
+hi me professors room
+hi me professors location
+hi me professors building
+hi me teacher office
+hi me teacher room
+hi me teacher location
+hi me teacher building
+hi me the sir office
+hi me the sir room
+hi me the sir location
+hi me the sir building
+hi me the professor office
+hi me the professor room
+hi me the professor location
+hi me the professor building
+hi me the professors office
+hi me the professors room
+hi me the professors location
+hi me the professors building
+hi me the teacher office
+hi me the teacher room
+hi me the teacher location
+hi me the teacher building
+hi tell sir office
+hi tell sir room
+hi tell sir location
+hi tell sir building
+hi tell professor office
+hi tell professor room
+hi tell professor location
+hi tell professor building
+hi tell professors office
+hi tell professors room
+hi tell professors location
+hi tell professors building
+hi tell teacher office
+hi tell teacher room
+hi tell teacher location
+hi tell teacher building
+hi tell the sir office
+hi tell the sir room
+hi tell the sir location
+hi tell the sir building
+hi tell the professor office
+hi tell the professor room
+hi tell the professor location
+hi tell the professor building
+hi tell the professors office
+hi tell the professors room
+hi tell the professors location
+hi tell the professors building
+hi tell the teacher office
+hi tell the teacher room
+hi tell the teacher location
+hi tell the teacher building
+hi tell me sir office
+hi tell me sir room
+hi tell me sir location
+hi tell me sir building
+hi tell me professor office
+hi tell me professor room
+hi tell me professor location
+hi tell me professor building
+hi tell me professors office
+hi tell me professors room
+hi tell me professors location
+hi tell me professors building
+hi tell me teacher office
+hi tell me teacher room
+hi tell me teacher location
+hi tell me teacher building
+hi tell me the sir office
+hi tell me the sir room
+hi tell me the sir location
+hi tell me the sir building
+hi tell me the professor office
+hi tell me the professor room
+hi tell me the professor location
+hi tell me the professor building
+hi tell me the professors office
+hi tell me the professors room
+hi tell me the professors location
+hi tell me the professors building
+hi tell me the teacher office
+hi tell me the teacher room
+hi tell me the teacher location
+hi tell me the teacher building
+hey sir office
+hey sir room
+hey sir location
+hey sir building
+hey professor office
+hey professor room
+hey professor location
+hey professor building
+hey professors office
+hey professors room
+hey professors location
+hey professors building
+hey teacher office
+hey teacher room
+hey teacher location
+hey teacher building
+hey the sir office
+hey the sir room
+hey the sir location
+hey the sir building
+hey the professor office
+hey the professor room
+hey the professor location
+hey the professor building
+hey the professors office
+hey the professors room
+hey the professors location
+hey the professors building
+hey the teacher office
+hey the teacher room
+hey the teacher location
+hey the teacher building
+hey me sir office
+hey me sir room
+hey me sir location
+hey me sir building
+hey me professor office
+hey me professor room
+hey me professor location
+hey me professor building
+hey me professors office
+hey me professors room
+hey me professors location
+hey me professors building
+hey me teacher office
+hey me teacher room
+hey me teacher location
+hey me teacher building
+hey me the sir office
+hey me the sir room
+hey me the sir location
+hey me the sir building
+hey me the professor office
+hey me the professor room
+hey me the professor location
+hey me the professor building
+hey me the professors office
+hey me the professors room
+hey me the professors location
+hey me the professors building
+hey me the teacher office
+hey me the teacher room
+hey me the teacher location
+hey me the teacher building
+hey tell sir office
+hey tell sir room
+hey tell sir location
+hey tell sir building
+hey tell professor office
+hey tell professor room
+hey tell professor location
+hey tell professor building
+hey tell professors office
+hey tell professors room
+hey tell professors location
+hey tell professors building
+hey tell teacher office
+hey tell teacher room
+hey tell teacher location
+hey tell teacher building
+hey tell the sir office
+hey tell the sir room
+hey tell the sir location
+hey tell the sir building
+hey tell the professor office
+hey tell the professor room
+hey tell the professor location
+hey tell the professor building
+hey tell the professors office
+hey tell the professors room
+hey tell the professors location
+hey tell the professors building
+hey tell the teacher office
+hey tell the teacher room
+hey tell the teacher location
+hey tell the teacher building
+hey tell me sir office
+hey tell me sir room
+hey tell me sir location
+hey tell me sir building
+hey tell me professor office
+hey tell me professor room
+hey tell me professor location
+hey tell me professor building
+hey tell me professors office
+hey tell me professors room
+hey tell me professors location
+hey tell me professors building
+hey tell me teacher office
+hey tell me teacher room
+hey tell me teacher location
+hey tell me teacher building
+hey tell me the sir office
+hey tell me the sir room
+hey tell me the sir location
+hey tell me the sir building
+hey tell me the professor office
+hey tell me the professor room
+hey tell me the professor location
+hey tell me the professor building
+hey tell me the professors office
+hey tell me the professors room
+hey tell me the professors location
+hey tell me the professors building
+hey tell me the teacher office
+hey tell me the teacher room
+hey tell me the teacher location
+hey tell me the teacher building
+hello sir office
+hello sir room
+hello sir location
+hello sir building
+hello professor office
+hello professor room
+hello professor location
+hello professor building
+hello professors office
+hello professors room
+hello professors location
+hello professors building
+hello teacher office
+hello teacher room
+hello teacher location
+hello teacher building
+hello the sir office
+hello the sir room
+hello the sir location
+hello the sir building
+hello the professor office
+hello the professor room
+hello the professor location
+hello the professor building
+hello the professors office
+hello the professors room
+hello the professors location
+hello the professors building
+hello the teacher office
+hello the teacher room
+hello the teacher location
+hello the teacher building
+hello me sir office
+hello me sir room
+hello me sir location
+hello me sir building
+hello me professor office
+hello me professor room
+hello me professor location
+hello me professor building
+hello me professors office
+hello me professors room
+hello me professors location
+hello me professors building
+hello me teacher office
+hello me teacher room
+hello me teacher location
+hello me teacher building
+hello me the sir office
+hello me the sir room
+hello me the sir location
+hello me the sir building
+hello me the professor office
+hello me the professor room
+hello me the professor location
+hello me the professor building
+hello me the professors office
+hello me the professors room
+hello me the professors location
+hello me the professors building
+hello me the teacher office
+hello me the teacher room
+hello me the teacher location
+hello me the teacher building
+hello tell sir office
+hello tell sir room
+hello tell sir location
+hello tell sir building
+hello tell professor office
+hello tell professor room
+hello tell professor location
+hello tell professor building
+hello tell professors office
+hello tell professors room
+hello tell professors location
+hello tell professors building
+hello tell teacher office
+hello tell teacher room
+hello tell teacher location
+hello tell teacher building
+hello tell the sir office
+hello tell the sir room
+hello tell the sir location
+hello tell the sir building
+hello tell the professor office
+hello tell the professor room
+hello tell the professor location
+hello tell the professor building
+hello tell the professors office
+hello tell the professors room
+hello tell the professors location
+hello tell the professors building
+hello tell the teacher office
+hello tell the teacher room
+hello tell the teacher location
+hello tell the teacher building
+hello tell me sir office
+hello tell me sir room
+hello tell me sir location
+hello tell me sir building
+hello tell me professor office
+hello tell me professor room
+hello tell me professor location
+hello tell me professor building
+hello tell me professors office
+hello tell me professors room
+hello tell me professors location
+hello tell me professors building
+hello tell me teacher office
+hello tell me teacher room
+hello tell me teacher location
+hello tell me teacher building
+hello tell me the sir office
+hello tell me the sir room
+hello tell me the sir location
+hello tell me the sir building
+hello tell me the professor office
+hello tell me the professor room
+hello tell me the professor location
+hello tell me the professor building
+hello tell me the professors office
+hello tell me the professors room
+hello tell me the professors location
+hello tell me the professors building
+hello tell me the teacher office
+hello tell me the teacher room
+hello tell me the teacher location
+hello tell me the teacher building
