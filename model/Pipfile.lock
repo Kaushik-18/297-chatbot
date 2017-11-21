@@ -1,0 +1,56 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "6ce897df9ee37240880986a185524afebecf157f4435f89dab0267890764b270"
+        },
+        "requires": {},
+        "sources": [
+            {
+                "url": "https://pypi.python.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "bleach": {
+            "version": "==1.5.0"
+        },
+        "enum34": {
+            "version": "==1.1.6"
+        },
+        "html5lib": {
+            "version": "==0.9999999"
+        },
+        "markdown": {
+            "version": "==2.6.9"
+        },
+        "nltk": {
+            "version": "==3.2.5"
+        },
+        "numpy": {
+            "version": "==1.13.3"
+        },
+        "protobuf": {
+            "version": "==3.5.0"
+        },
+        "setuptools": {
+            "version": "==37.0.0"
+        },
+        "six": {
+            "version": "==1.11.0"
+        },
+        "tensorflow": {
+            "version": "==1.4.0"
+        },
+        "tensorflow-tensorboard": {
+            "version": "==0.4.0rc3"
+        },
+        "werkzeug": {
+            "version": "==0.12.2"
+        },
+        "wheel": {
+            "version": "==0.30.0"
+        }
+    },
+    "develop": {}
+}
