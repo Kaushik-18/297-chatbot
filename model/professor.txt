@@ -2,111 +2,139 @@ who teaches class
 who teaches course
 who teaches CMPE297
 who teaches Deep Learning
+who teaches lecture
 who teaches the class
 who teaches the course
 who teaches the CMPE297
 who teaches the Deep Learning
+who teaches the lecture
 who takes class
 who takes course
 who takes CMPE297
 who takes Deep Learning
+who takes lecture
 who takes the class
 who takes the course
 who takes the CMPE297
 who takes the Deep Learning
+who takes the lecture
 hi who teaches class
 hi who teaches course
 hi who teaches CMPE297
 hi who teaches Deep Learning
+hi who teaches lecture
 hi who teaches the class
 hi who teaches the course
 hi who teaches the CMPE297
 hi who teaches the Deep Learning
+hi who teaches the lecture
 hi who takes class
 hi who takes course
 hi who takes CMPE297
 hi who takes Deep Learning
+hi who takes lecture
 hi who takes the class
 hi who takes the course
 hi who takes the CMPE297
 hi who takes the Deep Learning
+hi who takes the lecture
 hey who teaches class
 hey who teaches course
 hey who teaches CMPE297
 hey who teaches Deep Learning
+hey who teaches lecture
 hey who teaches the class
 hey who teaches the course
 hey who teaches the CMPE297
 hey who teaches the Deep Learning
+hey who teaches the lecture
 hey who takes class
 hey who takes course
 hey who takes CMPE297
 hey who takes Deep Learning
+hey who takes lecture
 hey who takes the class
 hey who takes the course
 hey who takes the CMPE297
 hey who takes the Deep Learning
+hey who takes the lecture
 hello who teaches class
 hello who teaches course
 hello who teaches CMPE297
 hello who teaches Deep Learning
+hello who teaches lecture
 hello who teaches the class
 hello who teaches the course
 hello who teaches the CMPE297
 hello who teaches the Deep Learning
+hello who teaches the lecture
 hello who takes class
 hello who takes course
 hello who takes CMPE297
 hello who takes Deep Learning
+hello who takes lecture
 hello who takes the class
 hello who takes the course
 hello who takes the CMPE297
 hello who takes the Deep Learning
+hello who takes the lecture
 who is teacher for class
 who is teacher for course
 who is teacher for CMPE297
 who is teacher for Deep Learning
+who is teacher for lecture
 who is lecturer for class
 who is lecturer for course
 who is lecturer for CMPE297
 who is lecturer for Deep Learning
+who is lecturer for lecture
 who is professor for class
 who is professor for course
 who is professor for CMPE297
 who is professor for Deep Learning
+who is professor for lecture
 hi who is teacher for class
 hi who is teacher for course
 hi who is teacher for CMPE297
 hi who is teacher for Deep Learning
+hi who is teacher for lecture
 hi who is lecturer for class
 hi who is lecturer for course
 hi who is lecturer for CMPE297
 hi who is lecturer for Deep Learning
+hi who is lecturer for lecture
 hi who is professor for class
 hi who is professor for course
 hi who is professor for CMPE297
 hi who is professor for Deep Learning
+hi who is professor for lecture
 hey who is teacher for class
 hey who is teacher for course
 hey who is teacher for CMPE297
 hey who is teacher for Deep Learning
+hey who is teacher for lecture
 hey who is lecturer for class
 hey who is lecturer for course
 hey who is lecturer for CMPE297
 hey who is lecturer for Deep Learning
+hey who is lecturer for lecture
 hey who is professor for class
 hey who is professor for course
 hey who is professor for CMPE297
 hey who is professor for Deep Learning
+hey who is professor for lecture
 hello who is teacher for class
 hello who is teacher for course
 hello who is teacher for CMPE297
 hello who is teacher for Deep Learning
+hello who is teacher for lecture
 hello who is lecturer for class
 hello who is lecturer for course
 hello who is lecturer for CMPE297
 hello who is lecturer for Deep Learning
+hello who is lecturer for lecture
 hello who is professor for class
 hello who is professor for course
 hello who is professor for CMPE297
 hello who is professor for Deep Learning
+hello who is professor for lecture

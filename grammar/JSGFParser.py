@@ -61,7 +61,7 @@ Notable features of JSGF that are **not** handled by this parser are:
 # @since: 2014/06/02
 
 import sys
-import JSGFGrammar as gram
+import grammar.JSGFGrammar as gram
 from pyparsing import * 
 
 sys.setrecursionlimit(100000)
@@ -243,4 +243,4 @@ def getGrammarObject(fileStream):
 if __name__ == '__main__':
     fileStream = open(sys.argv[1])
     grammar = getGrammarObject(fileStream)
-    print grammar
+    print (grammar)

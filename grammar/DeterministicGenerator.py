@@ -39,8 +39,8 @@ This will generate all strings defined by the public rules of IdeasNonRecursive.
 # @since: 2014/06/02
 
 import sys, itertools
-import JSGFParser as parser
-import JSGFGrammar as gram
+import grammar.JSGFParser as parser
+import grammar.JSGFGrammar as gram
 
 
 def combineSets(listOfSets):
@@ -128,7 +128,7 @@ if __name__ == '__main__':
     for rule in grammar.publicRules:
         expansions = processRHS(rule.rhs)
         for expansion in expansions:
-            print expansion
+            print (expansion)
 
 
 

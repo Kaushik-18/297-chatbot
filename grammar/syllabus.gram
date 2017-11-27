@@ -1,0 +1,16 @@
+#JSGF V1.0;
+grammar Syllabus;
+
+public <a> = [<greeting>] what <is> [the] <syllabus> [of] [<class>] [<detail>];
+public <b> = [<greeting>] [tell] [me] [about] <syllabus> [of] [<class>] [<detail>];
+
+
+<is> = is | are;
+<greeting> = hi | hey | hello;
+<detail> = detail | details | about | on;
+<class> = class | lecture | Deep Learning;
+<syllabus> = syllabus;
+
+
+
+

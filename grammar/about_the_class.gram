@@ -1,0 +1,15 @@
+#JSGF V1.0;
+grammar About_The_Class;
+
+public <a> = [<greeting>] what <is> [the] <class> <detail>;
+public <b> = [<greeting>] [tell] [me] [about] <class> <detail>;
+
+
+<is> = is | are;
+<greeting> = hi | hey | hello;
+<detail> = detail | details | about | on;
+<class> = class | lecture | Deep Learning;
+
+
+
+
