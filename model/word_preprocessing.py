@@ -13,7 +13,8 @@ stemmer = LancasterStemmer()
 from nltk.stem import WordNetLemmatizer
 lemmatizer = WordNetLemmatizer()
 
-ml_classes = ['location', 'professor', 'time']
+ml_classes = ['location', 'professor', 'time', 'professor_office_hours' ,
+              'professor_office_location' ,'project_details' ,'syllabus']
 
 
 class Word_Processor:
@@ -65,9 +66,10 @@ class Word_Processor:
         return np.asarray(features), np.asarray(outputs), len(self.unique_words)
 
     def vectorize_input(self, sentence):
-        tokens =  self.preprocess(sentence)
-        vector  = self.vectorize(tokens, self.unique_words)
+        tokens = self.preprocess(sentence)
+        vector = self.vectorize(tokens, self.unique_words)
         return np.asarray(vector)
+
 
 if __name__ == '__main__':
     procs = Word_Processor('../grammar/')

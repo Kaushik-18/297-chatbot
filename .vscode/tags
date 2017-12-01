@@ -4,28 +4,89 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+DeterministicGenerator.py	../grammar/DeterministicGenerator.py	1;"	kind:file	line:1
+Disjunction	../grammar/JSGFGrammar.py	/^class Disjunction(JSGFExpression):$/;"	kind:class	line:34
+Expression	../grammar/JSGFParser.py	/^Expression = MatchFirst([nonterminal, token])$/;"	kind:variable	line:191
+Grammar	../grammar/JSGFGrammar.py	/^class Grammar(): $/;"	kind:class	line:121
+Grouping	../grammar/JSGFParser.py	/^Grouping = Literal('(').suppress() + topLevel + Literal(')').suppress()$/;"	kind:variable	line:193
+JSGFExpression	../grammar/JSGFGrammar.py	/^class JSGFExpression():$/;"	kind:class	line:31
+JSGFGrammar.py	../grammar/JSGFGrammar.py	1;"	kind:file	line:1
+JSGFParser.py	../grammar/JSGFParser.py	1;"	kind:file	line:1
+NonTerminal	../grammar/JSGFGrammar.py	/^class NonTerminal(JSGFExpression):$/;"	kind:class	line:69
+Optional	../grammar/JSGFGrammar.py	/^class Optional(JSGFExpression):$/;"	kind:class	line:51
+OptionalGrouping	../grammar/JSGFParser.py	/^OptionalGrouping = (Literal('[').suppress() + Group(topLevel).setResultsName("optionalItem") + Literal(']').suppress()).setParseAction(foundOptionalGroup)$/;"	kind:variable	line:194
+Rule	../grammar/JSGFGrammar.py	/^class Rule():$/;"	kind:class	line:87
+Sequence	../grammar/JSGFParser.py	/^Sequence = Forward()$/;"	kind:variable	line:175
+StartSymbol	../grammar/JSGFParser.py	/^StartSymbol = Optional(Literal('public')).setResultsName('public') + nonterminal.setResultsName('identifier') + Literal('=').suppress() + Group(topLevel).setResultsName('ruleDef') + Literal(';').suppress() + stringEnd$/;"	kind:variable	line:188
 Word_Processor	../model/word_preprocessing.py	/^class Word_Processor:$/;"	kind:class	line:19
+__getitem__	../grammar/JSGFGrammar.py	/^    def __getitem__(self):$/;"	kind:member	line:48
+__getitem__	../grammar/JSGFGrammar.py	/^    def __getitem__(self):$/;"	kind:member	line:66
+__getitem__	../grammar/JSGFGrammar.py	/^    def __getitem__(self):$/;"	kind:member	line:83
+__getitem__	../grammar/JSGFGrammar.py	/^    def __getitem__(self, nt):$/;"	kind:member	line:155
+__init__	../grammar/JSGFGrammar.py	/^    def __init__(self): $/;"	kind:member	line:127
+__init__	../grammar/JSGFGrammar.py	/^    def __init__(self):$/;"	kind:member	line:94
+__init__	../grammar/JSGFGrammar.py	/^    def __init__(self, disjuncts):$/;"	kind:member	line:39
+__init__	../grammar/JSGFGrammar.py	/^    def __init__(self, lhs):$/;"	kind:member	line:101
+__init__	../grammar/JSGFGrammar.py	/^    def __init__(self, lhs, rhs):$/;"	kind:member	line:107
+__init__	../grammar/JSGFGrammar.py	/^    def __init__(self, ntName):$/;"	kind:member	line:74
+__init__	../grammar/JSGFGrammar.py	/^    def __init__(self, option):$/;"	kind:member	line:57
 __init__	../model/word_preprocessing.py	/^    def __init__(self, folder_path):$/;"	kind:member	line:20
+__init__.py	../grammar/__init__.py	1;"	kind:file	line:1
+__repr__	../grammar/JSGFGrammar.py	/^    def __repr__(self):$/;"	kind:member	line:117
+__repr__	../grammar/JSGFGrammar.py	/^    def __repr__(self):$/;"	kind:member	line:45
+__repr__	../grammar/JSGFGrammar.py	/^    def __repr__(self):$/;"	kind:member	line:63
+__repr__	../grammar/JSGFGrammar.py	/^    def __repr__(self):$/;"	kind:member	line:80
+__str__	../grammar/JSGFGrammar.py	/^    def __str__(self):$/;"	kind:member	line:114
+__str__	../grammar/JSGFGrammar.py	/^    def __str__(self):$/;"	kind:member	line:163
+__str__	../grammar/JSGFGrammar.py	/^    def __str__(self):$/;"	kind:member	line:42
+__str__	../grammar/JSGFGrammar.py	/^    def __str__(self):$/;"	kind:member	line:60
+__str__	../grammar/JSGFGrammar.py	/^    def __str__(self):$/;"	kind:member	line:77
 a	../model/chatbot-predictor.py	/^a = "who is the professor"$/;"	kind:variable	line:54
+addPublicRule	../grammar/JSGFGrammar.py	/^    def addPublicRule(self, rule):$/;"	kind:member	line:137
+addRule	../grammar/JSGFGrammar.py	/^    def addRule(self, rule):$/;"	kind:member	line:131
 all_uniq_words	../model/chatbot-predictor.py	/^all_uniq_words = data['all_uniq_words']$/;"	kind:variable	line:40
 all_uniq_words	../model/chatbot-trainer.py	/^all_uniq_words = list(set(all_words))$/;"	kind:variable	line:59
 all_words	../model/chatbot-trainer.py	/^all_words = []$/;"	kind:variable	line:36
 chatbot-predictor.py	../model/chatbot-predictor.py	1;"	kind:file	line:1
 chatbot-trainer.py	../model/chatbot-trainer.py	1;"	kind:file	line:1
+combineSets	../grammar/DeterministicGenerator.py	/^def combineSets(listOfSets):$/;"	kind:function	line:46
 data	../model/chatbot-predictor.py	/^data = pickle.load( open( "training_data", "rb" ) )$/;"	kind:variable	line:39
+disj	../grammar/JSGFParser.py	/^disj = Forward()$/;"	kind:variable	line:183
+disjPrime	../grammar/JSGFParser.py	/^disjPrime = Literal('|').suppress() + disj$/;"	kind:variable	line:184
 dnn_clf	../model/chatbot-predictor.py	/^dnn_clf = tf.contrib.learn.DNNClassifier(hidden_units=[10, 10], n_classes=3, feature_columns=feature_columns, model_dir=".\/chat_model")$/;"	kind:variable	line:48
 dnn_clf	../model/chatbot-trainer.py	/^dnn_clf = tf.contrib.learn.DNNClassifier(hidden_units=[10, 10], n_classes=3, feature_columns=feature_columns, model_dir=".\/chat_model")$/;"	kind:variable	line:92
 feature_columns	../model/chatbot-predictor.py	/^feature_columns=[tf.contrib.layers.real_valued_column(column_name='', dimension=31, default_value=None, dtype=tf.int64, normalizer=None)]$/;"	kind:variable	line:47
 feature_columns	../model/chatbot-trainer.py	/^feature_columns = tf.contrib.learn.infer_real_valued_columns_from_input(train_X)$/;"	kind:variable	line:90
+fileStream	../grammar/JSGFParser.py	/^    fileStream = open(sys.argv[1])$/;"	kind:variable	line:244
+foundNonterminal	../grammar/JSGFParser.py	/^def foundNonterminal(s, loc, toks):$/;"	kind:function	line:90
+foundOptionalGroup	../grammar/JSGFParser.py	/^def foundOptionalGroup(s, loc, toks):$/;"	kind:function	line:139
+foundPair	../grammar/JSGFParser.py	/^def foundPair(s, loc, toks):$/;"	kind:function	line:113
+foundSeq	../grammar/JSGFParser.py	/^def foundSeq(s, loc, toks):$/;"	kind:function	line:151
+foundToken	../grammar/JSGFParser.py	/^def foundToken(s, loc, toks):$/;"	kind:function	line:80
+foundWeight	../grammar/JSGFParser.py	/^def foundWeight(s, loc, toks):$/;"	kind:function	line:70
+foundWeightedExpression	../grammar/JSGFParser.py	/^def foundWeightedExpression(s, loc, toks):$/;"	kind:function	line:98
+getGrammarObject	../grammar/JSGFParser.py	/^def getGrammarObject(fileStream):$/;"	kind:function	line:212
+getRHS	../grammar/JSGFGrammar.py	/^    def getRHS(self, nt):$/;"	kind:member	line:143
+grammar	../grammar/JSGFParser.py	/^    grammar = getGrammarObject(fileStream)$/;"	kind:variable	line:245
+jgDisj	../grammar/JSGFGrammar.py	/^    jgDisj = Disjunction(['hello', 'world'])$/;"	kind:variable	line:167
+jgOpt	../grammar/JSGFGrammar.py	/^    jgOpt = Optional(jgDisj)$/;"	kind:variable	line:168
+jgRule	../grammar/JSGFGrammar.py	/^    jgRule = Rule("<greeting>", jgOpt)$/;"	kind:variable	line:169
 lemmatizer	../model/chatbot-predictor.py	/^lemmatizer = WordNetLemmatizer()$/;"	kind:variable	line:16
 lemmatizer	../model/chatbot-trainer.py	/^lemmatizer = WordNetLemmatizer()$/;"	kind:variable	line:19
 lemmatizer	../model/word_preprocessing.py	/^lemmatizer = WordNetLemmatizer()$/;"	kind:variable	line:14
 lines	../model/chatbot-trainer.py	/^        lines = file.read().splitlines()$/;"	kind:variable	line:29
 ml_classes	../model/chatbot-trainer.py	/^ml_classes = ['location', 'professor', 'time']$/;"	kind:variable	line:25
 ml_classes	../model/word_preprocessing.py	/^ml_classes = ['location', 'professor', 'time']$/;"	kind:variable	line:16
+nocomment	../grammar/JSGFParser.py	/^def nocomment(oldline):$/;"	kind:function	line:198
+nonterminal	../grammar/JSGFParser.py	/^nonterminal = Combine(Literal('<') + Word(alphanums+'$_:;,=|\/\\\\()[]@#%!^&~') + Literal('>')).setParseAction(foundNonterminal).setResultsName('NonTerminal')$/;"	kind:variable	line:173
 preprocess	../model/chatbot-predictor.py	/^def preprocess(sentence):$/;"	kind:function	line:23
 preprocess	../model/chatbot-trainer.py	/^def preprocess(sentence):$/;"	kind:function	line:39
 preprocess	../model/word_preprocessing.py	/^    def preprocess(self, sentence):$/;"	kind:member	line:29
+processDisjunction	../grammar/DeterministicGenerator.py	/^def processDisjunction(disj):$/;"	kind:function	line:78
+processNonTerminal	../grammar/DeterministicGenerator.py	/^def processNonTerminal(nt):$/;"	kind:function	line:72
+processOptional	../grammar/DeterministicGenerator.py	/^def processOptional(opt):$/;"	kind:function	line:93
+processRHS	../grammar/DeterministicGenerator.py	/^def processRHS(rhs):$/;"	kind:function	line:104
+processSequence	../grammar/DeterministicGenerator.py	/^def processSequence(seq):$/;"	kind:function	line:62
 processed_tokens	../model/chatbot-trainer.py	/^        processed_tokens = preprocess(line)$/;"	kind:variable	line:51
 procs	../model/word_preprocessing.py	/^    procs = Word_Processor('..\/grammar\/')$/;"	kind:variable	line:73
 sentences	../model/chatbot-trainer.py	/^sentences = []$/;"	kind:variable	line:37
@@ -35,8 +96,10 @@ stemmer	../model/word_preprocessing.py	/^stemmer = LancasterStemmer()$/;"	kind:v
 stop_words	../model/chatbot-trainer.py	/^stop_words = set(stopwords.words('english'))$/;"	kind:variable	line:33
 store	../model/chatbot-trainer.py	/^store = defaultdict(list)$/;"	kind:variable	line:26
 test_X	../model/chatbot-predictor.py	/^test_X = np.array(x).reshape(1, -1)$/;"	kind:variable	line:60
+token	../grammar/JSGFParser.py	/^token = Word(alphanums+"'_-").setResultsName('token').setParseAction(foundToken)$/;"	kind:variable	line:170
 token_set	../model/chatbot-predictor.py	/^token_set = set(tokens)$/;"	kind:variable	line:58
 tokens	../model/chatbot-predictor.py	/^tokens = preprocess(a)$/;"	kind:variable	line:57
+topLevel	../grammar/JSGFParser.py	/^topLevel = MatchFirst([disj, weightAlternatives])$/;"	kind:variable	line:187
 train_X	../model/chatbot-trainer.py	/^train_X = np.vstack(train_X)$/;"	kind:variable	line:77
 train_X	../model/chatbot-trainer.py	/^train_X = train_set[:, 0]$/;"	kind:variable	line:76
 train_Y	../model/chatbot-trainer.py	/^train_Y = np.vstack(train_Y)$/;"	kind:variable	line:81
@@ -45,10 +108,15 @@ train_set	../model/chatbot-trainer.py	/^train_set = np.asarray(training)$/;"	kin
 training	../model/chatbot-trainer.py	/^training = []$/;"	kind:variable	line:65
 uniq_ml_classes	../model/chatbot-predictor.py	/^uniq_ml_classes = data['uniq_ml_classes']$/;"	kind:variable	line:41
 uniq_ml_classes	../model/chatbot-trainer.py	/^uniq_ml_classes = list(set(ml_classes))$/;"	kind:variable	line:60
+usePackrat	../grammar/JSGFParser.py	/^usePackrat = True$/;"	kind:variable	line:68
 vectorize	../model/chatbot-predictor.py	/^def vectorize(token_set, all_uniq_words):$/;"	kind:function	line:32
 vectorize	../model/chatbot-trainer.py	/^def vectorize(token_set, all_uniq_words):$/;"	kind:function	line:62
 vectorize	../model/word_preprocessing.py	/^    def vectorize(self, token_set, all_uniq_words):$/;"	kind:member	line:39
 vectorize_input	../model/word_preprocessing.py	/^    def vectorize_input(self, sentence):$/;"	kind:member	line:67
+weight	../grammar/JSGFParser.py	/^weight = (Literal('\/').suppress() + (Word(nums + '.')).setResultsName('weightAmount') + Literal('\/').suppress()).setParseAction(foundWeight).setResultsName("weight")$/;"	kind:variable	line:167
+weightAlternatives	../grammar/JSGFParser.py	/^weightAlternatives = Forward()$/;"	kind:variable	line:179
+weightedExpression	../grammar/JSGFParser.py	/^weightedExpression = (weight + Group(Sequence).setResultsName("expr")).setResultsName('weightedExpression').setParseAction(foundWeightedExpression)$/;"	kind:variable	line:177
+weightedPrime	../grammar/JSGFParser.py	/^weightedPrime = Literal('|').suppress() + weightAlternatives$/;"	kind:variable	line:180
 word_preprocessing.py	../model/word_preprocessing.py	1;"	kind:file	line:1
 words_to_vectors	../model/word_preprocessing.py	/^    def words_to_vectors(self):$/;"	kind:member	line:42
 x	../model/chatbot-predictor.py	/^x = vectorize(token_set, all_uniq_words)$/;"	kind:variable	line:59
