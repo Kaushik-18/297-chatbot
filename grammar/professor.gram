@@ -2,10 +2,12 @@
 grammar Professor;
 
 public <a> = [<greeting>] who <teaches> [the] <course>;
-public <b> = [<greeting>] who is <professor> for <course>;
+public <b> = [<greeting>] who is [the] <professor> for <course>;
+public <c> =[<greeting>] what is [the] <professor> name for this <course>;
+public<d> = what is [the] <professor> name;
 
 <greeting> = hi | hey | hello; 
-<course> = class | course | CMPE297 | Deep Learning;
+<course> = class | course | CMPE297 | Deep Learning|subject;
 <professor> = teacher | lecturer | professor;
-<teaches> = teaches | takes;
+<teaches> = teaches | takes| conducts;
 
