@@ -1,5 +1,5 @@
 #JSGF V1.0;
-grammar Location;
+grammar Time;
 
 public <a> = [<greeting>] what <time> [is] [the] <course>;
 public <b> = [<greeting>] what [is] [the] <course> <time>;
@@ -15,7 +15,7 @@ public <j> = [<greeting>] when <course> <meet>;
 <greeting> = hi | hey | hello; 
 <time> = time | timing;
 <meet> = meet | start;
-<course> = class | course | CMPE297 | Deep Learning;
+<course> = class | course | CMPE297 | Deep Learning | lecture;
 
 
 

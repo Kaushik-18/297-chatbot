@@ -182,12 +182,10 @@ hey who is teacher for class
 hey who is teacher for course
 hey who is teacher for CMPE297
 hey who is teacher for Deep Learning
-hey who is teacher for subject
 hey who is lecturer for class
 hey who is lecturer for course
 hey who is lecturer for CMPE297
 hey who is lecturer for Deep Learning
-hey who is lecturer for subject
 hey who is professor for class
 hey who is professor for course
 hey who is professor for CMPE297
