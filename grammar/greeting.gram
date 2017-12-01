@@ -1,2 +1,5 @@
 #JSGF V1.0;
-grammer greeting
+grammer greeting;
+public<a> = [<greeting>];
+
+<greeting> = hi|hello|how are you|how do you do|how are you doing|whats up|yo|good morning|good afternooon|good evening;

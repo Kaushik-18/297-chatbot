@@ -13,8 +13,9 @@ stemmer = LancasterStemmer()
 from nltk.stem import WordNetLemmatizer
 lemmatizer = WordNetLemmatizer()
 
-ml_classes = ['location', 'professor', 'time', 'professor_office_hours' ,
-              'professor_office_location' ,'project_details' ,'syllabus']
+ml_classes = ['location', 'professor', 'time', 'professor_office_hours',
+              'professor_office_location', 'project_details', 'syllabus',
+              'exam_details']
 
 
 class Word_Processor:
