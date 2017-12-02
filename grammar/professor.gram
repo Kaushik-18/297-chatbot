@@ -4,7 +4,7 @@ grammar Professor;
 public <a> = [<greeting>] who <teaches> [the] <course>;
 public <b> = [<greeting>] who is [the] <professor> for <course>;
 public <c> =[<greeting>] what is [the] <professor> name for this <course>;
-public<d> = what is [the] <professor> name;
+public <d> = what is [the] <professor> name;
 
 <greeting> = hi | hey | hello; 
 <course> = class | course | CMPE297 | Deep Learning|subject;

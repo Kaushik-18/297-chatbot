@@ -1,0 +1,16 @@
+#JSGF V1.0;
+grammar Exam_Details;
+
+public <a> = [<greeting>] what <is> [the] <exam> <detail>;
+public <b> = [<greeting>] [tell] [me] [about] <exam> <detail>;
+
+
+<is> = is | are;
+<greeting> = hi | hey | hello;
+<detail> = detail | details | about | on;
+<exam> = movie | game | play | match;
+
+
+
+
+

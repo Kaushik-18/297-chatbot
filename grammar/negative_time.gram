@@ -1,0 +1,23 @@
+#JSGF V1.0;
+grammar Negative;
+
+public <a> = [<greeting>] what <time> [is] [the] <course>;
+public <b> = [<greeting>] what [is] [the] <course> <time>;
+public <c> = [<greeting>] what [is] [the] <time> of [the] <course>;
+public <d> = [<greeting>] when does [the] <course> <meet>;
+public <e> = [<greeting>] when is [the] <course>;
+public <f> = [<greeting>] when is [the] <course> (<meet> | <time>);
+public <g> = [<greeting>] when is [the] <course> <meet> <time>;
+public <h> = [<greeting>] <course> [<meet>] <time>;
+public <i> = [<greeting>] when would [the] <course> (<meet> | be);
+public <j> = [<greeting>] when <course> <meet>;
+
+<greeting> = hi | hey | hello; 
+<time> = time | timing;
+<meet> = meet | start;
+<course> = movie | appointment | play | game | match;
+
+
+
+
+

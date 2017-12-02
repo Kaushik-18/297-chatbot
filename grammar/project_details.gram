@@ -1,4 +1,4 @@
-#JSGF V1.0;
+JSGF V1.0;
 grammar Project_Details;
 
 public <a> = [<greeting>] what <is> [the] <project> <detail>;

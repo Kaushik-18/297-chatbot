@@ -1,0 +1,25 @@
+#JSGF V1.0;
+grammar Negative_Professor_Office_Hours;
+
+public <a> = [<greeting>] what <time> [is] [the] <professor>;
+public <b> = [<greeting>] what [is] [the] <professor> <time>;
+public <c> = [<greeting>] what [is] [the] <time> of [the] <professor>;
+public <d> = [<greeting>] when does [the] <professor> <meet>;
+public <e> = [<greeting>] when is [the] <professor>;
+public <f> = [<greeting>] when is [the] <professor> (<meet> | <time>);
+public <g> = [<greeting>] when is [the] <professor> <meet> <time>;
+public <h> = [<greeting>] <professor> [<meet>] <time>;
+public <i> = [<greeting>] when would [the] <professor> (<meet> | be);
+public <j> = [<greeting>] when <professor> <meet>;
+public <k> = [<greeting>] [I] [want] [to] <professor> <meet>;
+public <l> = [<greeting>] [I] [want] [to] <meet> [the] <professor>;
+
+<greeting> = hi | hey | hello; 
+<time> = time | timing;
+<meet> = meet | start | see;
+<professor> = actor | doctor | player;
+
+
+
+
+

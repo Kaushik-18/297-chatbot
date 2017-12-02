@@ -1,0 +1,14 @@
+#JSGF V1.0;
+grammar NegativeLocation;
+
+public <a> = [<greeting>] where is the (<room> | <course>);
+public <b> = [<greeting>] where is the <course> <room>;
+public <c> = [<greeting>] where does the <course> (meet | take place);
+public <d> = [<greeting>] what is the <room> of [the] <course>;
+
+<greeting> = hi | hey | hello; 
+<room> = theatre | stadium;
+<course> = movie | play | game | appointment | match;
+
+
+
