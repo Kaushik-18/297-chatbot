@@ -21,8 +21,8 @@ uniq_ml_classes = data['uniq_ml_classes']
 processor  =  wp.Word_Processor('../grammar/', uniq_ml_classes)
 
 
-feature_columns=[tf.contrib.layers.real_valued_column(column_name='', dimension=903, default_value=None, dtype=tf.int64, normalizer=None)]
-dnn_clf = tf.contrib.learn.DNNClassifier(hidden_units=[10, 10], n_classes=9, feature_columns=feature_columns, model_dir="./chat_model")
+feature_columns=[tf.contrib.layers.real_valued_column(column_name='', dimension=912, default_value=None, dtype=tf.int64, normalizer=None)]
+dnn_clf = tf.contrib.learn.DNNClassifier(hidden_units=[100, 10], n_classes=15, feature_columns=feature_columns, model_dir="./chat_model")
 
 
 @app.route("/", methods=['POST'])

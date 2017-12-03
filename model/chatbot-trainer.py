@@ -6,7 +6,6 @@
 
 import numpy as np
 import tensorflow as tf
-tf.logging.set_verbosity(tf.logging.INFO)
 import nltk
 from nltk.corpus import stopwords
 from collections import defaultdict
@@ -21,13 +20,13 @@ from nltk.stem import WordNetLemmatizer
 lemmatizer = WordNetLemmatizer()
 
 
-
 # In[2]:
 
 
 ml_classes = ['location', 'professor', 'time', 'professor_office_hours',
               'professor_office_location', 'project_details', 'syllabus',
-              'exam_details', 'fallback']
+              'exam_details', 'about_the_class', 'greeting', 'feeling', 'farewell',
+              'ta', 'fallback']
 
 processor  =  wp.Word_Processor('../grammar/', ml_classes)
 train_X, train_Y, all_uniq_words = processor.words_to_vectors()
@@ -37,12 +36,12 @@ print(train_X.shape)
 print(train_Y.shape)
 
 
-# In[ ]:
+# In[3]:
 
 
 feature_columns = tf.contrib.learn.infer_real_valued_columns_from_input(train_X)
 print(feature_columns)
-dnn_clf = tf.contrib.learn.DNNClassifier(hidden_units=[10, 10], n_classes=9, feature_columns=feature_columns, model_dir="./chat_model")
+dnn_clf = tf.contrib.learn.DNNClassifier(hidden_units=[100, 10], n_classes=15, feature_columns=feature_columns, model_dir="./chat_model")
 dnn_clf.fit(x=train_X, y=train_Y, steps=10000)
 
 
