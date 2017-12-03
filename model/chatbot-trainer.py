@@ -6,6 +6,7 @@
 
 import numpy as np
 import tensorflow as tf
+tf.logging.set_verbosity(tf.logging.INFO)
 import nltk
 from nltk.corpus import stopwords
 from collections import defaultdict
@@ -18,6 +19,7 @@ stemmer = LancasterStemmer()
 
 from nltk.stem import WordNetLemmatizer
 lemmatizer = WordNetLemmatizer()
+
 
 
 # In[2]:
