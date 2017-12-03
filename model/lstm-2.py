@@ -1,8 +1,4 @@
 
-# coding: utf-8
-
-# In[1]:
-
 
 import numpy as np
 import tensorflow as tf
@@ -11,16 +7,9 @@ from tflearn.data_utils import to_categorical, pad_sequences
 import word_preprocessing as wp
 
 
-# In[3]:
-
-
-
 processor  =  wp.Word_Processor('../grammar/')
 ml_classes = wp.ml_classes
 feature_set,class_set,lexicon_size = processor.words_to_vectors()
-
-
-# In[4]:
 
 
 lstm_units = 256
@@ -42,9 +31,6 @@ trainX = np.reshape(trainX, newshape=[trainX.shape[0],trainX.shape[1],1])
 print(trainX.shape, trainY.shape)
 
 
-# In[5]:
-
-
 lstm_net =  tflearn.input_data(shape=[None,lexicon_size,1])
 trainY = to_categorical(trainY, nb_classes=len(ml_classes))
 #lstm_net = tflearn.embedding(lstm_net)
@@ -58,15 +44,17 @@ model = tflearn.DNN(lstm_net, tensorboard_verbose=3)
 model.fit(trainX, trainY,show_metric=True,batch_size= batch_size,n_epoch=10)
 
 
-# In[ ]:
 
-
-test_x = "where is the"
-tr_data = processor.vectorize_input(test_x)
-tr_data = np.reshape(tr_data, newshape=[1,lexicon_size,1])
-predicted_class = model.predict_label(tr_data)
-predicted_values =  model.predict(tr_data)
-print(predicted_class)
-print(predicted_values)
-print(ml_classes[predicted_class[0][0]], predicted_values[0][0])
+while True:
+    tr_data = input('Enter testing string')
+    if tr_data != 'q':
+        tr_data = processor.vectorize_input(test_x)
+        tr_data = np.reshape(tr_data, newshape=[1,lexicon_size,1])
+        predicted_class = model.predict_label(tr_data)
+        predicted_values =  model.predict(tr_data)
+        print(predicted_class)
+        print(predicted_values)
+        print(ml_classes[predicted_class[0][0]], predicted_values[0][0])
+    else:
+        break    
 
