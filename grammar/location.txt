@@ -314,3 +314,83 @@ hello what is the building of the course
 hello what is the building of the CMPE297
 hello what is the building of the Deep Learning
 hello what is the building of the lecture
+which classroom does the class meet
+which classroom does the course meet
+which classroom does the CMPE297 meet
+which classroom does the Deep Learning meet
+which classroom does the lecture meet
+which room does the class meet
+which room does the course meet
+which room does the CMPE297 meet
+which room does the Deep Learning meet
+which room does the lecture meet
+which location does the class meet
+which location does the course meet
+which location does the CMPE297 meet
+which location does the Deep Learning meet
+which location does the lecture meet
+which building does the class meet
+which building does the course meet
+which building does the CMPE297 meet
+which building does the Deep Learning meet
+which building does the lecture meet
+hi which classroom does the class meet
+hi which classroom does the course meet
+hi which classroom does the CMPE297 meet
+hi which classroom does the Deep Learning meet
+hi which classroom does the lecture meet
+hi which room does the class meet
+hi which room does the course meet
+hi which room does the CMPE297 meet
+hi which room does the Deep Learning meet
+hi which room does the lecture meet
+hi which location does the class meet
+hi which location does the course meet
+hi which location does the CMPE297 meet
+hi which location does the Deep Learning meet
+hi which location does the lecture meet
+hi which building does the class meet
+hi which building does the course meet
+hi which building does the CMPE297 meet
+hi which building does the Deep Learning meet
+hi which building does the lecture meet
+hey which classroom does the class meet
+hey which classroom does the course meet
+hey which classroom does the CMPE297 meet
+hey which classroom does the Deep Learning meet
+hey which classroom does the lecture meet
+hey which room does the class meet
+hey which room does the course meet
+hey which room does the CMPE297 meet
+hey which room does the Deep Learning meet
+hey which room does the lecture meet
+hey which location does the class meet
+hey which location does the course meet
+hey which location does the CMPE297 meet
+hey which location does the Deep Learning meet
+hey which location does the lecture meet
+hey which building does the class meet
+hey which building does the course meet
+hey which building does the CMPE297 meet
+hey which building does the Deep Learning meet
+hey which building does the lecture meet
+hello which classroom does the class meet
+hello which classroom does the course meet
+hello which classroom does the CMPE297 meet
+hello which classroom does the Deep Learning meet
+hello which classroom does the lecture meet
+hello which room does the class meet
+hello which room does the course meet
+hello which room does the CMPE297 meet
+hello which room does the Deep Learning meet
+hello which room does the lecture meet
+hello which location does the class meet
+hello which location does the course meet
+hello which location does the CMPE297 meet
+hello which location does the Deep Learning meet
+hello which location does the lecture meet
+hello which building does the class meet
+hello which building does the course meet
+hello which building does the CMPE297 meet
+hello which building does the Deep Learning meet
+hello which building does the lecture meet

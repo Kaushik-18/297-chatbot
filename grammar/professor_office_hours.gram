@@ -1,23 +1,29 @@
 #JSGF V1.0;
 grammar Professor_Office_Hours;
 
-public <a> = [<greeting>] what <time> [is] [the] <professor>;
-public <b> = [<greeting>] what [is] [the] <professor> <time>;
-public <c> = [<greeting>] what [is] [the] <time> of [the] <professor>;
-public <d> = [<greeting>] when does [the] <professor> <meet>;
-public <e> = [<greeting>] when is [the] <professor>;
-public <f> = [<greeting>] when is [the] <professor> (<meet> | <time>);
-public <g> = [<greeting>] when is [the] <professor> <meet> <time>;
-public <h> = [<greeting>] <professor> [<meet>] <time>;
-public <i> = [<greeting>] when would [the] <professor> (<meet> | be);
-public <j> = [<greeting>] when <professor> <meet>;
-public <k> = [<greeting>] [I] [want] [to] <professor> <meet>;
-public <l> = [<greeting>] [I] [want] [to] <meet> [the] <professor>;
+//public <a> = [<greeting>] what <time> [is] [the] <professor>;
+//public <b> = [<greeting>] what [is] [the] <professor> <time>;
+//public <c> = [<greeting>] what [is] [the] <time> of [the] <professor>;
+//public <d> = [<greeting>] when does [the] <professor> <meet>;
+//public <f> = [<greeting>] when is [the] <professor> (<meet> | <time>);
+//public <g> = [<greeting>] when is [the] <professor> <meet> <time>;
+//public <h> = [<greeting>] <professor> [<meet>] <time>;
+//public <i> = [<greeting>] when would [the] <professor> (<meet> | be);
+//public <j> = [<greeting>] when <professor> <meet>;
+//public <l> = [<greeting>] [I] [want] [to] <meet> [the] <professor>;
+//public <l> = [<greeting>] what are [the]<professor> office;
 
+public <a> = [<greeting>] what are the <professor> <time>;
+public <b> = [<greeting>] when can <person> <meet><professor>; 
+//public <c> = [<greeting>] when can <person> <meet> <>; 
+public<d> = [<greeting>] when will the <professor> be available;
+
+
+<person> = we | I;
 <greeting> = hi | hey | hello; 
-<time> = time | timing;
-<meet> = meet | start | see;
-<professor> = sir | professor | professors | teacher;
+<time> = office time | office timing |office hours ;
+<meet> = meet | see;
+<professor> = sir | professor | teacher;
 
 
 

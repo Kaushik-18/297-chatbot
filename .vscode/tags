@@ -18,7 +18,7 @@ OptionalGrouping	../grammar/JSGFParser.py	/^OptionalGrouping = (Literal('[').sup
 Rule	../grammar/JSGFGrammar.py	/^class Rule():$/;"	kind:class	line:87
 Sequence	../grammar/JSGFParser.py	/^Sequence = Forward()$/;"	kind:variable	line:175
 StartSymbol	../grammar/JSGFParser.py	/^StartSymbol = Optional(Literal('public')).setResultsName('public') + nonterminal.setResultsName('identifier') + Literal('=').suppress() + Group(topLevel).setResultsName('ruleDef') + Literal(';').suppress() + stringEnd$/;"	kind:variable	line:188
-Word_Processor	../model/word_preprocessing.py	/^class Word_Processor:$/;"	kind:class	line:19
+Word_Processor	../model/word_preprocessing.py	/^class Word_Processor:$/;"	kind:class	line:21
 __getitem__	../grammar/JSGFGrammar.py	/^    def __getitem__(self):$/;"	kind:member	line:48
 __getitem__	../grammar/JSGFGrammar.py	/^    def __getitem__(self):$/;"	kind:member	line:66
 __getitem__	../grammar/JSGFGrammar.py	/^    def __getitem__(self):$/;"	kind:member	line:83
@@ -30,7 +30,7 @@ __init__	../grammar/JSGFGrammar.py	/^    def __init__(self, lhs):$/;"	kind:membe
 __init__	../grammar/JSGFGrammar.py	/^    def __init__(self, lhs, rhs):$/;"	kind:member	line:107
 __init__	../grammar/JSGFGrammar.py	/^    def __init__(self, ntName):$/;"	kind:member	line:74
 __init__	../grammar/JSGFGrammar.py	/^    def __init__(self, option):$/;"	kind:member	line:57
-__init__	../model/word_preprocessing.py	/^    def __init__(self, folder_path):$/;"	kind:member	line:20
+__init__	../model/word_preprocessing.py	/^    def __init__(self, folder_path):$/;"	kind:member	line:22
 __init__.py	../grammar/__init__.py	1;"	kind:file	line:1
 __repr__	../grammar/JSGFGrammar.py	/^    def __repr__(self):$/;"	kind:member	line:117
 __repr__	../grammar/JSGFGrammar.py	/^    def __repr__(self):$/;"	kind:member	line:45
@@ -76,19 +76,19 @@ lemmatizer	../model/chatbot-trainer.py	/^lemmatizer = WordNetLemmatizer()$/;"	ki
 lemmatizer	../model/word_preprocessing.py	/^lemmatizer = WordNetLemmatizer()$/;"	kind:variable	line:14
 lines	../model/chatbot-trainer.py	/^        lines = file.read().splitlines()$/;"	kind:variable	line:29
 ml_classes	../model/chatbot-trainer.py	/^ml_classes = ['location', 'professor', 'time']$/;"	kind:variable	line:25
-ml_classes	../model/word_preprocessing.py	/^ml_classes = ['location', 'professor', 'time']$/;"	kind:variable	line:16
+ml_classes	../model/word_preprocessing.py	/^ml_classes = ['location', 'professor', 'time', 'professor_office_hours',$/;"	kind:variable	line:16
 nocomment	../grammar/JSGFParser.py	/^def nocomment(oldline):$/;"	kind:function	line:198
 nonterminal	../grammar/JSGFParser.py	/^nonterminal = Combine(Literal('<') + Word(alphanums+'$_:;,=|\/\\\\()[]@#%!^&~') + Literal('>')).setParseAction(foundNonterminal).setResultsName('NonTerminal')$/;"	kind:variable	line:173
 preprocess	../model/chatbot-predictor.py	/^def preprocess(sentence):$/;"	kind:function	line:23
 preprocess	../model/chatbot-trainer.py	/^def preprocess(sentence):$/;"	kind:function	line:39
-preprocess	../model/word_preprocessing.py	/^    def preprocess(self, sentence):$/;"	kind:member	line:29
+preprocess	../model/word_preprocessing.py	/^    def preprocess(self, sentence):$/;"	kind:member	line:31
 processDisjunction	../grammar/DeterministicGenerator.py	/^def processDisjunction(disj):$/;"	kind:function	line:78
 processNonTerminal	../grammar/DeterministicGenerator.py	/^def processNonTerminal(nt):$/;"	kind:function	line:72
 processOptional	../grammar/DeterministicGenerator.py	/^def processOptional(opt):$/;"	kind:function	line:93
 processRHS	../grammar/DeterministicGenerator.py	/^def processRHS(rhs):$/;"	kind:function	line:104
 processSequence	../grammar/DeterministicGenerator.py	/^def processSequence(seq):$/;"	kind:function	line:62
 processed_tokens	../model/chatbot-trainer.py	/^        processed_tokens = preprocess(line)$/;"	kind:variable	line:51
-procs	../model/word_preprocessing.py	/^    procs = Word_Processor('..\/grammar\/')$/;"	kind:variable	line:73
+procs	../model/word_preprocessing.py	/^    procs = Word_Processor('..\/grammar\/')$/;"	kind:variable	line:76
 sentences	../model/chatbot-trainer.py	/^sentences = []$/;"	kind:variable	line:37
 stemmer	../model/chatbot-predictor.py	/^stemmer = LancasterStemmer()$/;"	kind:variable	line:13
 stemmer	../model/chatbot-trainer.py	/^stemmer = LancasterStemmer()$/;"	kind:variable	line:16
@@ -111,13 +111,13 @@ uniq_ml_classes	../model/chatbot-trainer.py	/^uniq_ml_classes = list(set(ml_clas
 usePackrat	../grammar/JSGFParser.py	/^usePackrat = True$/;"	kind:variable	line:68
 vectorize	../model/chatbot-predictor.py	/^def vectorize(token_set, all_uniq_words):$/;"	kind:function	line:32
 vectorize	../model/chatbot-trainer.py	/^def vectorize(token_set, all_uniq_words):$/;"	kind:function	line:62
-vectorize	../model/word_preprocessing.py	/^    def vectorize(self, token_set, all_uniq_words):$/;"	kind:member	line:39
-vectorize_input	../model/word_preprocessing.py	/^    def vectorize_input(self, sentence):$/;"	kind:member	line:67
+vectorize	../model/word_preprocessing.py	/^    def vectorize(self, token_set, all_uniq_words):$/;"	kind:member	line:41
+vectorize_input	../model/word_preprocessing.py	/^    def vectorize_input(self, sentence):$/;"	kind:member	line:69
 weight	../grammar/JSGFParser.py	/^weight = (Literal('\/').suppress() + (Word(nums + '.')).setResultsName('weightAmount') + Literal('\/').suppress()).setParseAction(foundWeight).setResultsName("weight")$/;"	kind:variable	line:167
 weightAlternatives	../grammar/JSGFParser.py	/^weightAlternatives = Forward()$/;"	kind:variable	line:179
 weightedExpression	../grammar/JSGFParser.py	/^weightedExpression = (weight + Group(Sequence).setResultsName("expr")).setResultsName('weightedExpression').setParseAction(foundWeightedExpression)$/;"	kind:variable	line:177
 weightedPrime	../grammar/JSGFParser.py	/^weightedPrime = Literal('|').suppress() + weightAlternatives$/;"	kind:variable	line:180
 word_preprocessing.py	../model/word_preprocessing.py	1;"	kind:file	line:1
-words_to_vectors	../model/word_preprocessing.py	/^    def words_to_vectors(self):$/;"	kind:member	line:42
+words_to_vectors	../model/word_preprocessing.py	/^    def words_to_vectors(self):$/;"	kind:member	line:44
 x	../model/chatbot-predictor.py	/^x = vectorize(token_set, all_uniq_words)$/;"	kind:variable	line:59
 y_pred	../model/chatbot-predictor.py	/^y_pred = list(dnn_clf.predict(test_X))$/;"	kind:variable	line:61

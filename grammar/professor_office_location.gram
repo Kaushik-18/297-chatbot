@@ -1,14 +1,12 @@
 #JSGF V1.0;
 grammar Professor_Office_Location;
 
-public <a> = [<greeting>] where is [the] <noun> (<room>);
-public <b> = [<greeting>] where [does] [the] <noun> <grammer>;
-public <c> = [<greeting>] what is the <room> of [the] <noun>;
-public <d> = [<greeting>] [tell] [me] [the] <noun> (<room>);
+public <a> = [<greeting>] where is [the] <noun> <room>;
+public <c> = [<greeting>] [please] tell (me|us) [the] <noun> <room>;
 
 <greeting> = hi | hey | hello; 
 <room> = office | room | location | building;
 <grammer> = sit | located | situated;
-<noun> = sir | professor | professors | teacher;
+<noun> = sir| professor  | teacher;
 
 

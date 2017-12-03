@@ -1,1360 +1,340 @@
-what time class
-what time course
-what time CMPE297
-what time Deep Learning
-what time lecture
-what time the class
-what time the course
-what time the CMPE297
-what time the Deep Learning
-what time the lecture
-what time is class
-what time is course
-what time is CMPE297
-what time is Deep Learning
-what time is lecture
+tell me class time
+tell me class timing
+tell me course time
+tell me course timing
+tell me CMPE297 time
+tell me CMPE297 timing
+tell me Deep Learning time
+tell me Deep Learning timing
+tell me lecture time
+tell me lecture timing
+give me class time
+give me class timing
+give me course time
+give me course timing
+give me CMPE297 time
+give me CMPE297 timing
+give me Deep Learning time
+give me Deep Learning timing
+give me lecture time
+give me lecture timing
+please tell me class time
+please tell me class timing
+please tell me course time
+please tell me course timing
+please tell me CMPE297 time
+please tell me CMPE297 timing
+please tell me Deep Learning time
+please tell me Deep Learning timing
+please tell me lecture time
+please tell me lecture timing
+please give me class time
+please give me class timing
+please give me course time
+please give me course timing
+please give me CMPE297 time
+please give me CMPE297 timing
+please give me Deep Learning time
+please give me Deep Learning timing
+please give me lecture time
+please give me lecture timing
+hi tell me class time
+hi tell me class timing
+hi tell me course time
+hi tell me course timing
+hi tell me CMPE297 time
+hi tell me CMPE297 timing
+hi tell me Deep Learning time
+hi tell me Deep Learning timing
+hi tell me lecture time
+hi tell me lecture timing
+hi give me class time
+hi give me class timing
+hi give me course time
+hi give me course timing
+hi give me CMPE297 time
+hi give me CMPE297 timing
+hi give me Deep Learning time
+hi give me Deep Learning timing
+hi give me lecture time
+hi give me lecture timing
+hi please tell me class time
+hi please tell me class timing
+hi please tell me course time
+hi please tell me course timing
+hi please tell me CMPE297 time
+hi please tell me CMPE297 timing
+hi please tell me Deep Learning time
+hi please tell me Deep Learning timing
+hi please tell me lecture time
+hi please tell me lecture timing
+hi please give me class time
+hi please give me class timing
+hi please give me course time
+hi please give me course timing
+hi please give me CMPE297 time
+hi please give me CMPE297 timing
+hi please give me Deep Learning time
+hi please give me Deep Learning timing
+hi please give me lecture time
+hi please give me lecture timing
+hey tell me class time
+hey tell me class timing
+hey tell me course time
+hey tell me course timing
+hey tell me CMPE297 time
+hey tell me CMPE297 timing
+hey tell me Deep Learning time
+hey tell me Deep Learning timing
+hey tell me lecture time
+hey tell me lecture timing
+hey give me class time
+hey give me class timing
+hey give me course time
+hey give me course timing
+hey give me CMPE297 time
+hey give me CMPE297 timing
+hey give me Deep Learning time
+hey give me Deep Learning timing
+hey give me lecture time
+hey give me lecture timing
+hey please tell me class time
+hey please tell me class timing
+hey please tell me course time
+hey please tell me course timing
+hey please tell me CMPE297 time
+hey please tell me CMPE297 timing
+hey please tell me Deep Learning time
+hey please tell me Deep Learning timing
+hey please tell me lecture time
+hey please tell me lecture timing
+hey please give me class time
+hey please give me class timing
+hey please give me course time
+hey please give me course timing
+hey please give me CMPE297 time
+hey please give me CMPE297 timing
+hey please give me Deep Learning time
+hey please give me Deep Learning timing
+hey please give me lecture time
+hey please give me lecture timing
+hello tell me class time
+hello tell me class timing
+hello tell me course time
+hello tell me course timing
+hello tell me CMPE297 time
+hello tell me CMPE297 timing
+hello tell me Deep Learning time
+hello tell me Deep Learning timing
+hello tell me lecture time
+hello tell me lecture timing
+hello give me class time
+hello give me class timing
+hello give me course time
+hello give me course timing
+hello give me CMPE297 time
+hello give me CMPE297 timing
+hello give me Deep Learning time
+hello give me Deep Learning timing
+hello give me lecture time
+hello give me lecture timing
+hello please tell me class time
+hello please tell me class timing
+hello please tell me course time
+hello please tell me course timing
+hello please tell me CMPE297 time
+hello please tell me CMPE297 timing
+hello please tell me Deep Learning time
+hello please tell me Deep Learning timing
+hello please tell me lecture time
+hello please tell me lecture timing
+hello please give me class time
+hello please give me class timing
+hello please give me course time
+hello please give me course timing
+hello please give me CMPE297 time
+hello please give me CMPE297 timing
+hello please give me Deep Learning time
+hello please give me Deep Learning timing
+hello please give me lecture time
+hello please give me lecture timing
+when will the class meet
+when will the class start
+hi when will the class meet
+hi when will the class start
+hey when will the class meet
+hey when will the class start
+hello when will the class meet
+hello when will the class start
+give class time
+give class timing
+give course time
+give course timing
+give CMPE297 time
+give CMPE297 timing
+give Deep Learning time
+give Deep Learning timing
+give lecture time
+give lecture timing
+give the class time
+give the class timing
+give the course time
+give the course timing
+give the CMPE297 time
+give the CMPE297 timing
+give the Deep Learning time
+give the Deep Learning timing
+give the lecture time
+give the lecture timing
+please give class time
+please give class timing
+please give course time
+please give course timing
+please give CMPE297 time
+please give CMPE297 timing
+please give Deep Learning time
+please give Deep Learning timing
+please give lecture time
+please give lecture timing
+please give the class time
+please give the class timing
+please give the course time
+please give the course timing
+please give the CMPE297 time
+please give the CMPE297 timing
+please give the Deep Learning time
+please give the Deep Learning timing
+please give the lecture time
+please give the lecture timing
+hi give class time
+hi give class timing
+hi give course time
+hi give course timing
+hi give CMPE297 time
+hi give CMPE297 timing
+hi give Deep Learning time
+hi give Deep Learning timing
+hi give lecture time
+hi give lecture timing
+hi give the class time
+hi give the class timing
+hi give the course time
+hi give the course timing
+hi give the CMPE297 time
+hi give the CMPE297 timing
+hi give the Deep Learning time
+hi give the Deep Learning timing
+hi give the lecture time
+hi give the lecture timing
+hi please give class time
+hi please give class timing
+hi please give course time
+hi please give course timing
+hi please give CMPE297 time
+hi please give CMPE297 timing
+hi please give Deep Learning time
+hi please give Deep Learning timing
+hi please give lecture time
+hi please give lecture timing
+hi please give the class time
+hi please give the class timing
+hi please give the course time
+hi please give the course timing
+hi please give the CMPE297 time
+hi please give the CMPE297 timing
+hi please give the Deep Learning time
+hi please give the Deep Learning timing
+hi please give the lecture time
+hi please give the lecture timing
+hey give class time
+hey give class timing
+hey give course time
+hey give course timing
+hey give CMPE297 time
+hey give CMPE297 timing
+hey give Deep Learning time
+hey give Deep Learning timing
+hey give lecture time
+hey give lecture timing
+hey give the class time
+hey give the class timing
+hey give the course time
+hey give the course timing
+hey give the CMPE297 time
+hey give the CMPE297 timing
+hey give the Deep Learning time
+hey give the Deep Learning timing
+hey give the lecture time
+hey give the lecture timing
+hey please give class time
+hey please give class timing
+hey please give course time
+hey please give course timing
+hey please give CMPE297 time
+hey please give CMPE297 timing
+hey please give Deep Learning time
+hey please give Deep Learning timing
+hey please give lecture time
+hey please give lecture timing
+hey please give the class time
+hey please give the class timing
+hey please give the course time
+hey please give the course timing
+hey please give the CMPE297 time
+hey please give the CMPE297 timing
+hey please give the Deep Learning time
+hey please give the Deep Learning timing
+hey please give the lecture time
+hey please give the lecture timing
+hello give class time
+hello give class timing
+hello give course time
+hello give course timing
+hello give CMPE297 time
+hello give CMPE297 timing
+hello give Deep Learning time
+hello give Deep Learning timing
+hello give lecture time
+hello give lecture timing
+hello give the class time
+hello give the class timing
+hello give the course time
+hello give the course timing
+hello give the CMPE297 time
+hello give the CMPE297 timing
+hello give the Deep Learning time
+hello give the Deep Learning timing
+hello give the lecture time
+hello give the lecture timing
+hello please give class time
+hello please give class timing
+hello please give course time
+hello please give course timing
+hello please give CMPE297 time
+hello please give CMPE297 timing
+hello please give Deep Learning time
+hello please give Deep Learning timing
+hello please give lecture time
+hello please give lecture timing
+hello please give the class time
+hello please give the class timing
+hello please give the course time
+hello please give the course timing
+hello please give the CMPE297 time
+hello please give the CMPE297 timing
+hello please give the Deep Learning time
+hello please give the Deep Learning timing
+hello please give the lecture time
+hello please give the lecture timing
 what time is the class
 what time is the course
-what time is the CMPE297
-what time is the Deep Learning
 what time is the lecture
-what timing class
-what timing course
-what timing CMPE297
-what timing Deep Learning
-what timing lecture
-what timing the class
-what timing the course
-what timing the CMPE297
-what timing the Deep Learning
-what timing the lecture
-what timing is class
-what timing is course
-what timing is CMPE297
-what timing is Deep Learning
-what timing is lecture
-what timing is the class
-what timing is the course
-what timing is the CMPE297
-what timing is the Deep Learning
-what timing is the lecture
-hi what time class
-hi what time course
-hi what time CMPE297
-hi what time Deep Learning
-hi what time lecture
-hi what time the class
-hi what time the course
-hi what time the CMPE297
-hi what time the Deep Learning
-hi what time the lecture
-hi what time is class
-hi what time is course
-hi what time is CMPE297
-hi what time is Deep Learning
-hi what time is lecture
 hi what time is the class
 hi what time is the course
-hi what time is the CMPE297
-hi what time is the Deep Learning
 hi what time is the lecture
-hi what timing class
-hi what timing course
-hi what timing CMPE297
-hi what timing Deep Learning
-hi what timing lecture
-hi what timing the class
-hi what timing the course
-hi what timing the CMPE297
-hi what timing the Deep Learning
-hi what timing the lecture
-hi what timing is class
-hi what timing is course
-hi what timing is CMPE297
-hi what timing is Deep Learning
-hi what timing is lecture
-hi what timing is the class
-hi what timing is the course
-hi what timing is the CMPE297
-hi what timing is the Deep Learning
-hi what timing is the lecture
-hey what time class
-hey what time course
-hey what time CMPE297
-hey what time Deep Learning
-hey what time lecture
-hey what time the class
-hey what time the course
-hey what time the CMPE297
-hey what time the Deep Learning
-hey what time the lecture
-hey what time is class
-hey what time is course
-hey what time is CMPE297
-hey what time is Deep Learning
-hey what time is lecture
 hey what time is the class
 hey what time is the course
-hey what time is the CMPE297
-hey what time is the Deep Learning
 hey what time is the lecture
-hey what timing class
-hey what timing course
-hey what timing CMPE297
-hey what timing Deep Learning
-hey what timing lecture
-hey what timing the class
-hey what timing the course
-hey what timing the CMPE297
-hey what timing the Deep Learning
-hey what timing the lecture
-hey what timing is class
-hey what timing is course
-hey what timing is CMPE297
-hey what timing is Deep Learning
-hey what timing is lecture
-hey what timing is the class
-hey what timing is the course
-hey what timing is the CMPE297
-hey what timing is the Deep Learning
-hey what timing is the lecture
-hello what time class
-hello what time course
-hello what time CMPE297
-hello what time Deep Learning
-hello what time lecture
-hello what time the class
-hello what time the course
-hello what time the CMPE297
-hello what time the Deep Learning
-hello what time the lecture
-hello what time is class
-hello what time is course
-hello what time is CMPE297
-hello what time is Deep Learning
-hello what time is lecture
 hello what time is the class
 hello what time is the course
-hello what time is the CMPE297
-hello what time is the Deep Learning
 hello what time is the lecture
-hello what timing class
-hello what timing course
-hello what timing CMPE297
-hello what timing Deep Learning
-hello what timing lecture
-hello what timing the class
-hello what timing the course
-hello what timing the CMPE297
-hello what timing the Deep Learning
-hello what timing the lecture
-hello what timing is class
-hello what timing is course
-hello what timing is CMPE297
-hello what timing is Deep Learning
-hello what timing is lecture
-hello what timing is the class
-hello what timing is the course
-hello what timing is the CMPE297
-hello what timing is the Deep Learning
-hello what timing is the lecture
-what class time
-what class timing
-what course time
-what course timing
-what CMPE297 time
-what CMPE297 timing
-what Deep Learning time
-what Deep Learning timing
-what lecture time
-what lecture timing
-what the class time
-what the class timing
-what the course time
-what the course timing
-what the CMPE297 time
-what the CMPE297 timing
-what the Deep Learning time
-what the Deep Learning timing
-what the lecture time
-what the lecture timing
-what is class time
-what is class timing
-what is course time
-what is course timing
-what is CMPE297 time
-what is CMPE297 timing
-what is Deep Learning time
-what is Deep Learning timing
-what is lecture time
-what is lecture timing
-what is the class time
-what is the class timing
-what is the course time
-what is the course timing
-what is the CMPE297 time
-what is the CMPE297 timing
-what is the Deep Learning time
-what is the Deep Learning timing
-what is the lecture time
-what is the lecture timing
-hi what class time
-hi what class timing
-hi what course time
-hi what course timing
-hi what CMPE297 time
-hi what CMPE297 timing
-hi what Deep Learning time
-hi what Deep Learning timing
-hi what lecture time
-hi what lecture timing
-hi what the class time
-hi what the class timing
-hi what the course time
-hi what the course timing
-hi what the CMPE297 time
-hi what the CMPE297 timing
-hi what the Deep Learning time
-hi what the Deep Learning timing
-hi what the lecture time
-hi what the lecture timing
-hi what is class time
-hi what is class timing
-hi what is course time
-hi what is course timing
-hi what is CMPE297 time
-hi what is CMPE297 timing
-hi what is Deep Learning time
-hi what is Deep Learning timing
-hi what is lecture time
-hi what is lecture timing
-hi what is the class time
-hi what is the class timing
-hi what is the course time
-hi what is the course timing
-hi what is the CMPE297 time
-hi what is the CMPE297 timing
-hi what is the Deep Learning time
-hi what is the Deep Learning timing
-hi what is the lecture time
-hi what is the lecture timing
-hey what class time
-hey what class timing
-hey what course time
-hey what course timing
-hey what CMPE297 time
-hey what CMPE297 timing
-hey what Deep Learning time
-hey what Deep Learning timing
-hey what lecture time
-hey what lecture timing
-hey what the class time
-hey what the class timing
-hey what the course time
-hey what the course timing
-hey what the CMPE297 time
-hey what the CMPE297 timing
-hey what the Deep Learning time
-hey what the Deep Learning timing
-hey what the lecture time
-hey what the lecture timing
-hey what is class time
-hey what is class timing
-hey what is course time
-hey what is course timing
-hey what is CMPE297 time
-hey what is CMPE297 timing
-hey what is Deep Learning time
-hey what is Deep Learning timing
-hey what is lecture time
-hey what is lecture timing
-hey what is the class time
-hey what is the class timing
-hey what is the course time
-hey what is the course timing
-hey what is the CMPE297 time
-hey what is the CMPE297 timing
-hey what is the Deep Learning time
-hey what is the Deep Learning timing
-hey what is the lecture time
-hey what is the lecture timing
-hello what class time
-hello what class timing
-hello what course time
-hello what course timing
-hello what CMPE297 time
-hello what CMPE297 timing
-hello what Deep Learning time
-hello what Deep Learning timing
-hello what lecture time
-hello what lecture timing
-hello what the class time
-hello what the class timing
-hello what the course time
-hello what the course timing
-hello what the CMPE297 time
-hello what the CMPE297 timing
-hello what the Deep Learning time
-hello what the Deep Learning timing
-hello what the lecture time
-hello what the lecture timing
-hello what is class time
-hello what is class timing
-hello what is course time
-hello what is course timing
-hello what is CMPE297 time
-hello what is CMPE297 timing
-hello what is Deep Learning time
-hello what is Deep Learning timing
-hello what is lecture time
-hello what is lecture timing
-hello what is the class time
-hello what is the class timing
-hello what is the course time
-hello what is the course timing
-hello what is the CMPE297 time
-hello what is the CMPE297 timing
-hello what is the Deep Learning time
-hello what is the Deep Learning timing
-hello what is the lecture time
-hello what is the lecture timing
-what time of class
-what time of course
-what time of CMPE297
-what time of Deep Learning
-what time of lecture
-what time of the class
-what time of the course
-what time of the CMPE297
-what time of the Deep Learning
-what time of the lecture
-what timing of class
-what timing of course
-what timing of CMPE297
-what timing of Deep Learning
-what timing of lecture
-what timing of the class
-what timing of the course
-what timing of the CMPE297
-what timing of the Deep Learning
-what timing of the lecture
-what the time of class
-what the time of course
-what the time of CMPE297
-what the time of Deep Learning
-what the time of lecture
-what the time of the class
-what the time of the course
-what the time of the CMPE297
-what the time of the Deep Learning
-what the time of the lecture
-what the timing of class
-what the timing of course
-what the timing of CMPE297
-what the timing of Deep Learning
-what the timing of lecture
-what the timing of the class
-what the timing of the course
-what the timing of the CMPE297
-what the timing of the Deep Learning
-what the timing of the lecture
-what is time of class
-what is time of course
-what is time of CMPE297
-what is time of Deep Learning
-what is time of lecture
-what is time of the class
-what is time of the course
-what is time of the CMPE297
-what is time of the Deep Learning
-what is time of the lecture
-what is timing of class
-what is timing of course
-what is timing of CMPE297
-what is timing of Deep Learning
-what is timing of lecture
-what is timing of the class
-what is timing of the course
-what is timing of the CMPE297
-what is timing of the Deep Learning
-what is timing of the lecture
-what is the time of class
-what is the time of course
-what is the time of CMPE297
-what is the time of Deep Learning
-what is the time of lecture
-what is the time of the class
-what is the time of the course
-what is the time of the CMPE297
-what is the time of the Deep Learning
-what is the time of the lecture
-what is the timing of class
-what is the timing of course
-what is the timing of CMPE297
-what is the timing of Deep Learning
-what is the timing of lecture
-what is the timing of the class
-what is the timing of the course
-what is the timing of the CMPE297
-what is the timing of the Deep Learning
-what is the timing of the lecture
-hi what time of class
-hi what time of course
-hi what time of CMPE297
-hi what time of Deep Learning
-hi what time of lecture
-hi what time of the class
-hi what time of the course
-hi what time of the CMPE297
-hi what time of the Deep Learning
-hi what time of the lecture
-hi what timing of class
-hi what timing of course
-hi what timing of CMPE297
-hi what timing of Deep Learning
-hi what timing of lecture
-hi what timing of the class
-hi what timing of the course
-hi what timing of the CMPE297
-hi what timing of the Deep Learning
-hi what timing of the lecture
-hi what the time of class
-hi what the time of course
-hi what the time of CMPE297
-hi what the time of Deep Learning
-hi what the time of lecture
-hi what the time of the class
-hi what the time of the course
-hi what the time of the CMPE297
-hi what the time of the Deep Learning
-hi what the time of the lecture
-hi what the timing of class
-hi what the timing of course
-hi what the timing of CMPE297
-hi what the timing of Deep Learning
-hi what the timing of lecture
-hi what the timing of the class
-hi what the timing of the course
-hi what the timing of the CMPE297
-hi what the timing of the Deep Learning
-hi what the timing of the lecture
-hi what is time of class
-hi what is time of course
-hi what is time of CMPE297
-hi what is time of Deep Learning
-hi what is time of lecture
-hi what is time of the class
-hi what is time of the course
-hi what is time of the CMPE297
-hi what is time of the Deep Learning
-hi what is time of the lecture
-hi what is timing of class
-hi what is timing of course
-hi what is timing of CMPE297
-hi what is timing of Deep Learning
-hi what is timing of lecture
-hi what is timing of the class
-hi what is timing of the course
-hi what is timing of the CMPE297
-hi what is timing of the Deep Learning
-hi what is timing of the lecture
-hi what is the time of class
-hi what is the time of course
-hi what is the time of CMPE297
-hi what is the time of Deep Learning
-hi what is the time of lecture
-hi what is the time of the class
-hi what is the time of the course
-hi what is the time of the CMPE297
-hi what is the time of the Deep Learning
-hi what is the time of the lecture
-hi what is the timing of class
-hi what is the timing of course
-hi what is the timing of CMPE297
-hi what is the timing of Deep Learning
-hi what is the timing of lecture
-hi what is the timing of the class
-hi what is the timing of the course
-hi what is the timing of the CMPE297
-hi what is the timing of the Deep Learning
-hi what is the timing of the lecture
-hey what time of class
-hey what time of course
-hey what time of CMPE297
-hey what time of Deep Learning
-hey what time of lecture
-hey what time of the class
-hey what time of the course
-hey what time of the CMPE297
-hey what time of the Deep Learning
-hey what time of the lecture
-hey what timing of class
-hey what timing of course
-hey what timing of CMPE297
-hey what timing of Deep Learning
-hey what timing of lecture
-hey what timing of the class
-hey what timing of the course
-hey what timing of the CMPE297
-hey what timing of the Deep Learning
-hey what timing of the lecture
-hey what the time of class
-hey what the time of course
-hey what the time of CMPE297
-hey what the time of Deep Learning
-hey what the time of lecture
-hey what the time of the class
-hey what the time of the course
-hey what the time of the CMPE297
-hey what the time of the Deep Learning
-hey what the time of the lecture
-hey what the timing of class
-hey what the timing of course
-hey what the timing of CMPE297
-hey what the timing of Deep Learning
-hey what the timing of lecture
-hey what the timing of the class
-hey what the timing of the course
-hey what the timing of the CMPE297
-hey what the timing of the Deep Learning
-hey what the timing of the lecture
-hey what is time of class
-hey what is time of course
-hey what is time of CMPE297
-hey what is time of Deep Learning
-hey what is time of lecture
-hey what is time of the class
-hey what is time of the course
-hey what is time of the CMPE297
-hey what is time of the Deep Learning
-hey what is time of the lecture
-hey what is timing of class
-hey what is timing of course
-hey what is timing of CMPE297
-hey what is timing of Deep Learning
-hey what is timing of lecture
-hey what is timing of the class
-hey what is timing of the course
-hey what is timing of the CMPE297
-hey what is timing of the Deep Learning
-hey what is timing of the lecture
-hey what is the time of class
-hey what is the time of course
-hey what is the time of CMPE297
-hey what is the time of Deep Learning
-hey what is the time of lecture
-hey what is the time of the class
-hey what is the time of the course
-hey what is the time of the CMPE297
-hey what is the time of the Deep Learning
-hey what is the time of the lecture
-hey what is the timing of class
-hey what is the timing of course
-hey what is the timing of CMPE297
-hey what is the timing of Deep Learning
-hey what is the timing of lecture
-hey what is the timing of the class
-hey what is the timing of the course
-hey what is the timing of the CMPE297
-hey what is the timing of the Deep Learning
-hey what is the timing of the lecture
-hello what time of class
-hello what time of course
-hello what time of CMPE297
-hello what time of Deep Learning
-hello what time of lecture
-hello what time of the class
-hello what time of the course
-hello what time of the CMPE297
-hello what time of the Deep Learning
-hello what time of the lecture
-hello what timing of class
-hello what timing of course
-hello what timing of CMPE297
-hello what timing of Deep Learning
-hello what timing of lecture
-hello what timing of the class
-hello what timing of the course
-hello what timing of the CMPE297
-hello what timing of the Deep Learning
-hello what timing of the lecture
-hello what the time of class
-hello what the time of course
-hello what the time of CMPE297
-hello what the time of Deep Learning
-hello what the time of lecture
-hello what the time of the class
-hello what the time of the course
-hello what the time of the CMPE297
-hello what the time of the Deep Learning
-hello what the time of the lecture
-hello what the timing of class
-hello what the timing of course
-hello what the timing of CMPE297
-hello what the timing of Deep Learning
-hello what the timing of lecture
-hello what the timing of the class
-hello what the timing of the course
-hello what the timing of the CMPE297
-hello what the timing of the Deep Learning
-hello what the timing of the lecture
-hello what is time of class
-hello what is time of course
-hello what is time of CMPE297
-hello what is time of Deep Learning
-hello what is time of lecture
-hello what is time of the class
-hello what is time of the course
-hello what is time of the CMPE297
-hello what is time of the Deep Learning
-hello what is time of the lecture
-hello what is timing of class
-hello what is timing of course
-hello what is timing of CMPE297
-hello what is timing of Deep Learning
-hello what is timing of lecture
-hello what is timing of the class
-hello what is timing of the course
-hello what is timing of the CMPE297
-hello what is timing of the Deep Learning
-hello what is timing of the lecture
-hello what is the time of class
-hello what is the time of course
-hello what is the time of CMPE297
-hello what is the time of Deep Learning
-hello what is the time of lecture
-hello what is the time of the class
-hello what is the time of the course
-hello what is the time of the CMPE297
-hello what is the time of the Deep Learning
-hello what is the time of the lecture
-hello what is the timing of class
-hello what is the timing of course
-hello what is the timing of CMPE297
-hello what is the timing of Deep Learning
-hello what is the timing of lecture
-hello what is the timing of the class
-hello what is the timing of the course
-hello what is the timing of the CMPE297
-hello what is the timing of the Deep Learning
-hello what is the timing of the lecture
-when does class meet
-when does class start
-when does course meet
-when does course start
-when does CMPE297 meet
-when does CMPE297 start
-when does Deep Learning meet
-when does Deep Learning start
-when does lecture meet
-when does lecture start
-when does the class meet
-when does the class start
-when does the course meet
-when does the course start
-when does the CMPE297 meet
-when does the CMPE297 start
-when does the Deep Learning meet
-when does the Deep Learning start
-when does the lecture meet
-when does the lecture start
-hi when does class meet
-hi when does class start
-hi when does course meet
-hi when does course start
-hi when does CMPE297 meet
-hi when does CMPE297 start
-hi when does Deep Learning meet
-hi when does Deep Learning start
-hi when does lecture meet
-hi when does lecture start
-hi when does the class meet
-hi when does the class start
-hi when does the course meet
-hi when does the course start
-hi when does the CMPE297 meet
-hi when does the CMPE297 start
-hi when does the Deep Learning meet
-hi when does the Deep Learning start
-hi when does the lecture meet
-hi when does the lecture start
-hey when does class meet
-hey when does class start
-hey when does course meet
-hey when does course start
-hey when does CMPE297 meet
-hey when does CMPE297 start
-hey when does Deep Learning meet
-hey when does Deep Learning start
-hey when does lecture meet
-hey when does lecture start
-hey when does the class meet
-hey when does the class start
-hey when does the course meet
-hey when does the course start
-hey when does the CMPE297 meet
-hey when does the CMPE297 start
-hey when does the Deep Learning meet
-hey when does the Deep Learning start
-hey when does the lecture meet
-hey when does the lecture start
-hello when does class meet
-hello when does class start
-hello when does course meet
-hello when does course start
-hello when does CMPE297 meet
-hello when does CMPE297 start
-hello when does Deep Learning meet
-hello when does Deep Learning start
-hello when does lecture meet
-hello when does lecture start
-hello when does the class meet
-hello when does the class start
-hello when does the course meet
-hello when does the course start
-hello when does the CMPE297 meet
-hello when does the CMPE297 start
-hello when does the Deep Learning meet
-hello when does the Deep Learning start
-hello when does the lecture meet
-hello when does the lecture start
-when is class
-when is course
-when is CMPE297
-when is Deep Learning
-when is lecture
-when is the class
-when is the course
-when is the CMPE297
-when is the Deep Learning
-when is the lecture
-hi when is class
-hi when is course
-hi when is CMPE297
-hi when is Deep Learning
-hi when is lecture
-hi when is the class
-hi when is the course
-hi when is the CMPE297
-hi when is the Deep Learning
-hi when is the lecture
-hey when is class
-hey when is course
-hey when is CMPE297
-hey when is Deep Learning
-hey when is lecture
-hey when is the class
-hey when is the course
-hey when is the CMPE297
-hey when is the Deep Learning
-hey when is the lecture
-hello when is class
-hello when is course
-hello when is CMPE297
-hello when is Deep Learning
-hello when is lecture
-hello when is the class
-hello when is the course
-hello when is the CMPE297
-hello when is the Deep Learning
-hello when is the lecture
-when is class meet
-when is class start
-when is class time
-when is class timing
-when is course meet
-when is course start
-when is course time
-when is course timing
-when is CMPE297 meet
-when is CMPE297 start
-when is CMPE297 time
-when is CMPE297 timing
-when is Deep Learning meet
-when is Deep Learning start
-when is Deep Learning time
-when is Deep Learning timing
-when is lecture meet
-when is lecture start
-when is lecture time
-when is lecture timing
-when is the class meet
-when is the class start
-when is the class time
-when is the class timing
-when is the course meet
-when is the course start
-when is the course time
-when is the course timing
-when is the CMPE297 meet
-when is the CMPE297 start
-when is the CMPE297 time
-when is the CMPE297 timing
-when is the Deep Learning meet
-when is the Deep Learning start
-when is the Deep Learning time
-when is the Deep Learning timing
-when is the lecture meet
-when is the lecture start
-when is the lecture time
-when is the lecture timing
-hi when is class meet
-hi when is class start
-hi when is class time
-hi when is class timing
-hi when is course meet
-hi when is course start
-hi when is course time
-hi when is course timing
-hi when is CMPE297 meet
-hi when is CMPE297 start
-hi when is CMPE297 time
-hi when is CMPE297 timing
-hi when is Deep Learning meet
-hi when is Deep Learning start
-hi when is Deep Learning time
-hi when is Deep Learning timing
-hi when is lecture meet
-hi when is lecture start
-hi when is lecture time
-hi when is lecture timing
-hi when is the class meet
-hi when is the class start
-hi when is the class time
-hi when is the class timing
-hi when is the course meet
-hi when is the course start
-hi when is the course time
-hi when is the course timing
-hi when is the CMPE297 meet
-hi when is the CMPE297 start
-hi when is the CMPE297 time
-hi when is the CMPE297 timing
-hi when is the Deep Learning meet
-hi when is the Deep Learning start
-hi when is the Deep Learning time
-hi when is the Deep Learning timing
-hi when is the lecture meet
-hi when is the lecture start
-hi when is the lecture time
-hi when is the lecture timing
-hey when is class meet
-hey when is class start
-hey when is class time
-hey when is class timing
-hey when is course meet
-hey when is course start
-hey when is course time
-hey when is course timing
-hey when is CMPE297 meet
-hey when is CMPE297 start
-hey when is CMPE297 time
-hey when is CMPE297 timing
-hey when is Deep Learning meet
-hey when is Deep Learning start
-hey when is Deep Learning time
-hey when is Deep Learning timing
-hey when is lecture meet
-hey when is lecture start
-hey when is lecture time
-hey when is lecture timing
-hey when is the class meet
-hey when is the class start
-hey when is the class time
-hey when is the class timing
-hey when is the course meet
-hey when is the course start
-hey when is the course time
-hey when is the course timing
-hey when is the CMPE297 meet
-hey when is the CMPE297 start
-hey when is the CMPE297 time
-hey when is the CMPE297 timing
-hey when is the Deep Learning meet
-hey when is the Deep Learning start
-hey when is the Deep Learning time
-hey when is the Deep Learning timing
-hey when is the lecture meet
-hey when is the lecture start
-hey when is the lecture time
-hey when is the lecture timing
-hello when is class meet
-hello when is class start
-hello when is class time
-hello when is class timing
-hello when is course meet
-hello when is course start
-hello when is course time
-hello when is course timing
-hello when is CMPE297 meet
-hello when is CMPE297 start
-hello when is CMPE297 time
-hello when is CMPE297 timing
-hello when is Deep Learning meet
-hello when is Deep Learning start
-hello when is Deep Learning time
-hello when is Deep Learning timing
-hello when is lecture meet
-hello when is lecture start
-hello when is lecture time
-hello when is lecture timing
-hello when is the class meet
-hello when is the class start
-hello when is the class time
-hello when is the class timing
-hello when is the course meet
-hello when is the course start
-hello when is the course time
-hello when is the course timing
-hello when is the CMPE297 meet
-hello when is the CMPE297 start
-hello when is the CMPE297 time
-hello when is the CMPE297 timing
-hello when is the Deep Learning meet
-hello when is the Deep Learning start
-hello when is the Deep Learning time
-hello when is the Deep Learning timing
-hello when is the lecture meet
-hello when is the lecture start
-hello when is the lecture time
-hello when is the lecture timing
-when is class meet time
-when is class meet timing
-when is class start time
-when is class start timing
-when is course meet time
-when is course meet timing
-when is course start time
-when is course start timing
-when is CMPE297 meet time
-when is CMPE297 meet timing
-when is CMPE297 start time
-when is CMPE297 start timing
-when is Deep Learning meet time
-when is Deep Learning meet timing
-when is Deep Learning start time
-when is Deep Learning start timing
-when is lecture meet time
-when is lecture meet timing
-when is lecture start time
-when is lecture start timing
-when is the class meet time
-when is the class meet timing
-when is the class start time
-when is the class start timing
-when is the course meet time
-when is the course meet timing
-when is the course start time
-when is the course start timing
-when is the CMPE297 meet time
-when is the CMPE297 meet timing
-when is the CMPE297 start time
-when is the CMPE297 start timing
-when is the Deep Learning meet time
-when is the Deep Learning meet timing
-when is the Deep Learning start time
-when is the Deep Learning start timing
-when is the lecture meet time
-when is the lecture meet timing
-when is the lecture start time
-when is the lecture start timing
-hi when is class meet time
-hi when is class meet timing
-hi when is class start time
-hi when is class start timing
-hi when is course meet time
-hi when is course meet timing
-hi when is course start time
-hi when is course start timing
-hi when is CMPE297 meet time
-hi when is CMPE297 meet timing
-hi when is CMPE297 start time
-hi when is CMPE297 start timing
-hi when is Deep Learning meet time
-hi when is Deep Learning meet timing
-hi when is Deep Learning start time
-hi when is Deep Learning start timing
-hi when is lecture meet time
-hi when is lecture meet timing
-hi when is lecture start time
-hi when is lecture start timing
-hi when is the class meet time
-hi when is the class meet timing
-hi when is the class start time
-hi when is the class start timing
-hi when is the course meet time
-hi when is the course meet timing
-hi when is the course start time
-hi when is the course start timing
-hi when is the CMPE297 meet time
-hi when is the CMPE297 meet timing
-hi when is the CMPE297 start time
-hi when is the CMPE297 start timing
-hi when is the Deep Learning meet time
-hi when is the Deep Learning meet timing
-hi when is the Deep Learning start time
-hi when is the Deep Learning start timing
-hi when is the lecture meet time
-hi when is the lecture meet timing
-hi when is the lecture start time
-hi when is the lecture start timing
-hey when is class meet time
-hey when is class meet timing
-hey when is class start time
-hey when is class start timing
-hey when is course meet time
-hey when is course meet timing
-hey when is course start time
-hey when is course start timing
-hey when is CMPE297 meet time
-hey when is CMPE297 meet timing
-hey when is CMPE297 start time
-hey when is CMPE297 start timing
-hey when is Deep Learning meet time
-hey when is Deep Learning meet timing
-hey when is Deep Learning start time
-hey when is Deep Learning start timing
-hey when is lecture meet time
-hey when is lecture meet timing
-hey when is lecture start time
-hey when is lecture start timing
-hey when is the class meet time
-hey when is the class meet timing
-hey when is the class start time
-hey when is the class start timing
-hey when is the course meet time
-hey when is the course meet timing
-hey when is the course start time
-hey when is the course start timing
-hey when is the CMPE297 meet time
-hey when is the CMPE297 meet timing
-hey when is the CMPE297 start time
-hey when is the CMPE297 start timing
-hey when is the Deep Learning meet time
-hey when is the Deep Learning meet timing
-hey when is the Deep Learning start time
-hey when is the Deep Learning start timing
-hey when is the lecture meet time
-hey when is the lecture meet timing
-hey when is the lecture start time
-hey when is the lecture start timing
-hello when is class meet time
-hello when is class meet timing
-hello when is class start time
-hello when is class start timing
-hello when is course meet time
-hello when is course meet timing
-hello when is course start time
-hello when is course start timing
-hello when is CMPE297 meet time
-hello when is CMPE297 meet timing
-hello when is CMPE297 start time
-hello when is CMPE297 start timing
-hello when is Deep Learning meet time
-hello when is Deep Learning meet timing
-hello when is Deep Learning start time
-hello when is Deep Learning start timing
-hello when is lecture meet time
-hello when is lecture meet timing
-hello when is lecture start time
-hello when is lecture start timing
-hello when is the class meet time
-hello when is the class meet timing
-hello when is the class start time
-hello when is the class start timing
-hello when is the course meet time
-hello when is the course meet timing
-hello when is the course start time
-hello when is the course start timing
-hello when is the CMPE297 meet time
-hello when is the CMPE297 meet timing
-hello when is the CMPE297 start time
-hello when is the CMPE297 start timing
-hello when is the Deep Learning meet time
-hello when is the Deep Learning meet timing
-hello when is the Deep Learning start time
-hello when is the Deep Learning start timing
-hello when is the lecture meet time
-hello when is the lecture meet timing
-hello when is the lecture start time
-hello when is the lecture start timing
-class time
-class timing
-class meet time
-class meet timing
-class start time
-class start timing
-course time
-course timing
-course meet time
-course meet timing
-course start time
-course start timing
-CMPE297 time
-CMPE297 timing
-CMPE297 meet time
-CMPE297 meet timing
-CMPE297 start time
-CMPE297 start timing
-Deep Learning time
-Deep Learning timing
-Deep Learning meet time
-Deep Learning meet timing
-Deep Learning start time
-Deep Learning start timing
-lecture time
-lecture timing
-lecture meet time
-lecture meet timing
-lecture start time
-lecture start timing
-hi class time
-hi class timing
-hi class meet time
-hi class meet timing
-hi class start time
-hi class start timing
-hi course time
-hi course timing
-hi course meet time
-hi course meet timing
-hi course start time
-hi course start timing
-hi CMPE297 time
-hi CMPE297 timing
-hi CMPE297 meet time
-hi CMPE297 meet timing
-hi CMPE297 start time
-hi CMPE297 start timing
-hi Deep Learning time
-hi Deep Learning timing
-hi Deep Learning meet time
-hi Deep Learning meet timing
-hi Deep Learning start time
-hi Deep Learning start timing
-hi lecture time
-hi lecture timing
-hi lecture meet time
-hi lecture meet timing
-hi lecture start time
-hi lecture start timing
-hey class time
-hey class timing
-hey class meet time
-hey class meet timing
-hey class start time
-hey class start timing
-hey course time
-hey course timing
-hey course meet time
-hey course meet timing
-hey course start time
-hey course start timing
-hey CMPE297 time
-hey CMPE297 timing
-hey CMPE297 meet time
-hey CMPE297 meet timing
-hey CMPE297 start time
-hey CMPE297 start timing
-hey Deep Learning time
-hey Deep Learning timing
-hey Deep Learning meet time
-hey Deep Learning meet timing
-hey Deep Learning start time
-hey Deep Learning start timing
-hey lecture time
-hey lecture timing
-hey lecture meet time
-hey lecture meet timing
-hey lecture start time
-hey lecture start timing
-hello class time
-hello class timing
-hello class meet time
-hello class meet timing
-hello class start time
-hello class start timing
-hello course time
-hello course timing
-hello course meet time
-hello course meet timing
-hello course start time
-hello course start timing
-hello CMPE297 time
-hello CMPE297 timing
-hello CMPE297 meet time
-hello CMPE297 meet timing
-hello CMPE297 start time
-hello CMPE297 start timing
-hello Deep Learning time
-hello Deep Learning timing
-hello Deep Learning meet time
-hello Deep Learning meet timing
-hello Deep Learning start time
-hello Deep Learning start timing
-hello lecture time
-hello lecture timing
-hello lecture meet time
-hello lecture meet timing
-hello lecture start time
-hello lecture start timing
-when would class meet
-when would class start
-when would class be
-when would course meet
-when would course start
-when would course be
-when would CMPE297 meet
-when would CMPE297 start
-when would CMPE297 be
-when would Deep Learning meet
-when would Deep Learning start
-when would Deep Learning be
-when would lecture meet
-when would lecture start
-when would lecture be
-when would the class meet
-when would the class start
-when would the class be
-when would the course meet
-when would the course start
-when would the course be
-when would the CMPE297 meet
-when would the CMPE297 start
-when would the CMPE297 be
-when would the Deep Learning meet
-when would the Deep Learning start
-when would the Deep Learning be
-when would the lecture meet
-when would the lecture start
-when would the lecture be
-hi when would class meet
-hi when would class start
-hi when would class be
-hi when would course meet
-hi when would course start
-hi when would course be
-hi when would CMPE297 meet
-hi when would CMPE297 start
-hi when would CMPE297 be
-hi when would Deep Learning meet
-hi when would Deep Learning start
-hi when would Deep Learning be
-hi when would lecture meet
-hi when would lecture start
-hi when would lecture be
-hi when would the class meet
-hi when would the class start
-hi when would the class be
-hi when would the course meet
-hi when would the course start
-hi when would the course be
-hi when would the CMPE297 meet
-hi when would the CMPE297 start
-hi when would the CMPE297 be
-hi when would the Deep Learning meet
-hi when would the Deep Learning start
-hi when would the Deep Learning be
-hi when would the lecture meet
-hi when would the lecture start
-hi when would the lecture be
-hey when would class meet
-hey when would class start
-hey when would class be
-hey when would course meet
-hey when would course start
-hey when would course be
-hey when would CMPE297 meet
-hey when would CMPE297 start
-hey when would CMPE297 be
-hey when would Deep Learning meet
-hey when would Deep Learning start
-hey when would Deep Learning be
-hey when would lecture meet
-hey when would lecture start
-hey when would lecture be
-hey when would the class meet
-hey when would the class start
-hey when would the class be
-hey when would the course meet
-hey when would the course start
-hey when would the course be
-hey when would the CMPE297 meet
-hey when would the CMPE297 start
-hey when would the CMPE297 be
-hey when would the Deep Learning meet
-hey when would the Deep Learning start
-hey when would the Deep Learning be
-hey when would the lecture meet
-hey when would the lecture start
-hey when would the lecture be
-hello when would class meet
-hello when would class start
-hello when would class be
-hello when would course meet
-hello when would course start
-hello when would course be
-hello when would CMPE297 meet
-hello when would CMPE297 start
-hello when would CMPE297 be
-hello when would Deep Learning meet
-hello when would Deep Learning start
-hello when would Deep Learning be
-hello when would lecture meet
-hello when would lecture start
-hello when would lecture be
-hello when would the class meet
-hello when would the class start
-hello when would the class be
-hello when would the course meet
-hello when would the course start
-hello when would the course be
-hello when would the CMPE297 meet
-hello when would the CMPE297 start
-hello when would the CMPE297 be
-hello when would the Deep Learning meet
-hello when would the Deep Learning start
-hello when would the Deep Learning be
-hello when would the lecture meet
-hello when would the lecture start
-hello when would the lecture be
-when class meet
-when class start
-when course meet
-when course start
-when CMPE297 meet
-when CMPE297 start
-when Deep Learning meet
-when Deep Learning start
-when lecture meet
-when lecture start
-hi when class meet
-hi when class start
-hi when course meet
-hi when course start
-hi when CMPE297 meet
-hi when CMPE297 start
-hi when Deep Learning meet
-hi when Deep Learning start
-hi when lecture meet
-hi when lecture start
-hey when class meet
-hey when class start
-hey when course meet
-hey when course start
-hey when CMPE297 meet
-hey when CMPE297 start
-hey when Deep Learning meet
-hey when Deep Learning start
-hey when lecture meet
-hey when lecture start
-hello when class meet
-hello when class start
-hello when course meet
-hello when course start
-hello when CMPE297 meet
-hello when CMPE297 start
-hello when Deep Learning meet
-hello when Deep Learning start
-hello when lecture meet
-hello when lecture start

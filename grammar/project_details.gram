@@ -2,12 +2,14 @@
 grammar Project_Details;
 
 public <a> = [<greeting>] what <is> [the] <project> <detail>;
-public <b> = [<greeting>] [tell] [me] [about] <project> <detail>;
+public <b> = [<greeting>] [please] tell (me|us) about <project> [<detail>];
+public <c> = [<greeting>] [please] give (me|us)  <project> <detail>;
 
 
 <is> = is | are;
 <greeting> = hi | hey | hello;
-<detail> = detail | details | about | on;
+<detail> = detail | details;
+props = about|on
 <project> = project | assignment;
 
 
