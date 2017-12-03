@@ -40,9 +40,9 @@ lstm_net = tflearn.fully_connected(lstm_net,n_units=len(ml_classes),activation='
 lstm_net = tflearn.regression(lstm_net, optimizer='adam', learning_rate=learning_rate,
                          loss='categorical_crossentropy')
 
-model = tflearn.DNN(lstm_net, tensorboard_verbose=3)
+model = tflearn.DNN(lstm_net, tensorboard_verbose=0)
 model.fit(trainX, trainY,show_metric=True,batch_size= batch_size,n_epoch=10)
-
+model.save("lstm-model.tfl")
 
 
 while True:

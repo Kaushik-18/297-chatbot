@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/coe-cmpe-simongpu01/Deep Learners/kaushik/297-chatbot/model/lstm-model.tfl"
+all_model_checkpoint_paths: "/home/coe-cmpe-simongpu01/Deep Learners/kaushik/297-chatbot/model/lstm-model.tfl"
