@@ -3,11 +3,13 @@ grammar Professor;
 
 public <a> = [<greeting>] who <teaches> [the] <course>;
 public <b> = [<greeting>] who is [the] <professor> for <course>;
-public <c> =[<greeting>] what is [the] <professor> name for this <course>;
+public <c> =[<greeting>] what is [the] <professor> name for (this|the) <course>;
 public <d> = what is [the] <professor> name;
+public <e> = [<greeting>] who is [the] <professor>;
+public <f> = [<greeting>] who is professor [simon] [shim];
 
 <greeting> = hi | hey | hello; 
-<course> = class | course | CMPE297 | Deep Learning|subject;
-<professor> = teacher | lecturer | professor;
+<course> = class | course | CMPE297 | Deep Learning | subject | lecture;
+<professor> = sir | teacher | lecturer | professor;
 <teaches> = teaches | takes| conducts;
 

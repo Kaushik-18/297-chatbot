@@ -14,6 +14,10 @@ where is teacher office
 where is teacher room
 where is teacher location
 where is teacher building
+where is lecturer office
+where is lecturer room
+where is lecturer location
+where is lecturer building
 where is the sir office
 where is the sir room
 where is the sir location
@@ -30,6 +34,10 @@ where is the teacher office
 where is the teacher room
 where is the teacher location
 where is the teacher building
+where is the lecturer office
+where is the lecturer room
+where is the lecturer location
+where is the lecturer building
 hi where is sir office
 hi where is sir room
 hi where is sir location
@@ -46,6 +54,10 @@ hi where is teacher office
 hi where is teacher room
 hi where is teacher location
 hi where is teacher building
+hi where is lecturer office
+hi where is lecturer room
+hi where is lecturer location
+hi where is lecturer building
 hi where is the sir office
 hi where is the sir room
 hi where is the sir location
@@ -62,6 +74,10 @@ hi where is the teacher office
 hi where is the teacher room
 hi where is the teacher location
 hi where is the teacher building
+hi where is the lecturer office
+hi where is the lecturer room
+hi where is the lecturer location
+hi where is the lecturer building
 hey where is sir office
 hey where is sir room
 hey where is sir location
@@ -78,6 +94,10 @@ hey where is teacher office
 hey where is teacher room
 hey where is teacher location
 hey where is teacher building
+hey where is lecturer office
+hey where is lecturer room
+hey where is lecturer location
+hey where is lecturer building
 hey where is the sir office
 hey where is the sir room
 hey where is the sir location
@@ -94,6 +114,10 @@ hey where is the teacher office
 hey where is the teacher room
 hey where is the teacher location
 hey where is the teacher building
+hey where is the lecturer office
+hey where is the lecturer room
+hey where is the lecturer location
+hey where is the lecturer building
 hello where is sir office
 hello where is sir room
 hello where is sir location
@@ -110,6 +134,10 @@ hello where is teacher office
 hello where is teacher room
 hello where is teacher location
 hello where is teacher building
+hello where is lecturer office
+hello where is lecturer room
+hello where is lecturer location
+hello where is lecturer building
 hello where is the sir office
 hello where is the sir room
 hello where is the sir location
@@ -126,6 +154,10 @@ hello where is the teacher office
 hello where is the teacher room
 hello where is the teacher location
 hello where is the teacher building
+hello where is the lecturer office
+hello where is the lecturer room
+hello where is the lecturer location
+hello where is the lecturer building
 where sir sit
 where sir located
 where sir situated
@@ -138,6 +170,9 @@ where professors situated
 where teacher sit
 where teacher located
 where teacher situated
+where lecturer sit
+where lecturer located
+where lecturer situated
 where the sir sit
 where the sir located
 where the sir situated
@@ -150,6 +185,9 @@ where the professors situated
 where the teacher sit
 where the teacher located
 where the teacher situated
+where the lecturer sit
+where the lecturer located
+where the lecturer situated
 where does sir sit
 where does sir located
 where does sir situated
@@ -162,6 +200,9 @@ where does professors situated
 where does teacher sit
 where does teacher located
 where does teacher situated
+where does lecturer sit
+where does lecturer located
+where does lecturer situated
 where does the sir sit
 where does the sir located
 where does the sir situated
@@ -174,6 +215,9 @@ where does the professors situated
 where does the teacher sit
 where does the teacher located
 where does the teacher situated
+where does the lecturer sit
+where does the lecturer located
+where does the lecturer situated
 hi where sir sit
 hi where sir located
 hi where sir situated
@@ -186,6 +230,9 @@ hi where professors situated
 hi where teacher sit
 hi where teacher located
 hi where teacher situated
+hi where lecturer sit
+hi where lecturer located
+hi where lecturer situated
 hi where the sir sit
 hi where the sir located
 hi where the sir situated
@@ -198,6 +245,9 @@ hi where the professors situated
 hi where the teacher sit
 hi where the teacher located
 hi where the teacher situated
+hi where the lecturer sit
+hi where the lecturer located
+hi where the lecturer situated
 hi where does sir sit
 hi where does sir located
 hi where does sir situated
@@ -210,6 +260,9 @@ hi where does professors situated
 hi where does teacher sit
 hi where does teacher located
 hi where does teacher situated
+hi where does lecturer sit
+hi where does lecturer located
+hi where does lecturer situated
 hi where does the sir sit
 hi where does the sir located
 hi where does the sir situated
@@ -222,6 +275,9 @@ hi where does the professors situated
 hi where does the teacher sit
 hi where does the teacher located
 hi where does the teacher situated
+hi where does the lecturer sit
+hi where does the lecturer located
+hi where does the lecturer situated
 hey where sir sit
 hey where sir located
 hey where sir situated
@@ -234,6 +290,9 @@ hey where professors situated
 hey where teacher sit
 hey where teacher located
 hey where teacher situated
+hey where lecturer sit
+hey where lecturer located
+hey where lecturer situated
 hey where the sir sit
 hey where the sir located
 hey where the sir situated
@@ -246,6 +305,9 @@ hey where the professors situated
 hey where the teacher sit
 hey where the teacher located
 hey where the teacher situated
+hey where the lecturer sit
+hey where the lecturer located
+hey where the lecturer situated
 hey where does sir sit
 hey where does sir located
 hey where does sir situated
@@ -258,6 +320,9 @@ hey where does professors situated
 hey where does teacher sit
 hey where does teacher located
 hey where does teacher situated
+hey where does lecturer sit
+hey where does lecturer located
+hey where does lecturer situated
 hey where does the sir sit
 hey where does the sir located
 hey where does the sir situated
@@ -270,6 +335,9 @@ hey where does the professors situated
 hey where does the teacher sit
 hey where does the teacher located
 hey where does the teacher situated
+hey where does the lecturer sit
+hey where does the lecturer located
+hey where does the lecturer situated
 hello where sir sit
 hello where sir located
 hello where sir situated
@@ -282,6 +350,9 @@ hello where professors situated
 hello where teacher sit
 hello where teacher located
 hello where teacher situated
+hello where lecturer sit
+hello where lecturer located
+hello where lecturer situated
 hello where the sir sit
 hello where the sir located
 hello where the sir situated
@@ -294,6 +365,9 @@ hello where the professors situated
 hello where the teacher sit
 hello where the teacher located
 hello where the teacher situated
+hello where the lecturer sit
+hello where the lecturer located
+hello where the lecturer situated
 hello where does sir sit
 hello where does sir located
 hello where does sir situated
@@ -306,6 +380,9 @@ hello where does professors situated
 hello where does teacher sit
 hello where does teacher located
 hello where does teacher situated
+hello where does lecturer sit
+hello where does lecturer located
+hello where does lecturer situated
 hello where does the sir sit
 hello where does the sir located
 hello where does the sir situated
@@ -318,134 +395,169 @@ hello where does the professors situated
 hello where does the teacher sit
 hello where does the teacher located
 hello where does the teacher situated
+hello where does the lecturer sit
+hello where does the lecturer located
+hello where does the lecturer situated
 what is the office of sir
 what is the office of professor
 what is the office of professors
 what is the office of teacher
+what is the office of lecturer
 what is the office of the sir
 what is the office of the professor
 what is the office of the professors
 what is the office of the teacher
+what is the office of the lecturer
 what is the room of sir
 what is the room of professor
 what is the room of professors
 what is the room of teacher
+what is the room of lecturer
 what is the room of the sir
 what is the room of the professor
 what is the room of the professors
 what is the room of the teacher
+what is the room of the lecturer
 what is the location of sir
 what is the location of professor
 what is the location of professors
 what is the location of teacher
+what is the location of lecturer
 what is the location of the sir
 what is the location of the professor
 what is the location of the professors
 what is the location of the teacher
+what is the location of the lecturer
 what is the building of sir
 what is the building of professor
 what is the building of professors
 what is the building of teacher
+what is the building of lecturer
 what is the building of the sir
 what is the building of the professor
 what is the building of the professors
 what is the building of the teacher
+what is the building of the lecturer
 hi what is the office of sir
 hi what is the office of professor
 hi what is the office of professors
 hi what is the office of teacher
+hi what is the office of lecturer
 hi what is the office of the sir
 hi what is the office of the professor
 hi what is the office of the professors
 hi what is the office of the teacher
+hi what is the office of the lecturer
 hi what is the room of sir
 hi what is the room of professor
 hi what is the room of professors
 hi what is the room of teacher
+hi what is the room of lecturer
 hi what is the room of the sir
 hi what is the room of the professor
 hi what is the room of the professors
 hi what is the room of the teacher
+hi what is the room of the lecturer
 hi what is the location of sir
 hi what is the location of professor
 hi what is the location of professors
 hi what is the location of teacher
+hi what is the location of lecturer
 hi what is the location of the sir
 hi what is the location of the professor
 hi what is the location of the professors
 hi what is the location of the teacher
+hi what is the location of the lecturer
 hi what is the building of sir
 hi what is the building of professor
 hi what is the building of professors
 hi what is the building of teacher
+hi what is the building of lecturer
 hi what is the building of the sir
 hi what is the building of the professor
 hi what is the building of the professors
 hi what is the building of the teacher
+hi what is the building of the lecturer
 hey what is the office of sir
 hey what is the office of professor
 hey what is the office of professors
 hey what is the office of teacher
+hey what is the office of lecturer
 hey what is the office of the sir
 hey what is the office of the professor
 hey what is the office of the professors
 hey what is the office of the teacher
+hey what is the office of the lecturer
 hey what is the room of sir
 hey what is the room of professor
 hey what is the room of professors
 hey what is the room of teacher
+hey what is the room of lecturer
 hey what is the room of the sir
 hey what is the room of the professor
 hey what is the room of the professors
 hey what is the room of the teacher
+hey what is the room of the lecturer
 hey what is the location of sir
 hey what is the location of professor
 hey what is the location of professors
 hey what is the location of teacher
+hey what is the location of lecturer
 hey what is the location of the sir
 hey what is the location of the professor
 hey what is the location of the professors
 hey what is the location of the teacher
+hey what is the location of the lecturer
 hey what is the building of sir
 hey what is the building of professor
 hey what is the building of professors
 hey what is the building of teacher
+hey what is the building of lecturer
 hey what is the building of the sir
 hey what is the building of the professor
 hey what is the building of the professors
 hey what is the building of the teacher
+hey what is the building of the lecturer
 hello what is the office of sir
 hello what is the office of professor
 hello what is the office of professors
 hello what is the office of teacher
+hello what is the office of lecturer
 hello what is the office of the sir
 hello what is the office of the professor
 hello what is the office of the professors
 hello what is the office of the teacher
+hello what is the office of the lecturer
 hello what is the room of sir
 hello what is the room of professor
 hello what is the room of professors
 hello what is the room of teacher
+hello what is the room of lecturer
 hello what is the room of the sir
 hello what is the room of the professor
 hello what is the room of the professors
 hello what is the room of the teacher
+hello what is the room of the lecturer
 hello what is the location of sir
 hello what is the location of professor
 hello what is the location of professors
 hello what is the location of teacher
+hello what is the location of lecturer
 hello what is the location of the sir
 hello what is the location of the professor
 hello what is the location of the professors
 hello what is the location of the teacher
+hello what is the location of the lecturer
 hello what is the building of sir
 hello what is the building of professor
 hello what is the building of professors
 hello what is the building of teacher
+hello what is the building of lecturer
 hello what is the building of the sir
 hello what is the building of the professor
 hello what is the building of the professors
 hello what is the building of the teacher
+hello what is the building of the lecturer
 sir office
 sir room
 sir location
@@ -462,6 +574,10 @@ teacher office
 teacher room
 teacher location
 teacher building
+lecturer office
+lecturer room
+lecturer location
+lecturer building
 the sir office
 the sir room
 the sir location
@@ -478,6 +594,10 @@ the teacher office
 the teacher room
 the teacher location
 the teacher building
+the lecturer office
+the lecturer room
+the lecturer location
+the lecturer building
 me sir office
 me sir room
 me sir location
@@ -494,6 +614,10 @@ me teacher office
 me teacher room
 me teacher location
 me teacher building
+me lecturer office
+me lecturer room
+me lecturer location
+me lecturer building
 me the sir office
 me the sir room
 me the sir location
@@ -510,6 +634,10 @@ me the teacher office
 me the teacher room
 me the teacher location
 me the teacher building
+me the lecturer office
+me the lecturer room
+me the lecturer location
+me the lecturer building
 tell sir office
 tell sir room
 tell sir location
@@ -526,6 +654,10 @@ tell teacher office
 tell teacher room
 tell teacher location
 tell teacher building
+tell lecturer office
+tell lecturer room
+tell lecturer location
+tell lecturer building
 tell the sir office
 tell the sir room
 tell the sir location
@@ -542,6 +674,10 @@ tell the teacher office
 tell the teacher room
 tell the teacher location
 tell the teacher building
+tell the lecturer office
+tell the lecturer room
+tell the lecturer location
+tell the lecturer building
 tell me sir office
 tell me sir room
 tell me sir location
@@ -558,6 +694,10 @@ tell me teacher office
 tell me teacher room
 tell me teacher location
 tell me teacher building
+tell me lecturer office
+tell me lecturer room
+tell me lecturer location
+tell me lecturer building
 tell me the sir office
 tell me the sir room
 tell me the sir location
@@ -574,6 +714,10 @@ tell me the teacher office
 tell me the teacher room
 tell me the teacher location
 tell me the teacher building
+tell me the lecturer office
+tell me the lecturer room
+tell me the lecturer location
+tell me the lecturer building
 hi sir office
 hi sir room
 hi sir location
@@ -590,6 +734,10 @@ hi teacher office
 hi teacher room
 hi teacher location
 hi teacher building
+hi lecturer office
+hi lecturer room
+hi lecturer location
+hi lecturer building
 hi the sir office
 hi the sir room
 hi the sir location
@@ -606,6 +754,10 @@ hi the teacher office
 hi the teacher room
 hi the teacher location
 hi the teacher building
+hi the lecturer office
+hi the lecturer room
+hi the lecturer location
+hi the lecturer building
 hi me sir office
 hi me sir room
 hi me sir location
@@ -622,6 +774,10 @@ hi me teacher office
 hi me teacher room
 hi me teacher location
 hi me teacher building
+hi me lecturer office
+hi me lecturer room
+hi me lecturer location
+hi me lecturer building
 hi me the sir office
 hi me the sir room
 hi me the sir location
@@ -638,6 +794,10 @@ hi me the teacher office
 hi me the teacher room
 hi me the teacher location
 hi me the teacher building
+hi me the lecturer office
+hi me the lecturer room
+hi me the lecturer location
+hi me the lecturer building
 hi tell sir office
 hi tell sir room
 hi tell sir location
@@ -654,6 +814,10 @@ hi tell teacher office
 hi tell teacher room
 hi tell teacher location
 hi tell teacher building
+hi tell lecturer office
+hi tell lecturer room
+hi tell lecturer location
+hi tell lecturer building
 hi tell the sir office
 hi tell the sir room
 hi tell the sir location
@@ -670,6 +834,10 @@ hi tell the teacher office
 hi tell the teacher room
 hi tell the teacher location
 hi tell the teacher building
+hi tell the lecturer office
+hi tell the lecturer room
+hi tell the lecturer location
+hi tell the lecturer building
 hi tell me sir office
 hi tell me sir room
 hi tell me sir location
@@ -686,6 +854,10 @@ hi tell me teacher office
 hi tell me teacher room
 hi tell me teacher location
 hi tell me teacher building
+hi tell me lecturer office
+hi tell me lecturer room
+hi tell me lecturer location
+hi tell me lecturer building
 hi tell me the sir office
 hi tell me the sir room
 hi tell me the sir location
@@ -702,6 +874,10 @@ hi tell me the teacher office
 hi tell me the teacher room
 hi tell me the teacher location
 hi tell me the teacher building
+hi tell me the lecturer office
+hi tell me the lecturer room
+hi tell me the lecturer location
+hi tell me the lecturer building
 hey sir office
 hey sir room
 hey sir location
@@ -718,6 +894,10 @@ hey teacher office
 hey teacher room
 hey teacher location
 hey teacher building
+hey lecturer office
+hey lecturer room
+hey lecturer location
+hey lecturer building
 hey the sir office
 hey the sir room
 hey the sir location
@@ -734,6 +914,10 @@ hey the teacher office
 hey the teacher room
 hey the teacher location
 hey the teacher building
+hey the lecturer office
+hey the lecturer room
+hey the lecturer location
+hey the lecturer building
 hey me sir office
 hey me sir room
 hey me sir location
@@ -750,6 +934,10 @@ hey me teacher office
 hey me teacher room
 hey me teacher location
 hey me teacher building
+hey me lecturer office
+hey me lecturer room
+hey me lecturer location
+hey me lecturer building
 hey me the sir office
 hey me the sir room
 hey me the sir location
@@ -766,6 +954,10 @@ hey me the teacher office
 hey me the teacher room
 hey me the teacher location
 hey me the teacher building
+hey me the lecturer office
+hey me the lecturer room
+hey me the lecturer location
+hey me the lecturer building
 hey tell sir office
 hey tell sir room
 hey tell sir location
@@ -782,6 +974,10 @@ hey tell teacher office
 hey tell teacher room
 hey tell teacher location
 hey tell teacher building
+hey tell lecturer office
+hey tell lecturer room
+hey tell lecturer location
+hey tell lecturer building
 hey tell the sir office
 hey tell the sir room
 hey tell the sir location
@@ -798,6 +994,10 @@ hey tell the teacher office
 hey tell the teacher room
 hey tell the teacher location
 hey tell the teacher building
+hey tell the lecturer office
+hey tell the lecturer room
+hey tell the lecturer location
+hey tell the lecturer building
 hey tell me sir office
 hey tell me sir room
 hey tell me sir location
@@ -814,6 +1014,10 @@ hey tell me teacher office
 hey tell me teacher room
 hey tell me teacher location
 hey tell me teacher building
+hey tell me lecturer office
+hey tell me lecturer room
+hey tell me lecturer location
+hey tell me lecturer building
 hey tell me the sir office
 hey tell me the sir room
 hey tell me the sir location
@@ -830,6 +1034,10 @@ hey tell me the teacher office
 hey tell me the teacher room
 hey tell me the teacher location
 hey tell me the teacher building
+hey tell me the lecturer office
+hey tell me the lecturer room
+hey tell me the lecturer location
+hey tell me the lecturer building
 hello sir office
 hello sir room
 hello sir location
@@ -846,6 +1054,10 @@ hello teacher office
 hello teacher room
 hello teacher location
 hello teacher building
+hello lecturer office
+hello lecturer room
+hello lecturer location
+hello lecturer building
 hello the sir office
 hello the sir room
 hello the sir location
@@ -862,6 +1074,10 @@ hello the teacher office
 hello the teacher room
 hello the teacher location
 hello the teacher building
+hello the lecturer office
+hello the lecturer room
+hello the lecturer location
+hello the lecturer building
 hello me sir office
 hello me sir room
 hello me sir location
@@ -878,6 +1094,10 @@ hello me teacher office
 hello me teacher room
 hello me teacher location
 hello me teacher building
+hello me lecturer office
+hello me lecturer room
+hello me lecturer location
+hello me lecturer building
 hello me the sir office
 hello me the sir room
 hello me the sir location
@@ -894,6 +1114,10 @@ hello me the teacher office
 hello me the teacher room
 hello me the teacher location
 hello me the teacher building
+hello me the lecturer office
+hello me the lecturer room
+hello me the lecturer location
+hello me the lecturer building
 hello tell sir office
 hello tell sir room
 hello tell sir location
@@ -910,6 +1134,10 @@ hello tell teacher office
 hello tell teacher room
 hello tell teacher location
 hello tell teacher building
+hello tell lecturer office
+hello tell lecturer room
+hello tell lecturer location
+hello tell lecturer building
 hello tell the sir office
 hello tell the sir room
 hello tell the sir location
@@ -926,6 +1154,10 @@ hello tell the teacher office
 hello tell the teacher room
 hello tell the teacher location
 hello tell the teacher building
+hello tell the lecturer office
+hello tell the lecturer room
+hello tell the lecturer location
+hello tell the lecturer building
 hello tell me sir office
 hello tell me sir room
 hello tell me sir location
@@ -942,6 +1174,10 @@ hello tell me teacher office
 hello tell me teacher room
 hello tell me teacher location
 hello tell me teacher building
+hello tell me lecturer office
+hello tell me lecturer room
+hello tell me lecturer location
+hello tell me lecturer building
 hello tell me the sir office
 hello tell me the sir room
 hello tell me the sir location
@@ -958,6 +1194,10 @@ hello tell me the teacher office
 hello tell me the teacher room
 hello tell me the teacher location
 hello tell me the teacher building
+hello tell me the lecturer office
+hello tell me the lecturer room
+hello tell me the lecturer location
+hello tell me the lecturer building
 where is sir office
 where is sir room
 where is sir location
@@ -974,6 +1214,10 @@ where is teacher office
 where is teacher room
 where is teacher location
 where is teacher building
+where is lecturer office
+where is lecturer room
+where is lecturer location
+where is lecturer building
 where is the sir office
 where is the sir room
 where is the sir location
@@ -990,6 +1234,10 @@ where is the teacher office
 where is the teacher room
 where is the teacher location
 where is the teacher building
+where is the lecturer office
+where is the lecturer room
+where is the lecturer location
+where is the lecturer building
 hi where is sir office
 hi where is sir room
 hi where is sir location
@@ -1006,6 +1254,10 @@ hi where is teacher office
 hi where is teacher room
 hi where is teacher location
 hi where is teacher building
+hi where is lecturer office
+hi where is lecturer room
+hi where is lecturer location
+hi where is lecturer building
 hi where is the sir office
 hi where is the sir room
 hi where is the sir location
@@ -1022,6 +1274,10 @@ hi where is the teacher office
 hi where is the teacher room
 hi where is the teacher location
 hi where is the teacher building
+hi where is the lecturer office
+hi where is the lecturer room
+hi where is the lecturer location
+hi where is the lecturer building
 hey where is sir office
 hey where is sir room
 hey where is sir location
@@ -1038,6 +1294,10 @@ hey where is teacher office
 hey where is teacher room
 hey where is teacher location
 hey where is teacher building
+hey where is lecturer office
+hey where is lecturer room
+hey where is lecturer location
+hey where is lecturer building
 hey where is the sir office
 hey where is the sir room
 hey where is the sir location
@@ -1054,6 +1314,10 @@ hey where is the teacher office
 hey where is the teacher room
 hey where is the teacher location
 hey where is the teacher building
+hey where is the lecturer office
+hey where is the lecturer room
+hey where is the lecturer location
+hey where is the lecturer building
 hello where is sir office
 hello where is sir room
 hello where is sir location
@@ -1070,6 +1334,10 @@ hello where is teacher office
 hello where is teacher room
 hello where is teacher location
 hello where is teacher building
+hello where is lecturer office
+hello where is lecturer room
+hello where is lecturer location
+hello where is lecturer building
 hello where is the sir office
 hello where is the sir room
 hello where is the sir location
@@ -1086,6 +1354,10 @@ hello where is the teacher office
 hello where is the teacher room
 hello where is the teacher location
 hello where is the teacher building
+hello where is the lecturer office
+hello where is the lecturer room
+hello where is the lecturer location
+hello where is the lecturer building
 where sir sit
 where sir located
 where sir situated
@@ -1098,6 +1370,9 @@ where professors situated
 where teacher sit
 where teacher located
 where teacher situated
+where lecturer sit
+where lecturer located
+where lecturer situated
 where the sir sit
 where the sir located
 where the sir situated
@@ -1110,6 +1385,9 @@ where the professors situated
 where the teacher sit
 where the teacher located
 where the teacher situated
+where the lecturer sit
+where the lecturer located
+where the lecturer situated
 where does sir sit
 where does sir located
 where does sir situated
@@ -1122,6 +1400,9 @@ where does professors situated
 where does teacher sit
 where does teacher located
 where does teacher situated
+where does lecturer sit
+where does lecturer located
+where does lecturer situated
 where does the sir sit
 where does the sir located
 where does the sir situated
@@ -1134,6 +1415,9 @@ where does the professors situated
 where does the teacher sit
 where does the teacher located
 where does the teacher situated
+where does the lecturer sit
+where does the lecturer located
+where does the lecturer situated
 hi where sir sit
 hi where sir located
 hi where sir situated
@@ -1146,6 +1430,9 @@ hi where professors situated
 hi where teacher sit
 hi where teacher located
 hi where teacher situated
+hi where lecturer sit
+hi where lecturer located
+hi where lecturer situated
 hi where the sir sit
 hi where the sir located
 hi where the sir situated
@@ -1158,6 +1445,9 @@ hi where the professors situated
 hi where the teacher sit
 hi where the teacher located
 hi where the teacher situated
+hi where the lecturer sit
+hi where the lecturer located
+hi where the lecturer situated
 hi where does sir sit
 hi where does sir located
 hi where does sir situated
@@ -1170,6 +1460,9 @@ hi where does professors situated
 hi where does teacher sit
 hi where does teacher located
 hi where does teacher situated
+hi where does lecturer sit
+hi where does lecturer located
+hi where does lecturer situated
 hi where does the sir sit
 hi where does the sir located
 hi where does the sir situated
@@ -1182,6 +1475,9 @@ hi where does the professors situated
 hi where does the teacher sit
 hi where does the teacher located
 hi where does the teacher situated
+hi where does the lecturer sit
+hi where does the lecturer located
+hi where does the lecturer situated
 hey where sir sit
 hey where sir located
 hey where sir situated
@@ -1194,6 +1490,9 @@ hey where professors situated
 hey where teacher sit
 hey where teacher located
 hey where teacher situated
+hey where lecturer sit
+hey where lecturer located
+hey where lecturer situated
 hey where the sir sit
 hey where the sir located
 hey where the sir situated
@@ -1206,6 +1505,9 @@ hey where the professors situated
 hey where the teacher sit
 hey where the teacher located
 hey where the teacher situated
+hey where the lecturer sit
+hey where the lecturer located
+hey where the lecturer situated
 hey where does sir sit
 hey where does sir located
 hey where does sir situated
@@ -1218,6 +1520,9 @@ hey where does professors situated
 hey where does teacher sit
 hey where does teacher located
 hey where does teacher situated
+hey where does lecturer sit
+hey where does lecturer located
+hey where does lecturer situated
 hey where does the sir sit
 hey where does the sir located
 hey where does the sir situated
@@ -1230,6 +1535,9 @@ hey where does the professors situated
 hey where does the teacher sit
 hey where does the teacher located
 hey where does the teacher situated
+hey where does the lecturer sit
+hey where does the lecturer located
+hey where does the lecturer situated
 hello where sir sit
 hello where sir located
 hello where sir situated
@@ -1242,6 +1550,9 @@ hello where professors situated
 hello where teacher sit
 hello where teacher located
 hello where teacher situated
+hello where lecturer sit
+hello where lecturer located
+hello where lecturer situated
 hello where the sir sit
 hello where the sir located
 hello where the sir situated
@@ -1254,6 +1565,9 @@ hello where the professors situated
 hello where the teacher sit
 hello where the teacher located
 hello where the teacher situated
+hello where the lecturer sit
+hello where the lecturer located
+hello where the lecturer situated
 hello where does sir sit
 hello where does sir located
 hello where does sir situated
@@ -1266,6 +1580,9 @@ hello where does professors situated
 hello where does teacher sit
 hello where does teacher located
 hello where does teacher situated
+hello where does lecturer sit
+hello where does lecturer located
+hello where does lecturer situated
 hello where does the sir sit
 hello where does the sir located
 hello where does the sir situated
@@ -1278,134 +1595,169 @@ hello where does the professors situated
 hello where does the teacher sit
 hello where does the teacher located
 hello where does the teacher situated
+hello where does the lecturer sit
+hello where does the lecturer located
+hello where does the lecturer situated
 what is the office of sir
 what is the office of professor
 what is the office of professors
 what is the office of teacher
+what is the office of lecturer
 what is the office of the sir
 what is the office of the professor
 what is the office of the professors
 what is the office of the teacher
+what is the office of the lecturer
 what is the room of sir
 what is the room of professor
 what is the room of professors
 what is the room of teacher
+what is the room of lecturer
 what is the room of the sir
 what is the room of the professor
 what is the room of the professors
 what is the room of the teacher
+what is the room of the lecturer
 what is the location of sir
 what is the location of professor
 what is the location of professors
 what is the location of teacher
+what is the location of lecturer
 what is the location of the sir
 what is the location of the professor
 what is the location of the professors
 what is the location of the teacher
+what is the location of the lecturer
 what is the building of sir
 what is the building of professor
 what is the building of professors
 what is the building of teacher
+what is the building of lecturer
 what is the building of the sir
 what is the building of the professor
 what is the building of the professors
 what is the building of the teacher
+what is the building of the lecturer
 hi what is the office of sir
 hi what is the office of professor
 hi what is the office of professors
 hi what is the office of teacher
+hi what is the office of lecturer
 hi what is the office of the sir
 hi what is the office of the professor
 hi what is the office of the professors
 hi what is the office of the teacher
+hi what is the office of the lecturer
 hi what is the room of sir
 hi what is the room of professor
 hi what is the room of professors
 hi what is the room of teacher
+hi what is the room of lecturer
 hi what is the room of the sir
 hi what is the room of the professor
 hi what is the room of the professors
 hi what is the room of the teacher
+hi what is the room of the lecturer
 hi what is the location of sir
 hi what is the location of professor
 hi what is the location of professors
 hi what is the location of teacher
+hi what is the location of lecturer
 hi what is the location of the sir
 hi what is the location of the professor
 hi what is the location of the professors
 hi what is the location of the teacher
+hi what is the location of the lecturer
 hi what is the building of sir
 hi what is the building of professor
 hi what is the building of professors
 hi what is the building of teacher
+hi what is the building of lecturer
 hi what is the building of the sir
 hi what is the building of the professor
 hi what is the building of the professors
 hi what is the building of the teacher
+hi what is the building of the lecturer
 hey what is the office of sir
 hey what is the office of professor
 hey what is the office of professors
 hey what is the office of teacher
+hey what is the office of lecturer
 hey what is the office of the sir
 hey what is the office of the professor
 hey what is the office of the professors
 hey what is the office of the teacher
+hey what is the office of the lecturer
 hey what is the room of sir
 hey what is the room of professor
 hey what is the room of professors
 hey what is the room of teacher
+hey what is the room of lecturer
 hey what is the room of the sir
 hey what is the room of the professor
 hey what is the room of the professors
 hey what is the room of the teacher
+hey what is the room of the lecturer
 hey what is the location of sir
 hey what is the location of professor
 hey what is the location of professors
 hey what is the location of teacher
+hey what is the location of lecturer
 hey what is the location of the sir
 hey what is the location of the professor
 hey what is the location of the professors
 hey what is the location of the teacher
+hey what is the location of the lecturer
 hey what is the building of sir
 hey what is the building of professor
 hey what is the building of professors
 hey what is the building of teacher
+hey what is the building of lecturer
 hey what is the building of the sir
 hey what is the building of the professor
 hey what is the building of the professors
 hey what is the building of the teacher
+hey what is the building of the lecturer
 hello what is the office of sir
 hello what is the office of professor
 hello what is the office of professors
 hello what is the office of teacher
+hello what is the office of lecturer
 hello what is the office of the sir
 hello what is the office of the professor
 hello what is the office of the professors
 hello what is the office of the teacher
+hello what is the office of the lecturer
 hello what is the room of sir
 hello what is the room of professor
 hello what is the room of professors
 hello what is the room of teacher
+hello what is the room of lecturer
 hello what is the room of the sir
 hello what is the room of the professor
 hello what is the room of the professors
 hello what is the room of the teacher
+hello what is the room of the lecturer
 hello what is the location of sir
 hello what is the location of professor
 hello what is the location of professors
 hello what is the location of teacher
+hello what is the location of lecturer
 hello what is the location of the sir
 hello what is the location of the professor
 hello what is the location of the professors
 hello what is the location of the teacher
+hello what is the location of the lecturer
 hello what is the building of sir
 hello what is the building of professor
 hello what is the building of professors
 hello what is the building of teacher
+hello what is the building of lecturer
 hello what is the building of the sir
 hello what is the building of the professor
 hello what is the building of the professors
 hello what is the building of the teacher
+hello what is the building of the lecturer
 sir office
 sir room
 sir location
@@ -1422,6 +1774,10 @@ teacher office
 teacher room
 teacher location
 teacher building
+lecturer office
+lecturer room
+lecturer location
+lecturer building
 the sir office
 the sir room
 the sir location
@@ -1438,6 +1794,10 @@ the teacher office
 the teacher room
 the teacher location
 the teacher building
+the lecturer office
+the lecturer room
+the lecturer location
+the lecturer building
 me sir office
 me sir room
 me sir location
@@ -1454,6 +1814,10 @@ me teacher office
 me teacher room
 me teacher location
 me teacher building
+me lecturer office
+me lecturer room
+me lecturer location
+me lecturer building
 me the sir office
 me the sir room
 me the sir location
@@ -1470,6 +1834,10 @@ me the teacher office
 me the teacher room
 me the teacher location
 me the teacher building
+me the lecturer office
+me the lecturer room
+me the lecturer location
+me the lecturer building
 tell sir office
 tell sir room
 tell sir location
@@ -1486,6 +1854,10 @@ tell teacher office
 tell teacher room
 tell teacher location
 tell teacher building
+tell lecturer office
+tell lecturer room
+tell lecturer location
+tell lecturer building
 tell the sir office
 tell the sir room
 tell the sir location
@@ -1502,6 +1874,10 @@ tell the teacher office
 tell the teacher room
 tell the teacher location
 tell the teacher building
+tell the lecturer office
+tell the lecturer room
+tell the lecturer location
+tell the lecturer building
 tell me sir office
 tell me sir room
 tell me sir location
@@ -1518,6 +1894,10 @@ tell me teacher office
 tell me teacher room
 tell me teacher location
 tell me teacher building
+tell me lecturer office
+tell me lecturer room
+tell me lecturer location
+tell me lecturer building
 tell me the sir office
 tell me the sir room
 tell me the sir location
@@ -1534,6 +1914,10 @@ tell me the teacher office
 tell me the teacher room
 tell me the teacher location
 tell me the teacher building
+tell me the lecturer office
+tell me the lecturer room
+tell me the lecturer location
+tell me the lecturer building
 hi sir office
 hi sir room
 hi sir location
@@ -1550,6 +1934,10 @@ hi teacher office
 hi teacher room
 hi teacher location
 hi teacher building
+hi lecturer office
+hi lecturer room
+hi lecturer location
+hi lecturer building
 hi the sir office
 hi the sir room
 hi the sir location
@@ -1566,6 +1954,10 @@ hi the teacher office
 hi the teacher room
 hi the teacher location
 hi the teacher building
+hi the lecturer office
+hi the lecturer room
+hi the lecturer location
+hi the lecturer building
 hi me sir office
 hi me sir room
 hi me sir location
@@ -1582,6 +1974,10 @@ hi me teacher office
 hi me teacher room
 hi me teacher location
 hi me teacher building
+hi me lecturer office
+hi me lecturer room
+hi me lecturer location
+hi me lecturer building
 hi me the sir office
 hi me the sir room
 hi me the sir location
@@ -1598,6 +1994,10 @@ hi me the teacher office
 hi me the teacher room
 hi me the teacher location
 hi me the teacher building
+hi me the lecturer office
+hi me the lecturer room
+hi me the lecturer location
+hi me the lecturer building
 hi tell sir office
 hi tell sir room
 hi tell sir location
@@ -1614,6 +2014,10 @@ hi tell teacher office
 hi tell teacher room
 hi tell teacher location
 hi tell teacher building
+hi tell lecturer office
+hi tell lecturer room
+hi tell lecturer location
+hi tell lecturer building
 hi tell the sir office
 hi tell the sir room
 hi tell the sir location
@@ -1630,6 +2034,10 @@ hi tell the teacher office
 hi tell the teacher room
 hi tell the teacher location
 hi tell the teacher building
+hi tell the lecturer office
+hi tell the lecturer room
+hi tell the lecturer location
+hi tell the lecturer building
 hi tell me sir office
 hi tell me sir room
 hi tell me sir location
@@ -1646,6 +2054,10 @@ hi tell me teacher office
 hi tell me teacher room
 hi tell me teacher location
 hi tell me teacher building
+hi tell me lecturer office
+hi tell me lecturer room
+hi tell me lecturer location
+hi tell me lecturer building
 hi tell me the sir office
 hi tell me the sir room
 hi tell me the sir location
@@ -1662,6 +2074,10 @@ hi tell me the teacher office
 hi tell me the teacher room
 hi tell me the teacher location
 hi tell me the teacher building
+hi tell me the lecturer office
+hi tell me the lecturer room
+hi tell me the lecturer location
+hi tell me the lecturer building
 hey sir office
 hey sir room
 hey sir location
@@ -1678,6 +2094,10 @@ hey teacher office
 hey teacher room
 hey teacher location
 hey teacher building
+hey lecturer office
+hey lecturer room
+hey lecturer location
+hey lecturer building
 hey the sir office
 hey the sir room
 hey the sir location
@@ -1694,6 +2114,10 @@ hey the teacher office
 hey the teacher room
 hey the teacher location
 hey the teacher building
+hey the lecturer office
+hey the lecturer room
+hey the lecturer location
+hey the lecturer building
 hey me sir office
 hey me sir room
 hey me sir location
@@ -1710,6 +2134,10 @@ hey me teacher office
 hey me teacher room
 hey me teacher location
 hey me teacher building
+hey me lecturer office
+hey me lecturer room
+hey me lecturer location
+hey me lecturer building
 hey me the sir office
 hey me the sir room
 hey me the sir location
@@ -1726,6 +2154,10 @@ hey me the teacher office
 hey me the teacher room
 hey me the teacher location
 hey me the teacher building
+hey me the lecturer office
+hey me the lecturer room
+hey me the lecturer location
+hey me the lecturer building
 hey tell sir office
 hey tell sir room
 hey tell sir location
@@ -1742,6 +2174,10 @@ hey tell teacher office
 hey tell teacher room
 hey tell teacher location
 hey tell teacher building
+hey tell lecturer office
+hey tell lecturer room
+hey tell lecturer location
+hey tell lecturer building
 hey tell the sir office
 hey tell the sir room
 hey tell the sir location
@@ -1758,6 +2194,10 @@ hey tell the teacher office
 hey tell the teacher room
 hey tell the teacher location
 hey tell the teacher building
+hey tell the lecturer office
+hey tell the lecturer room
+hey tell the lecturer location
+hey tell the lecturer building
 hey tell me sir office
 hey tell me sir room
 hey tell me sir location
@@ -1774,6 +2214,10 @@ hey tell me teacher office
 hey tell me teacher room
 hey tell me teacher location
 hey tell me teacher building
+hey tell me lecturer office
+hey tell me lecturer room
+hey tell me lecturer location
+hey tell me lecturer building
 hey tell me the sir office
 hey tell me the sir room
 hey tell me the sir location
@@ -1790,6 +2234,10 @@ hey tell me the teacher office
 hey tell me the teacher room
 hey tell me the teacher location
 hey tell me the teacher building
+hey tell me the lecturer office
+hey tell me the lecturer room
+hey tell me the lecturer location
+hey tell me the lecturer building
 hello sir office
 hello sir room
 hello sir location
@@ -1806,6 +2254,10 @@ hello teacher office
 hello teacher room
 hello teacher location
 hello teacher building
+hello lecturer office
+hello lecturer room
+hello lecturer location
+hello lecturer building
 hello the sir office
 hello the sir room
 hello the sir location
@@ -1822,6 +2274,10 @@ hello the teacher office
 hello the teacher room
 hello the teacher location
 hello the teacher building
+hello the lecturer office
+hello the lecturer room
+hello the lecturer location
+hello the lecturer building
 hello me sir office
 hello me sir room
 hello me sir location
@@ -1838,6 +2294,10 @@ hello me teacher office
 hello me teacher room
 hello me teacher location
 hello me teacher building
+hello me lecturer office
+hello me lecturer room
+hello me lecturer location
+hello me lecturer building
 hello me the sir office
 hello me the sir room
 hello me the sir location
@@ -1854,6 +2314,10 @@ hello me the teacher office
 hello me the teacher room
 hello me the teacher location
 hello me the teacher building
+hello me the lecturer office
+hello me the lecturer room
+hello me the lecturer location
+hello me the lecturer building
 hello tell sir office
 hello tell sir room
 hello tell sir location
@@ -1870,6 +2334,10 @@ hello tell teacher office
 hello tell teacher room
 hello tell teacher location
 hello tell teacher building
+hello tell lecturer office
+hello tell lecturer room
+hello tell lecturer location
+hello tell lecturer building
 hello tell the sir office
 hello tell the sir room
 hello tell the sir location
@@ -1886,6 +2354,10 @@ hello tell the teacher office
 hello tell the teacher room
 hello tell the teacher location
 hello tell the teacher building
+hello tell the lecturer office
+hello tell the lecturer room
+hello tell the lecturer location
+hello tell the lecturer building
 hello tell me sir office
 hello tell me sir room
 hello tell me sir location
@@ -1902,6 +2374,10 @@ hello tell me teacher office
 hello tell me teacher room
 hello tell me teacher location
 hello tell me teacher building
+hello tell me lecturer office
+hello tell me lecturer room
+hello tell me lecturer location
+hello tell me lecturer building
 hello tell me the sir office
 hello tell me the sir room
 hello tell me the sir location
@@ -1918,6 +2394,10 @@ hello tell me the teacher office
 hello tell me the teacher room
 hello tell me the teacher location
 hello tell me the teacher building
+hello tell me the lecturer office
+hello tell me the lecturer room
+hello tell me the lecturer location
+hello tell me the lecturer building
 where is sir office
 where is sir room
 where is sir location
@@ -1934,6 +2414,10 @@ where is teacher office
 where is teacher room
 where is teacher location
 where is teacher building
+where is lecturer office
+where is lecturer room
+where is lecturer location
+where is lecturer building
 where is the sir office
 where is the sir room
 where is the sir location
@@ -1950,6 +2434,10 @@ where is the teacher office
 where is the teacher room
 where is the teacher location
 where is the teacher building
+where is the lecturer office
+where is the lecturer room
+where is the lecturer location
+where is the lecturer building
 hi where is sir office
 hi where is sir room
 hi where is sir location
@@ -1966,6 +2454,10 @@ hi where is teacher office
 hi where is teacher room
 hi where is teacher location
 hi where is teacher building
+hi where is lecturer office
+hi where is lecturer room
+hi where is lecturer location
+hi where is lecturer building
 hi where is the sir office
 hi where is the sir room
 hi where is the sir location
@@ -1982,6 +2474,10 @@ hi where is the teacher office
 hi where is the teacher room
 hi where is the teacher location
 hi where is the teacher building
+hi where is the lecturer office
+hi where is the lecturer room
+hi where is the lecturer location
+hi where is the lecturer building
 hey where is sir office
 hey where is sir room
 hey where is sir location
@@ -1998,6 +2494,10 @@ hey where is teacher office
 hey where is teacher room
 hey where is teacher location
 hey where is teacher building
+hey where is lecturer office
+hey where is lecturer room
+hey where is lecturer location
+hey where is lecturer building
 hey where is the sir office
 hey where is the sir room
 hey where is the sir location
@@ -2014,6 +2514,10 @@ hey where is the teacher office
 hey where is the teacher room
 hey where is the teacher location
 hey where is the teacher building
+hey where is the lecturer office
+hey where is the lecturer room
+hey where is the lecturer location
+hey where is the lecturer building
 hello where is sir office
 hello where is sir room
 hello where is sir location
@@ -2030,6 +2534,10 @@ hello where is teacher office
 hello where is teacher room
 hello where is teacher location
 hello where is teacher building
+hello where is lecturer office
+hello where is lecturer room
+hello where is lecturer location
+hello where is lecturer building
 hello where is the sir office
 hello where is the sir room
 hello where is the sir location
@@ -2046,6 +2554,10 @@ hello where is the teacher office
 hello where is the teacher room
 hello where is the teacher location
 hello where is the teacher building
+hello where is the lecturer office
+hello where is the lecturer room
+hello where is the lecturer location
+hello where is the lecturer building
 where sir sit
 where sir located
 where sir situated
@@ -2058,6 +2570,9 @@ where professors situated
 where teacher sit
 where teacher located
 where teacher situated
+where lecturer sit
+where lecturer located
+where lecturer situated
 where the sir sit
 where the sir located
 where the sir situated
@@ -2070,6 +2585,9 @@ where the professors situated
 where the teacher sit
 where the teacher located
 where the teacher situated
+where the lecturer sit
+where the lecturer located
+where the lecturer situated
 where does sir sit
 where does sir located
 where does sir situated
@@ -2082,6 +2600,9 @@ where does professors situated
 where does teacher sit
 where does teacher located
 where does teacher situated
+where does lecturer sit
+where does lecturer located
+where does lecturer situated
 where does the sir sit
 where does the sir located
 where does the sir situated
@@ -2094,6 +2615,9 @@ where does the professors situated
 where does the teacher sit
 where does the teacher located
 where does the teacher situated
+where does the lecturer sit
+where does the lecturer located
+where does the lecturer situated
 hi where sir sit
 hi where sir located
 hi where sir situated
@@ -2106,6 +2630,9 @@ hi where professors situated
 hi where teacher sit
 hi where teacher located
 hi where teacher situated
+hi where lecturer sit
+hi where lecturer located
+hi where lecturer situated
 hi where the sir sit
 hi where the sir located
 hi where the sir situated
@@ -2118,6 +2645,9 @@ hi where the professors situated
 hi where the teacher sit
 hi where the teacher located
 hi where the teacher situated
+hi where the lecturer sit
+hi where the lecturer located
+hi where the lecturer situated
 hi where does sir sit
 hi where does sir located
 hi where does sir situated
@@ -2130,6 +2660,9 @@ hi where does professors situated
 hi where does teacher sit
 hi where does teacher located
 hi where does teacher situated
+hi where does lecturer sit
+hi where does lecturer located
+hi where does lecturer situated
 hi where does the sir sit
 hi where does the sir located
 hi where does the sir situated
@@ -2142,6 +2675,9 @@ hi where does the professors situated
 hi where does the teacher sit
 hi where does the teacher located
 hi where does the teacher situated
+hi where does the lecturer sit
+hi where does the lecturer located
+hi where does the lecturer situated
 hey where sir sit
 hey where sir located
 hey where sir situated
@@ -2154,6 +2690,9 @@ hey where professors situated
 hey where teacher sit
 hey where teacher located
 hey where teacher situated
+hey where lecturer sit
+hey where lecturer located
+hey where lecturer situated
 hey where the sir sit
 hey where the sir located
 hey where the sir situated
@@ -2166,6 +2705,9 @@ hey where the professors situated
 hey where the teacher sit
 hey where the teacher located
 hey where the teacher situated
+hey where the lecturer sit
+hey where the lecturer located
+hey where the lecturer situated
 hey where does sir sit
 hey where does sir located
 hey where does sir situated
@@ -2178,6 +2720,9 @@ hey where does professors situated
 hey where does teacher sit
 hey where does teacher located
 hey where does teacher situated
+hey where does lecturer sit
+hey where does lecturer located
+hey where does lecturer situated
 hey where does the sir sit
 hey where does the sir located
 hey where does the sir situated
@@ -2190,6 +2735,9 @@ hey where does the professors situated
 hey where does the teacher sit
 hey where does the teacher located
 hey where does the teacher situated
+hey where does the lecturer sit
+hey where does the lecturer located
+hey where does the lecturer situated
 hello where sir sit
 hello where sir located
 hello where sir situated
@@ -2202,6 +2750,9 @@ hello where professors situated
 hello where teacher sit
 hello where teacher located
 hello where teacher situated
+hello where lecturer sit
+hello where lecturer located
+hello where lecturer situated
 hello where the sir sit
 hello where the sir located
 hello where the sir situated
@@ -2214,6 +2765,9 @@ hello where the professors situated
 hello where the teacher sit
 hello where the teacher located
 hello where the teacher situated
+hello where the lecturer sit
+hello where the lecturer located
+hello where the lecturer situated
 hello where does sir sit
 hello where does sir located
 hello where does sir situated
@@ -2226,6 +2780,9 @@ hello where does professors situated
 hello where does teacher sit
 hello where does teacher located
 hello where does teacher situated
+hello where does lecturer sit
+hello where does lecturer located
+hello where does lecturer situated
 hello where does the sir sit
 hello where does the sir located
 hello where does the sir situated
@@ -2238,134 +2795,169 @@ hello where does the professors situated
 hello where does the teacher sit
 hello where does the teacher located
 hello where does the teacher situated
+hello where does the lecturer sit
+hello where does the lecturer located
+hello where does the lecturer situated
 what is the office of sir
 what is the office of professor
 what is the office of professors
 what is the office of teacher
+what is the office of lecturer
 what is the office of the sir
 what is the office of the professor
 what is the office of the professors
 what is the office of the teacher
+what is the office of the lecturer
 what is the room of sir
 what is the room of professor
 what is the room of professors
 what is the room of teacher
+what is the room of lecturer
 what is the room of the sir
 what is the room of the professor
 what is the room of the professors
 what is the room of the teacher
+what is the room of the lecturer
 what is the location of sir
 what is the location of professor
 what is the location of professors
 what is the location of teacher
+what is the location of lecturer
 what is the location of the sir
 what is the location of the professor
 what is the location of the professors
 what is the location of the teacher
+what is the location of the lecturer
 what is the building of sir
 what is the building of professor
 what is the building of professors
 what is the building of teacher
+what is the building of lecturer
 what is the building of the sir
 what is the building of the professor
 what is the building of the professors
 what is the building of the teacher
+what is the building of the lecturer
 hi what is the office of sir
 hi what is the office of professor
 hi what is the office of professors
 hi what is the office of teacher
+hi what is the office of lecturer
 hi what is the office of the sir
 hi what is the office of the professor
 hi what is the office of the professors
 hi what is the office of the teacher
+hi what is the office of the lecturer
 hi what is the room of sir
 hi what is the room of professor
 hi what is the room of professors
 hi what is the room of teacher
+hi what is the room of lecturer
 hi what is the room of the sir
 hi what is the room of the professor
 hi what is the room of the professors
 hi what is the room of the teacher
+hi what is the room of the lecturer
 hi what is the location of sir
 hi what is the location of professor
 hi what is the location of professors
 hi what is the location of teacher
+hi what is the location of lecturer
 hi what is the location of the sir
 hi what is the location of the professor
 hi what is the location of the professors
 hi what is the location of the teacher
+hi what is the location of the lecturer
 hi what is the building of sir
 hi what is the building of professor
 hi what is the building of professors
 hi what is the building of teacher
+hi what is the building of lecturer
 hi what is the building of the sir
 hi what is the building of the professor
 hi what is the building of the professors
 hi what is the building of the teacher
+hi what is the building of the lecturer
 hey what is the office of sir
 hey what is the office of professor
 hey what is the office of professors
 hey what is the office of teacher
+hey what is the office of lecturer
 hey what is the office of the sir
 hey what is the office of the professor
 hey what is the office of the professors
 hey what is the office of the teacher
+hey what is the office of the lecturer
 hey what is the room of sir
 hey what is the room of professor
 hey what is the room of professors
 hey what is the room of teacher
+hey what is the room of lecturer
 hey what is the room of the sir
 hey what is the room of the professor
 hey what is the room of the professors
 hey what is the room of the teacher
+hey what is the room of the lecturer
 hey what is the location of sir
 hey what is the location of professor
 hey what is the location of professors
 hey what is the location of teacher
+hey what is the location of lecturer
 hey what is the location of the sir
 hey what is the location of the professor
 hey what is the location of the professors
 hey what is the location of the teacher
+hey what is the location of the lecturer
 hey what is the building of sir
 hey what is the building of professor
 hey what is the building of professors
 hey what is the building of teacher
+hey what is the building of lecturer
 hey what is the building of the sir
 hey what is the building of the professor
 hey what is the building of the professors
 hey what is the building of the teacher
+hey what is the building of the lecturer
 hello what is the office of sir
 hello what is the office of professor
 hello what is the office of professors
 hello what is the office of teacher
+hello what is the office of lecturer
 hello what is the office of the sir
 hello what is the office of the professor
 hello what is the office of the professors
 hello what is the office of the teacher
+hello what is the office of the lecturer
 hello what is the room of sir
 hello what is the room of professor
 hello what is the room of professors
 hello what is the room of teacher
+hello what is the room of lecturer
 hello what is the room of the sir
 hello what is the room of the professor
 hello what is the room of the professors
 hello what is the room of the teacher
+hello what is the room of the lecturer
 hello what is the location of sir
 hello what is the location of professor
 hello what is the location of professors
 hello what is the location of teacher
+hello what is the location of lecturer
 hello what is the location of the sir
 hello what is the location of the professor
 hello what is the location of the professors
 hello what is the location of the teacher
+hello what is the location of the lecturer
 hello what is the building of sir
 hello what is the building of professor
 hello what is the building of professors
 hello what is the building of teacher
+hello what is the building of lecturer
 hello what is the building of the sir
 hello what is the building of the professor
 hello what is the building of the professors
 hello what is the building of the teacher
+hello what is the building of the lecturer
 sir office
 sir room
 sir location
@@ -2382,6 +2974,10 @@ teacher office
 teacher room
 teacher location
 teacher building
+lecturer office
+lecturer room
+lecturer location
+lecturer building
 the sir office
 the sir room
 the sir location
@@ -2398,6 +2994,10 @@ the teacher office
 the teacher room
 the teacher location
 the teacher building
+the lecturer office
+the lecturer room
+the lecturer location
+the lecturer building
 me sir office
 me sir room
 me sir location
@@ -2414,6 +3014,10 @@ me teacher office
 me teacher room
 me teacher location
 me teacher building
+me lecturer office
+me lecturer room
+me lecturer location
+me lecturer building
 me the sir office
 me the sir room
 me the sir location
@@ -2430,6 +3034,10 @@ me the teacher office
 me the teacher room
 me the teacher location
 me the teacher building
+me the lecturer office
+me the lecturer room
+me the lecturer location
+me the lecturer building
 tell sir office
 tell sir room
 tell sir location
@@ -2446,6 +3054,10 @@ tell teacher office
 tell teacher room
 tell teacher location
 tell teacher building
+tell lecturer office
+tell lecturer room
+tell lecturer location
+tell lecturer building
 tell the sir office
 tell the sir room
 tell the sir location
@@ -2462,6 +3074,10 @@ tell the teacher office
 tell the teacher room
 tell the teacher location
 tell the teacher building
+tell the lecturer office
+tell the lecturer room
+tell the lecturer location
+tell the lecturer building
 tell me sir office
 tell me sir room
 tell me sir location
@@ -2478,6 +3094,10 @@ tell me teacher office
 tell me teacher room
 tell me teacher location
 tell me teacher building
+tell me lecturer office
+tell me lecturer room
+tell me lecturer location
+tell me lecturer building
 tell me the sir office
 tell me the sir room
 tell me the sir location
@@ -2494,6 +3114,10 @@ tell me the teacher office
 tell me the teacher room
 tell me the teacher location
 tell me the teacher building
+tell me the lecturer office
+tell me the lecturer room
+tell me the lecturer location
+tell me the lecturer building
 hi sir office
 hi sir room
 hi sir location
@@ -2510,6 +3134,10 @@ hi teacher office
 hi teacher room
 hi teacher location
 hi teacher building
+hi lecturer office
+hi lecturer room
+hi lecturer location
+hi lecturer building
 hi the sir office
 hi the sir room
 hi the sir location
@@ -2526,6 +3154,10 @@ hi the teacher office
 hi the teacher room
 hi the teacher location
 hi the teacher building
+hi the lecturer office
+hi the lecturer room
+hi the lecturer location
+hi the lecturer building
 hi me sir office
 hi me sir room
 hi me sir location
@@ -2542,6 +3174,10 @@ hi me teacher office
 hi me teacher room
 hi me teacher location
 hi me teacher building
+hi me lecturer office
+hi me lecturer room
+hi me lecturer location
+hi me lecturer building
 hi me the sir office
 hi me the sir room
 hi me the sir location
@@ -2558,6 +3194,10 @@ hi me the teacher office
 hi me the teacher room
 hi me the teacher location
 hi me the teacher building
+hi me the lecturer office
+hi me the lecturer room
+hi me the lecturer location
+hi me the lecturer building
 hi tell sir office
 hi tell sir room
 hi tell sir location
@@ -2574,6 +3214,10 @@ hi tell teacher office
 hi tell teacher room
 hi tell teacher location
 hi tell teacher building
+hi tell lecturer office
+hi tell lecturer room
+hi tell lecturer location
+hi tell lecturer building
 hi tell the sir office
 hi tell the sir room
 hi tell the sir location
@@ -2590,6 +3234,10 @@ hi tell the teacher office
 hi tell the teacher room
 hi tell the teacher location
 hi tell the teacher building
+hi tell the lecturer office
+hi tell the lecturer room
+hi tell the lecturer location
+hi tell the lecturer building
 hi tell me sir office
 hi tell me sir room
 hi tell me sir location
@@ -2606,6 +3254,10 @@ hi tell me teacher office
 hi tell me teacher room
 hi tell me teacher location
 hi tell me teacher building
+hi tell me lecturer office
+hi tell me lecturer room
+hi tell me lecturer location
+hi tell me lecturer building
 hi tell me the sir office
 hi tell me the sir room
 hi tell me the sir location
@@ -2622,6 +3274,10 @@ hi tell me the teacher office
 hi tell me the teacher room
 hi tell me the teacher location
 hi tell me the teacher building
+hi tell me the lecturer office
+hi tell me the lecturer room
+hi tell me the lecturer location
+hi tell me the lecturer building
 hey sir office
 hey sir room
 hey sir location
@@ -2638,6 +3294,10 @@ hey teacher office
 hey teacher room
 hey teacher location
 hey teacher building
+hey lecturer office
+hey lecturer room
+hey lecturer location
+hey lecturer building
 hey the sir office
 hey the sir room
 hey the sir location
@@ -2654,6 +3314,10 @@ hey the teacher office
 hey the teacher room
 hey the teacher location
 hey the teacher building
+hey the lecturer office
+hey the lecturer room
+hey the lecturer location
+hey the lecturer building
 hey me sir office
 hey me sir room
 hey me sir location
@@ -2670,6 +3334,10 @@ hey me teacher office
 hey me teacher room
 hey me teacher location
 hey me teacher building
+hey me lecturer office
+hey me lecturer room
+hey me lecturer location
+hey me lecturer building
 hey me the sir office
 hey me the sir room
 hey me the sir location
@@ -2686,6 +3354,10 @@ hey me the teacher office
 hey me the teacher room
 hey me the teacher location
 hey me the teacher building
+hey me the lecturer office
+hey me the lecturer room
+hey me the lecturer location
+hey me the lecturer building
 hey tell sir office
 hey tell sir room
 hey tell sir location
@@ -2702,6 +3374,10 @@ hey tell teacher office
 hey tell teacher room
 hey tell teacher location
 hey tell teacher building
+hey tell lecturer office
+hey tell lecturer room
+hey tell lecturer location
+hey tell lecturer building
 hey tell the sir office
 hey tell the sir room
 hey tell the sir location
@@ -2718,6 +3394,10 @@ hey tell the teacher office
 hey tell the teacher room
 hey tell the teacher location
 hey tell the teacher building
+hey tell the lecturer office
+hey tell the lecturer room
+hey tell the lecturer location
+hey tell the lecturer building
 hey tell me sir office
 hey tell me sir room
 hey tell me sir location
@@ -2734,6 +3414,10 @@ hey tell me teacher office
 hey tell me teacher room
 hey tell me teacher location
 hey tell me teacher building
+hey tell me lecturer office
+hey tell me lecturer room
+hey tell me lecturer location
+hey tell me lecturer building
 hey tell me the sir office
 hey tell me the sir room
 hey tell me the sir location
@@ -2750,6 +3434,10 @@ hey tell me the teacher office
 hey tell me the teacher room
 hey tell me the teacher location
 hey tell me the teacher building
+hey tell me the lecturer office
+hey tell me the lecturer room
+hey tell me the lecturer location
+hey tell me the lecturer building
 hello sir office
 hello sir room
 hello sir location
@@ -2766,6 +3454,10 @@ hello teacher office
 hello teacher room
 hello teacher location
 hello teacher building
+hello lecturer office
+hello lecturer room
+hello lecturer location
+hello lecturer building
 hello the sir office
 hello the sir room
 hello the sir location
@@ -2782,6 +3474,10 @@ hello the teacher office
 hello the teacher room
 hello the teacher location
 hello the teacher building
+hello the lecturer office
+hello the lecturer room
+hello the lecturer location
+hello the lecturer building
 hello me sir office
 hello me sir room
 hello me sir location
@@ -2798,6 +3494,10 @@ hello me teacher office
 hello me teacher room
 hello me teacher location
 hello me teacher building
+hello me lecturer office
+hello me lecturer room
+hello me lecturer location
+hello me lecturer building
 hello me the sir office
 hello me the sir room
 hello me the sir location
@@ -2814,6 +3514,10 @@ hello me the teacher office
 hello me the teacher room
 hello me the teacher location
 hello me the teacher building
+hello me the lecturer office
+hello me the lecturer room
+hello me the lecturer location
+hello me the lecturer building
 hello tell sir office
 hello tell sir room
 hello tell sir location
@@ -2830,6 +3534,10 @@ hello tell teacher office
 hello tell teacher room
 hello tell teacher location
 hello tell teacher building
+hello tell lecturer office
+hello tell lecturer room
+hello tell lecturer location
+hello tell lecturer building
 hello tell the sir office
 hello tell the sir room
 hello tell the sir location
@@ -2846,6 +3554,10 @@ hello tell the teacher office
 hello tell the teacher room
 hello tell the teacher location
 hello tell the teacher building
+hello tell the lecturer office
+hello tell the lecturer room
+hello tell the lecturer location
+hello tell the lecturer building
 hello tell me sir office
 hello tell me sir room
 hello tell me sir location
@@ -2862,6 +3574,10 @@ hello tell me teacher office
 hello tell me teacher room
 hello tell me teacher location
 hello tell me teacher building
+hello tell me lecturer office
+hello tell me lecturer room
+hello tell me lecturer location
+hello tell me lecturer building
 hello tell me the sir office
 hello tell me the sir room
 hello tell me the sir location
@@ -2878,3 +3594,7 @@ hello tell me the teacher office
 hello tell me the teacher room
 hello tell me the teacher location
 hello tell me the teacher building
+hello tell me the lecturer office
+hello tell me the lecturer room
+hello tell me the lecturer location
+hello tell me the lecturer building

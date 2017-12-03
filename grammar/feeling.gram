@@ -1,6 +1,7 @@
 #JSGF V1.0;
 grammer feeling;
-public<a> = How are you [<feeling>];
-public<b> = How's [<life>];
+public <a> = How are you [<feeling>];
+public <b> = How's [<life>];
+
 <feeling> = feeling|doing;
 <life> = things|life;

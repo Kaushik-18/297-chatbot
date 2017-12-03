@@ -9,6 +9,6 @@ public <d> = [<greeting>] [tell] [me] [the] <noun> (<room>);
 <greeting> = hi | hey | hello; 
 <room> = office | room | location | building;
 <grammer> = sit | located | situated;
-<noun> = sir | professor | professors | teacher;
+<noun> = sir | professor | professors | teacher | lecturer;
 
 

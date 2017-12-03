@@ -13,6 +13,7 @@ public <i> = [<greeting>] when would [the] <professor> (<meet> | be);
 public <j> = [<greeting>] when <professor> <meet>;
 public <k> = [<greeting>] [I] [want] [to] <professor> <meet>;
 public <l> = [<greeting>] [I] [want] [to] <meet> [the] <professor>;
+public <m> = [<greeting>] <professor> office hours;
 
 <greeting> = hi | hey | hello; 
 <time> = time | timing;

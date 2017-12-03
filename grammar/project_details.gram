@@ -1,14 +1,15 @@
 JSGF V1.0;
 grammar Project_Details;
 
-public <a> = [<greeting>] what <is> [the] <project> <detail>;
-public <b> = [<greeting>] [tell] [me] [about] <project> <detail>;
+public <a> = [<greeting>] what <is> [the] [<course>] <project> [<detail>];
+public <b> = [<greeting>] [tell] [me] [about] [<course>] <project> [<detail>];
 
 
 <is> = is | are;
 <greeting> = hi | hey | hello;
 <detail> = detail | details | about | on;
 <project> = project | assignment;
+<course> = class | course | CMPE297 | Deep Learning | lecture | subject;
 
 
 

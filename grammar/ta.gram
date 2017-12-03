@@ -1,0 +1,14 @@
+#JSGF V1.0;
+grammar Professor;
+
+public <a> = [<greeting>] who (is|are) the <ta>
+public <a> = [<greeting>] who (is|are) the <ta> for <course>;
+public <c> =[<greeting>] what is [the] <ta> name for (this|the) <course>;
+public <d> = what is [the] <ta> name;
+public <e> = who is (abhi | abhiram | abhiram reddy salammagari)
+public <e> = who is (srivatsa | srivatsa mulpuri)
+
+<greeting> = hi | hey | hello; 
+<course> = class | course | CMPE297 | Deep Learning | subject | lecture;
+<ta> = TA | teaching assistant | ISA;
+

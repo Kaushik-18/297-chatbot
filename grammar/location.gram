@@ -8,6 +8,6 @@ public <d> = [<greeting>] what is the <room> of [the] <course>;
 
 <greeting> = hi | hey | hello; 
 <room> = classroom | room | location | building;
-<course> = class | course | CMPE297 | Deep Learning | lecture;
+<course> = class | course | CMPE297 | Deep Learning | lecture | subject;
 
 

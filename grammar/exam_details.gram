@@ -1,8 +1,9 @@
 #JSGF V1.0;
 grammar Exam_Details;
 
-public <a> = [<greeting>] what <is> [the] <exam> <detail>;
-public <b> = [<greeting>] [tell] [me] [about] <exam> <detail>;
+public <a> = [<greeting>] what <is> [the] [final] <exam> <detail>;
+public <b> = [<greeting>] [tell] [me] [about] [final] <exam> <detail>;
+public <c> = [<greeting>] when is the [final] exam;
 
 
 <is> = is | are;

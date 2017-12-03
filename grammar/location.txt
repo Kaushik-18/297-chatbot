@@ -7,6 +7,7 @@ where is the course
 where is the CMPE297
 where is the Deep Learning
 where is the lecture
+where is the subject
 hi where is the classroom
 hi where is the room
 hi where is the location
@@ -16,6 +17,7 @@ hi where is the course
 hi where is the CMPE297
 hi where is the Deep Learning
 hi where is the lecture
+hi where is the subject
 hey where is the classroom
 hey where is the room
 hey where is the location
@@ -25,6 +27,7 @@ hey where is the course
 hey where is the CMPE297
 hey where is the Deep Learning
 hey where is the lecture
+hey where is the subject
 hello where is the classroom
 hello where is the room
 hello where is the location
@@ -34,6 +37,7 @@ hello where is the course
 hello where is the CMPE297
 hello where is the Deep Learning
 hello where is the lecture
+hello where is the subject
 where is the class classroom
 where is the class room
 where is the class location
@@ -54,6 +58,10 @@ where is the lecture classroom
 where is the lecture room
 where is the lecture location
 where is the lecture building
+where is the subject classroom
+where is the subject room
+where is the subject location
+where is the subject building
 hi where is the class classroom
 hi where is the class room
 hi where is the class location
@@ -74,6 +82,10 @@ hi where is the lecture classroom
 hi where is the lecture room
 hi where is the lecture location
 hi where is the lecture building
+hi where is the subject classroom
+hi where is the subject room
+hi where is the subject location
+hi where is the subject building
 hey where is the class classroom
 hey where is the class room
 hey where is the class location
@@ -94,6 +106,10 @@ hey where is the lecture classroom
 hey where is the lecture room
 hey where is the lecture location
 hey where is the lecture building
+hey where is the subject classroom
+hey where is the subject room
+hey where is the subject location
+hey where is the subject building
 hello where is the class classroom
 hello where is the class room
 hello where is the class location
@@ -114,6 +130,10 @@ hello where is the lecture classroom
 hello where is the lecture room
 hello where is the lecture location
 hello where is the lecture building
+hello where is the subject classroom
+hello where is the subject room
+hello where is the subject location
+hello where is the subject building
 where does the class meet
 where does the class take place
 where does the course meet
@@ -124,6 +144,8 @@ where does the Deep Learning meet
 where does the Deep Learning take place
 where does the lecture meet
 where does the lecture take place
+where does the subject meet
+where does the subject take place
 hi where does the class meet
 hi where does the class take place
 hi where does the course meet
@@ -134,6 +156,8 @@ hi where does the Deep Learning meet
 hi where does the Deep Learning take place
 hi where does the lecture meet
 hi where does the lecture take place
+hi where does the subject meet
+hi where does the subject take place
 hey where does the class meet
 hey where does the class take place
 hey where does the course meet
@@ -144,6 +168,8 @@ hey where does the Deep Learning meet
 hey where does the Deep Learning take place
 hey where does the lecture meet
 hey where does the lecture take place
+hey where does the subject meet
+hey where does the subject take place
 hello where does the class meet
 hello where does the class take place
 hello where does the course meet
@@ -154,166 +180,200 @@ hello where does the Deep Learning meet
 hello where does the Deep Learning take place
 hello where does the lecture meet
 hello where does the lecture take place
+hello where does the subject meet
+hello where does the subject take place
 what is the classroom of class
 what is the classroom of course
 what is the classroom of CMPE297
 what is the classroom of Deep Learning
 what is the classroom of lecture
+what is the classroom of subject
 what is the classroom of the class
 what is the classroom of the course
 what is the classroom of the CMPE297
 what is the classroom of the Deep Learning
 what is the classroom of the lecture
+what is the classroom of the subject
 what is the room of class
 what is the room of course
 what is the room of CMPE297
 what is the room of Deep Learning
 what is the room of lecture
+what is the room of subject
 what is the room of the class
 what is the room of the course
 what is the room of the CMPE297
 what is the room of the Deep Learning
 what is the room of the lecture
+what is the room of the subject
 what is the location of class
 what is the location of course
 what is the location of CMPE297
 what is the location of Deep Learning
 what is the location of lecture
+what is the location of subject
 what is the location of the class
 what is the location of the course
 what is the location of the CMPE297
 what is the location of the Deep Learning
 what is the location of the lecture
+what is the location of the subject
 what is the building of class
 what is the building of course
 what is the building of CMPE297
 what is the building of Deep Learning
 what is the building of lecture
+what is the building of subject
 what is the building of the class
 what is the building of the course
 what is the building of the CMPE297
 what is the building of the Deep Learning
 what is the building of the lecture
+what is the building of the subject
 hi what is the classroom of class
 hi what is the classroom of course
 hi what is the classroom of CMPE297
 hi what is the classroom of Deep Learning
 hi what is the classroom of lecture
+hi what is the classroom of subject
 hi what is the classroom of the class
 hi what is the classroom of the course
 hi what is the classroom of the CMPE297
 hi what is the classroom of the Deep Learning
 hi what is the classroom of the lecture
+hi what is the classroom of the subject
 hi what is the room of class
 hi what is the room of course
 hi what is the room of CMPE297
 hi what is the room of Deep Learning
 hi what is the room of lecture
+hi what is the room of subject
 hi what is the room of the class
 hi what is the room of the course
 hi what is the room of the CMPE297
 hi what is the room of the Deep Learning
 hi what is the room of the lecture
+hi what is the room of the subject
 hi what is the location of class
 hi what is the location of course
 hi what is the location of CMPE297
 hi what is the location of Deep Learning
 hi what is the location of lecture
+hi what is the location of subject
 hi what is the location of the class
 hi what is the location of the course
 hi what is the location of the CMPE297
 hi what is the location of the Deep Learning
 hi what is the location of the lecture
+hi what is the location of the subject
 hi what is the building of class
 hi what is the building of course
 hi what is the building of CMPE297
 hi what is the building of Deep Learning
 hi what is the building of lecture
+hi what is the building of subject
 hi what is the building of the class
 hi what is the building of the course
 hi what is the building of the CMPE297
 hi what is the building of the Deep Learning
 hi what is the building of the lecture
+hi what is the building of the subject
 hey what is the classroom of class
 hey what is the classroom of course
 hey what is the classroom of CMPE297
 hey what is the classroom of Deep Learning
 hey what is the classroom of lecture
+hey what is the classroom of subject
 hey what is the classroom of the class
 hey what is the classroom of the course
 hey what is the classroom of the CMPE297
 hey what is the classroom of the Deep Learning
 hey what is the classroom of the lecture
+hey what is the classroom of the subject
 hey what is the room of class
 hey what is the room of course
 hey what is the room of CMPE297
 hey what is the room of Deep Learning
 hey what is the room of lecture
+hey what is the room of subject
 hey what is the room of the class
 hey what is the room of the course
 hey what is the room of the CMPE297
 hey what is the room of the Deep Learning
 hey what is the room of the lecture
+hey what is the room of the subject
 hey what is the location of class
 hey what is the location of course
 hey what is the location of CMPE297
 hey what is the location of Deep Learning
 hey what is the location of lecture
+hey what is the location of subject
 hey what is the location of the class
 hey what is the location of the course
 hey what is the location of the CMPE297
 hey what is the location of the Deep Learning
 hey what is the location of the lecture
+hey what is the location of the subject
 hey what is the building of class
 hey what is the building of course
 hey what is the building of CMPE297
 hey what is the building of Deep Learning
 hey what is the building of lecture
+hey what is the building of subject
 hey what is the building of the class
 hey what is the building of the course
 hey what is the building of the CMPE297
 hey what is the building of the Deep Learning
 hey what is the building of the lecture
+hey what is the building of the subject
 hello what is the classroom of class
 hello what is the classroom of course
 hello what is the classroom of CMPE297
 hello what is the classroom of Deep Learning
 hello what is the classroom of lecture
+hello what is the classroom of subject
 hello what is the classroom of the class
 hello what is the classroom of the course
 hello what is the classroom of the CMPE297
 hello what is the classroom of the Deep Learning
 hello what is the classroom of the lecture
+hello what is the classroom of the subject
 hello what is the room of class
 hello what is the room of course
 hello what is the room of CMPE297
 hello what is the room of Deep Learning
 hello what is the room of lecture
+hello what is the room of subject
 hello what is the room of the class
 hello what is the room of the course
 hello what is the room of the CMPE297
 hello what is the room of the Deep Learning
 hello what is the room of the lecture
+hello what is the room of the subject
 hello what is the location of class
 hello what is the location of course
 hello what is the location of CMPE297
 hello what is the location of Deep Learning
 hello what is the location of lecture
+hello what is the location of subject
 hello what is the location of the class
 hello what is the location of the course
 hello what is the location of the CMPE297
 hello what is the location of the Deep Learning
 hello what is the location of the lecture
+hello what is the location of the subject
 hello what is the building of class
 hello what is the building of course
 hello what is the building of CMPE297
 hello what is the building of Deep Learning
 hello what is the building of lecture
+hello what is the building of subject
 hello what is the building of the class
 hello what is the building of the course
 hello what is the building of the CMPE297
 hello what is the building of the Deep Learning
 hello what is the building of the lecture
+hello what is the building of the subject
 where is the classroom
 where is the room
 where is the location
@@ -323,6 +383,7 @@ where is the course
 where is the CMPE297
 where is the Deep Learning
 where is the lecture
+where is the subject
 hi where is the classroom
 hi where is the room
 hi where is the location
@@ -332,6 +393,7 @@ hi where is the course
 hi where is the CMPE297
 hi where is the Deep Learning
 hi where is the lecture
+hi where is the subject
 hey where is the classroom
 hey where is the room
 hey where is the location
@@ -341,6 +403,7 @@ hey where is the course
 hey where is the CMPE297
 hey where is the Deep Learning
 hey where is the lecture
+hey where is the subject
 hello where is the classroom
 hello where is the room
 hello where is the location
@@ -350,6 +413,7 @@ hello where is the course
 hello where is the CMPE297
 hello where is the Deep Learning
 hello where is the lecture
+hello where is the subject
 where is the class classroom
 where is the class room
 where is the class location
@@ -370,6 +434,10 @@ where is the lecture classroom
 where is the lecture room
 where is the lecture location
 where is the lecture building
+where is the subject classroom
+where is the subject room
+where is the subject location
+where is the subject building
 hi where is the class classroom
 hi where is the class room
 hi where is the class location
@@ -390,6 +458,10 @@ hi where is the lecture classroom
 hi where is the lecture room
 hi where is the lecture location
 hi where is the lecture building
+hi where is the subject classroom
+hi where is the subject room
+hi where is the subject location
+hi where is the subject building
 hey where is the class classroom
 hey where is the class room
 hey where is the class location
@@ -410,6 +482,10 @@ hey where is the lecture classroom
 hey where is the lecture room
 hey where is the lecture location
 hey where is the lecture building
+hey where is the subject classroom
+hey where is the subject room
+hey where is the subject location
+hey where is the subject building
 hello where is the class classroom
 hello where is the class room
 hello where is the class location
@@ -430,6 +506,10 @@ hello where is the lecture classroom
 hello where is the lecture room
 hello where is the lecture location
 hello where is the lecture building
+hello where is the subject classroom
+hello where is the subject room
+hello where is the subject location
+hello where is the subject building
 where does the class meet
 where does the class take place
 where does the course meet
@@ -440,6 +520,8 @@ where does the Deep Learning meet
 where does the Deep Learning take place
 where does the lecture meet
 where does the lecture take place
+where does the subject meet
+where does the subject take place
 hi where does the class meet
 hi where does the class take place
 hi where does the course meet
@@ -450,6 +532,8 @@ hi where does the Deep Learning meet
 hi where does the Deep Learning take place
 hi where does the lecture meet
 hi where does the lecture take place
+hi where does the subject meet
+hi where does the subject take place
 hey where does the class meet
 hey where does the class take place
 hey where does the course meet
@@ -460,6 +544,8 @@ hey where does the Deep Learning meet
 hey where does the Deep Learning take place
 hey where does the lecture meet
 hey where does the lecture take place
+hey where does the subject meet
+hey where does the subject take place
 hello where does the class meet
 hello where does the class take place
 hello where does the course meet
@@ -470,166 +556,200 @@ hello where does the Deep Learning meet
 hello where does the Deep Learning take place
 hello where does the lecture meet
 hello where does the lecture take place
+hello where does the subject meet
+hello where does the subject take place
 what is the classroom of class
 what is the classroom of course
 what is the classroom of CMPE297
 what is the classroom of Deep Learning
 what is the classroom of lecture
+what is the classroom of subject
 what is the classroom of the class
 what is the classroom of the course
 what is the classroom of the CMPE297
 what is the classroom of the Deep Learning
 what is the classroom of the lecture
+what is the classroom of the subject
 what is the room of class
 what is the room of course
 what is the room of CMPE297
 what is the room of Deep Learning
 what is the room of lecture
+what is the room of subject
 what is the room of the class
 what is the room of the course
 what is the room of the CMPE297
 what is the room of the Deep Learning
 what is the room of the lecture
+what is the room of the subject
 what is the location of class
 what is the location of course
 what is the location of CMPE297
 what is the location of Deep Learning
 what is the location of lecture
+what is the location of subject
 what is the location of the class
 what is the location of the course
 what is the location of the CMPE297
 what is the location of the Deep Learning
 what is the location of the lecture
+what is the location of the subject
 what is the building of class
 what is the building of course
 what is the building of CMPE297
 what is the building of Deep Learning
 what is the building of lecture
+what is the building of subject
 what is the building of the class
 what is the building of the course
 what is the building of the CMPE297
 what is the building of the Deep Learning
 what is the building of the lecture
+what is the building of the subject
 hi what is the classroom of class
 hi what is the classroom of course
 hi what is the classroom of CMPE297
 hi what is the classroom of Deep Learning
 hi what is the classroom of lecture
+hi what is the classroom of subject
 hi what is the classroom of the class
 hi what is the classroom of the course
 hi what is the classroom of the CMPE297
 hi what is the classroom of the Deep Learning
 hi what is the classroom of the lecture
+hi what is the classroom of the subject
 hi what is the room of class
 hi what is the room of course
 hi what is the room of CMPE297
 hi what is the room of Deep Learning
 hi what is the room of lecture
+hi what is the room of subject
 hi what is the room of the class
 hi what is the room of the course
 hi what is the room of the CMPE297
 hi what is the room of the Deep Learning
 hi what is the room of the lecture
+hi what is the room of the subject
 hi what is the location of class
 hi what is the location of course
 hi what is the location of CMPE297
 hi what is the location of Deep Learning
 hi what is the location of lecture
+hi what is the location of subject
 hi what is the location of the class
 hi what is the location of the course
 hi what is the location of the CMPE297
 hi what is the location of the Deep Learning
 hi what is the location of the lecture
+hi what is the location of the subject
 hi what is the building of class
 hi what is the building of course
 hi what is the building of CMPE297
 hi what is the building of Deep Learning
 hi what is the building of lecture
+hi what is the building of subject
 hi what is the building of the class
 hi what is the building of the course
 hi what is the building of the CMPE297
 hi what is the building of the Deep Learning
 hi what is the building of the lecture
+hi what is the building of the subject
 hey what is the classroom of class
 hey what is the classroom of course
 hey what is the classroom of CMPE297
 hey what is the classroom of Deep Learning
 hey what is the classroom of lecture
+hey what is the classroom of subject
 hey what is the classroom of the class
 hey what is the classroom of the course
 hey what is the classroom of the CMPE297
 hey what is the classroom of the Deep Learning
 hey what is the classroom of the lecture
+hey what is the classroom of the subject
 hey what is the room of class
 hey what is the room of course
 hey what is the room of CMPE297
 hey what is the room of Deep Learning
 hey what is the room of lecture
+hey what is the room of subject
 hey what is the room of the class
 hey what is the room of the course
 hey what is the room of the CMPE297
 hey what is the room of the Deep Learning
 hey what is the room of the lecture
+hey what is the room of the subject
 hey what is the location of class
 hey what is the location of course
 hey what is the location of CMPE297
 hey what is the location of Deep Learning
 hey what is the location of lecture
+hey what is the location of subject
 hey what is the location of the class
 hey what is the location of the course
 hey what is the location of the CMPE297
 hey what is the location of the Deep Learning
 hey what is the location of the lecture
+hey what is the location of the subject
 hey what is the building of class
 hey what is the building of course
 hey what is the building of CMPE297
 hey what is the building of Deep Learning
 hey what is the building of lecture
+hey what is the building of subject
 hey what is the building of the class
 hey what is the building of the course
 hey what is the building of the CMPE297
 hey what is the building of the Deep Learning
 hey what is the building of the lecture
+hey what is the building of the subject
 hello what is the classroom of class
 hello what is the classroom of course
 hello what is the classroom of CMPE297
 hello what is the classroom of Deep Learning
 hello what is the classroom of lecture
+hello what is the classroom of subject
 hello what is the classroom of the class
 hello what is the classroom of the course
 hello what is the classroom of the CMPE297
 hello what is the classroom of the Deep Learning
 hello what is the classroom of the lecture
+hello what is the classroom of the subject
 hello what is the room of class
 hello what is the room of course
 hello what is the room of CMPE297
 hello what is the room of Deep Learning
 hello what is the room of lecture
+hello what is the room of subject
 hello what is the room of the class
 hello what is the room of the course
 hello what is the room of the CMPE297
 hello what is the room of the Deep Learning
 hello what is the room of the lecture
+hello what is the room of the subject
 hello what is the location of class
 hello what is the location of course
 hello what is the location of CMPE297
 hello what is the location of Deep Learning
 hello what is the location of lecture
+hello what is the location of subject
 hello what is the location of the class
 hello what is the location of the course
 hello what is the location of the CMPE297
 hello what is the location of the Deep Learning
 hello what is the location of the lecture
+hello what is the location of the subject
 hello what is the building of class
 hello what is the building of course
 hello what is the building of CMPE297
 hello what is the building of Deep Learning
 hello what is the building of lecture
+hello what is the building of subject
 hello what is the building of the class
 hello what is the building of the course
 hello what is the building of the CMPE297
 hello what is the building of the Deep Learning
 hello what is the building of the lecture
+hello what is the building of the subject
 where is the classroom
 where is the room
 where is the location
@@ -639,6 +759,7 @@ where is the course
 where is the CMPE297
 where is the Deep Learning
 where is the lecture
+where is the subject
 hi where is the classroom
 hi where is the room
 hi where is the location
@@ -648,6 +769,7 @@ hi where is the course
 hi where is the CMPE297
 hi where is the Deep Learning
 hi where is the lecture
+hi where is the subject
 hey where is the classroom
 hey where is the room
 hey where is the location
@@ -657,6 +779,7 @@ hey where is the course
 hey where is the CMPE297
 hey where is the Deep Learning
 hey where is the lecture
+hey where is the subject
 hello where is the classroom
 hello where is the room
 hello where is the location
@@ -666,6 +789,7 @@ hello where is the course
 hello where is the CMPE297
 hello where is the Deep Learning
 hello where is the lecture
+hello where is the subject
 where is the class classroom
 where is the class room
 where is the class location
@@ -686,6 +810,10 @@ where is the lecture classroom
 where is the lecture room
 where is the lecture location
 where is the lecture building
+where is the subject classroom
+where is the subject room
+where is the subject location
+where is the subject building
 hi where is the class classroom
 hi where is the class room
 hi where is the class location
@@ -706,6 +834,10 @@ hi where is the lecture classroom
 hi where is the lecture room
 hi where is the lecture location
 hi where is the lecture building
+hi where is the subject classroom
+hi where is the subject room
+hi where is the subject location
+hi where is the subject building
 hey where is the class classroom
 hey where is the class room
 hey where is the class location
@@ -726,6 +858,10 @@ hey where is the lecture classroom
 hey where is the lecture room
 hey where is the lecture location
 hey where is the lecture building
+hey where is the subject classroom
+hey where is the subject room
+hey where is the subject location
+hey where is the subject building
 hello where is the class classroom
 hello where is the class room
 hello where is the class location
@@ -746,6 +882,10 @@ hello where is the lecture classroom
 hello where is the lecture room
 hello where is the lecture location
 hello where is the lecture building
+hello where is the subject classroom
+hello where is the subject room
+hello where is the subject location
+hello where is the subject building
 where does the class meet
 where does the class take place
 where does the course meet
@@ -756,6 +896,8 @@ where does the Deep Learning meet
 where does the Deep Learning take place
 where does the lecture meet
 where does the lecture take place
+where does the subject meet
+where does the subject take place
 hi where does the class meet
 hi where does the class take place
 hi where does the course meet
@@ -766,6 +908,8 @@ hi where does the Deep Learning meet
 hi where does the Deep Learning take place
 hi where does the lecture meet
 hi where does the lecture take place
+hi where does the subject meet
+hi where does the subject take place
 hey where does the class meet
 hey where does the class take place
 hey where does the course meet
@@ -776,6 +920,8 @@ hey where does the Deep Learning meet
 hey where does the Deep Learning take place
 hey where does the lecture meet
 hey where does the lecture take place
+hey where does the subject meet
+hey where does the subject take place
 hello where does the class meet
 hello where does the class take place
 hello where does the course meet
@@ -786,166 +932,200 @@ hello where does the Deep Learning meet
 hello where does the Deep Learning take place
 hello where does the lecture meet
 hello where does the lecture take place
+hello where does the subject meet
+hello where does the subject take place
 what is the classroom of class
 what is the classroom of course
 what is the classroom of CMPE297
 what is the classroom of Deep Learning
 what is the classroom of lecture
+what is the classroom of subject
 what is the classroom of the class
 what is the classroom of the course
 what is the classroom of the CMPE297
 what is the classroom of the Deep Learning
 what is the classroom of the lecture
+what is the classroom of the subject
 what is the room of class
 what is the room of course
 what is the room of CMPE297
 what is the room of Deep Learning
 what is the room of lecture
+what is the room of subject
 what is the room of the class
 what is the room of the course
 what is the room of the CMPE297
 what is the room of the Deep Learning
 what is the room of the lecture
+what is the room of the subject
 what is the location of class
 what is the location of course
 what is the location of CMPE297
 what is the location of Deep Learning
 what is the location of lecture
+what is the location of subject
 what is the location of the class
 what is the location of the course
 what is the location of the CMPE297
 what is the location of the Deep Learning
 what is the location of the lecture
+what is the location of the subject
 what is the building of class
 what is the building of course
 what is the building of CMPE297
 what is the building of Deep Learning
 what is the building of lecture
+what is the building of subject
 what is the building of the class
 what is the building of the course
 what is the building of the CMPE297
 what is the building of the Deep Learning
 what is the building of the lecture
+what is the building of the subject
 hi what is the classroom of class
 hi what is the classroom of course
 hi what is the classroom of CMPE297
 hi what is the classroom of Deep Learning
 hi what is the classroom of lecture
+hi what is the classroom of subject
 hi what is the classroom of the class
 hi what is the classroom of the course
 hi what is the classroom of the CMPE297
 hi what is the classroom of the Deep Learning
 hi what is the classroom of the lecture
+hi what is the classroom of the subject
 hi what is the room of class
 hi what is the room of course
 hi what is the room of CMPE297
 hi what is the room of Deep Learning
 hi what is the room of lecture
+hi what is the room of subject
 hi what is the room of the class
 hi what is the room of the course
 hi what is the room of the CMPE297
 hi what is the room of the Deep Learning
 hi what is the room of the lecture
+hi what is the room of the subject
 hi what is the location of class
 hi what is the location of course
 hi what is the location of CMPE297
 hi what is the location of Deep Learning
 hi what is the location of lecture
+hi what is the location of subject
 hi what is the location of the class
 hi what is the location of the course
 hi what is the location of the CMPE297
 hi what is the location of the Deep Learning
 hi what is the location of the lecture
+hi what is the location of the subject
 hi what is the building of class
 hi what is the building of course
 hi what is the building of CMPE297
 hi what is the building of Deep Learning
 hi what is the building of lecture
+hi what is the building of subject
 hi what is the building of the class
 hi what is the building of the course
 hi what is the building of the CMPE297
 hi what is the building of the Deep Learning
 hi what is the building of the lecture
+hi what is the building of the subject
 hey what is the classroom of class
 hey what is the classroom of course
 hey what is the classroom of CMPE297
 hey what is the classroom of Deep Learning
 hey what is the classroom of lecture
+hey what is the classroom of subject
 hey what is the classroom of the class
 hey what is the classroom of the course
 hey what is the classroom of the CMPE297
 hey what is the classroom of the Deep Learning
 hey what is the classroom of the lecture
+hey what is the classroom of the subject
 hey what is the room of class
 hey what is the room of course
 hey what is the room of CMPE297
 hey what is the room of Deep Learning
 hey what is the room of lecture
+hey what is the room of subject
 hey what is the room of the class
 hey what is the room of the course
 hey what is the room of the CMPE297
 hey what is the room of the Deep Learning
 hey what is the room of the lecture
+hey what is the room of the subject
 hey what is the location of class
 hey what is the location of course
 hey what is the location of CMPE297
 hey what is the location of Deep Learning
 hey what is the location of lecture
+hey what is the location of subject
 hey what is the location of the class
 hey what is the location of the course
 hey what is the location of the CMPE297
 hey what is the location of the Deep Learning
 hey what is the location of the lecture
+hey what is the location of the subject
 hey what is the building of class
 hey what is the building of course
 hey what is the building of CMPE297
 hey what is the building of Deep Learning
 hey what is the building of lecture
+hey what is the building of subject
 hey what is the building of the class
 hey what is the building of the course
 hey what is the building of the CMPE297
 hey what is the building of the Deep Learning
 hey what is the building of the lecture
+hey what is the building of the subject
 hello what is the classroom of class
 hello what is the classroom of course
 hello what is the classroom of CMPE297
 hello what is the classroom of Deep Learning
 hello what is the classroom of lecture
+hello what is the classroom of subject
 hello what is the classroom of the class
 hello what is the classroom of the course
 hello what is the classroom of the CMPE297
 hello what is the classroom of the Deep Learning
 hello what is the classroom of the lecture
+hello what is the classroom of the subject
 hello what is the room of class
 hello what is the room of course
 hello what is the room of CMPE297
 hello what is the room of Deep Learning
 hello what is the room of lecture
+hello what is the room of subject
 hello what is the room of the class
 hello what is the room of the course
 hello what is the room of the CMPE297
 hello what is the room of the Deep Learning
 hello what is the room of the lecture
+hello what is the room of the subject
 hello what is the location of class
 hello what is the location of course
 hello what is the location of CMPE297
 hello what is the location of Deep Learning
 hello what is the location of lecture
+hello what is the location of subject
 hello what is the location of the class
 hello what is the location of the course
 hello what is the location of the CMPE297
 hello what is the location of the Deep Learning
 hello what is the location of the lecture
+hello what is the location of the subject
 hello what is the building of class
 hello what is the building of course
 hello what is the building of CMPE297
 hello what is the building of Deep Learning
 hello what is the building of lecture
+hello what is the building of subject
 hello what is the building of the class
 hello what is the building of the course
 hello what is the building of the CMPE297
 hello what is the building of the Deep Learning
 hello what is the building of the lecture
+hello what is the building of the subject
 where is the classroom
 where is the room
 where is the location
@@ -955,6 +1135,7 @@ where is the course
 where is the CMPE297
 where is the Deep Learning
 where is the lecture
+where is the subject
 hi where is the classroom
 hi where is the room
 hi where is the location
@@ -964,6 +1145,7 @@ hi where is the course
 hi where is the CMPE297
 hi where is the Deep Learning
 hi where is the lecture
+hi where is the subject
 hey where is the classroom
 hey where is the room
 hey where is the location
@@ -973,6 +1155,7 @@ hey where is the course
 hey where is the CMPE297
 hey where is the Deep Learning
 hey where is the lecture
+hey where is the subject
 hello where is the classroom
 hello where is the room
 hello where is the location
@@ -982,6 +1165,7 @@ hello where is the course
 hello where is the CMPE297
 hello where is the Deep Learning
 hello where is the lecture
+hello where is the subject
 where is the class classroom
 where is the class room
 where is the class location
@@ -1002,6 +1186,10 @@ where is the lecture classroom
 where is the lecture room
 where is the lecture location
 where is the lecture building
+where is the subject classroom
+where is the subject room
+where is the subject location
+where is the subject building
 hi where is the class classroom
 hi where is the class room
 hi where is the class location
@@ -1022,6 +1210,10 @@ hi where is the lecture classroom
 hi where is the lecture room
 hi where is the lecture location
 hi where is the lecture building
+hi where is the subject classroom
+hi where is the subject room
+hi where is the subject location
+hi where is the subject building
 hey where is the class classroom
 hey where is the class room
 hey where is the class location
@@ -1042,6 +1234,10 @@ hey where is the lecture classroom
 hey where is the lecture room
 hey where is the lecture location
 hey where is the lecture building
+hey where is the subject classroom
+hey where is the subject room
+hey where is the subject location
+hey where is the subject building
 hello where is the class classroom
 hello where is the class room
 hello where is the class location
@@ -1062,6 +1258,10 @@ hello where is the lecture classroom
 hello where is the lecture room
 hello where is the lecture location
 hello where is the lecture building
+hello where is the subject classroom
+hello where is the subject room
+hello where is the subject location
+hello where is the subject building
 where does the class meet
 where does the class take place
 where does the course meet
@@ -1072,6 +1272,8 @@ where does the Deep Learning meet
 where does the Deep Learning take place
 where does the lecture meet
 where does the lecture take place
+where does the subject meet
+where does the subject take place
 hi where does the class meet
 hi where does the class take place
 hi where does the course meet
@@ -1082,6 +1284,8 @@ hi where does the Deep Learning meet
 hi where does the Deep Learning take place
 hi where does the lecture meet
 hi where does the lecture take place
+hi where does the subject meet
+hi where does the subject take place
 hey where does the class meet
 hey where does the class take place
 hey where does the course meet
@@ -1092,6 +1296,8 @@ hey where does the Deep Learning meet
 hey where does the Deep Learning take place
 hey where does the lecture meet
 hey where does the lecture take place
+hey where does the subject meet
+hey where does the subject take place
 hello where does the class meet
 hello where does the class take place
 hello where does the course meet
@@ -1102,166 +1308,200 @@ hello where does the Deep Learning meet
 hello where does the Deep Learning take place
 hello where does the lecture meet
 hello where does the lecture take place
+hello where does the subject meet
+hello where does the subject take place
 what is the classroom of class
 what is the classroom of course
 what is the classroom of CMPE297
 what is the classroom of Deep Learning
 what is the classroom of lecture
+what is the classroom of subject
 what is the classroom of the class
 what is the classroom of the course
 what is the classroom of the CMPE297
 what is the classroom of the Deep Learning
 what is the classroom of the lecture
+what is the classroom of the subject
 what is the room of class
 what is the room of course
 what is the room of CMPE297
 what is the room of Deep Learning
 what is the room of lecture
+what is the room of subject
 what is the room of the class
 what is the room of the course
 what is the room of the CMPE297
 what is the room of the Deep Learning
 what is the room of the lecture
+what is the room of the subject
 what is the location of class
 what is the location of course
 what is the location of CMPE297
 what is the location of Deep Learning
 what is the location of lecture
+what is the location of subject
 what is the location of the class
 what is the location of the course
 what is the location of the CMPE297
 what is the location of the Deep Learning
 what is the location of the lecture
+what is the location of the subject
 what is the building of class
 what is the building of course
 what is the building of CMPE297
 what is the building of Deep Learning
 what is the building of lecture
+what is the building of subject
 what is the building of the class
 what is the building of the course
 what is the building of the CMPE297
 what is the building of the Deep Learning
 what is the building of the lecture
+what is the building of the subject
 hi what is the classroom of class
 hi what is the classroom of course
 hi what is the classroom of CMPE297
 hi what is the classroom of Deep Learning
 hi what is the classroom of lecture
+hi what is the classroom of subject
 hi what is the classroom of the class
 hi what is the classroom of the course
 hi what is the classroom of the CMPE297
 hi what is the classroom of the Deep Learning
 hi what is the classroom of the lecture
+hi what is the classroom of the subject
 hi what is the room of class
 hi what is the room of course
 hi what is the room of CMPE297
 hi what is the room of Deep Learning
 hi what is the room of lecture
+hi what is the room of subject
 hi what is the room of the class
 hi what is the room of the course
 hi what is the room of the CMPE297
 hi what is the room of the Deep Learning
 hi what is the room of the lecture
+hi what is the room of the subject
 hi what is the location of class
 hi what is the location of course
 hi what is the location of CMPE297
 hi what is the location of Deep Learning
 hi what is the location of lecture
+hi what is the location of subject
 hi what is the location of the class
 hi what is the location of the course
 hi what is the location of the CMPE297
 hi what is the location of the Deep Learning
 hi what is the location of the lecture
+hi what is the location of the subject
 hi what is the building of class
 hi what is the building of course
 hi what is the building of CMPE297
 hi what is the building of Deep Learning
 hi what is the building of lecture
+hi what is the building of subject
 hi what is the building of the class
 hi what is the building of the course
 hi what is the building of the CMPE297
 hi what is the building of the Deep Learning
 hi what is the building of the lecture
+hi what is the building of the subject
 hey what is the classroom of class
 hey what is the classroom of course
 hey what is the classroom of CMPE297
 hey what is the classroom of Deep Learning
 hey what is the classroom of lecture
+hey what is the classroom of subject
 hey what is the classroom of the class
 hey what is the classroom of the course
 hey what is the classroom of the CMPE297
 hey what is the classroom of the Deep Learning
 hey what is the classroom of the lecture
+hey what is the classroom of the subject
 hey what is the room of class
 hey what is the room of course
 hey what is the room of CMPE297
 hey what is the room of Deep Learning
 hey what is the room of lecture
+hey what is the room of subject
 hey what is the room of the class
 hey what is the room of the course
 hey what is the room of the CMPE297
 hey what is the room of the Deep Learning
 hey what is the room of the lecture
+hey what is the room of the subject
 hey what is the location of class
 hey what is the location of course
 hey what is the location of CMPE297
 hey what is the location of Deep Learning
 hey what is the location of lecture
+hey what is the location of subject
 hey what is the location of the class
 hey what is the location of the course
 hey what is the location of the CMPE297
 hey what is the location of the Deep Learning
 hey what is the location of the lecture
+hey what is the location of the subject
 hey what is the building of class
 hey what is the building of course
 hey what is the building of CMPE297
 hey what is the building of Deep Learning
 hey what is the building of lecture
+hey what is the building of subject
 hey what is the building of the class
 hey what is the building of the course
 hey what is the building of the CMPE297
 hey what is the building of the Deep Learning
 hey what is the building of the lecture
+hey what is the building of the subject
 hello what is the classroom of class
 hello what is the classroom of course
 hello what is the classroom of CMPE297
 hello what is the classroom of Deep Learning
 hello what is the classroom of lecture
+hello what is the classroom of subject
 hello what is the classroom of the class
 hello what is the classroom of the course
 hello what is the classroom of the CMPE297
 hello what is the classroom of the Deep Learning
 hello what is the classroom of the lecture
+hello what is the classroom of the subject
 hello what is the room of class
 hello what is the room of course
 hello what is the room of CMPE297
 hello what is the room of Deep Learning
 hello what is the room of lecture
+hello what is the room of subject
 hello what is the room of the class
 hello what is the room of the course
 hello what is the room of the CMPE297
 hello what is the room of the Deep Learning
 hello what is the room of the lecture
+hello what is the room of the subject
 hello what is the location of class
 hello what is the location of course
 hello what is the location of CMPE297
 hello what is the location of Deep Learning
 hello what is the location of lecture
+hello what is the location of subject
 hello what is the location of the class
 hello what is the location of the course
 hello what is the location of the CMPE297
 hello what is the location of the Deep Learning
 hello what is the location of the lecture
+hello what is the location of the subject
 hello what is the building of class
 hello what is the building of course
 hello what is the building of CMPE297
 hello what is the building of Deep Learning
 hello what is the building of lecture
+hello what is the building of subject
 hello what is the building of the class
 hello what is the building of the course
 hello what is the building of the CMPE297
 hello what is the building of the Deep Learning
 hello what is the building of the lecture
+hello what is the building of the subject
 where is the classroom
 where is the room
 where is the location
@@ -1271,6 +1511,7 @@ where is the course
 where is the CMPE297
 where is the Deep Learning
 where is the lecture
+where is the subject
 hi where is the classroom
 hi where is the room
 hi where is the location
@@ -1280,6 +1521,7 @@ hi where is the course
 hi where is the CMPE297
 hi where is the Deep Learning
 hi where is the lecture
+hi where is the subject
 hey where is the classroom
 hey where is the room
 hey where is the location
@@ -1289,6 +1531,7 @@ hey where is the course
 hey where is the CMPE297
 hey where is the Deep Learning
 hey where is the lecture
+hey where is the subject
 hello where is the classroom
 hello where is the room
 hello where is the location
@@ -1298,6 +1541,7 @@ hello where is the course
 hello where is the CMPE297
 hello where is the Deep Learning
 hello where is the lecture
+hello where is the subject
 where is the class classroom
 where is the class room
 where is the class location
@@ -1318,6 +1562,10 @@ where is the lecture classroom
 where is the lecture room
 where is the lecture location
 where is the lecture building
+where is the subject classroom
+where is the subject room
+where is the subject location
+where is the subject building
 hi where is the class classroom
 hi where is the class room
 hi where is the class location
@@ -1338,6 +1586,10 @@ hi where is the lecture classroom
 hi where is the lecture room
 hi where is the lecture location
 hi where is the lecture building
+hi where is the subject classroom
+hi where is the subject room
+hi where is the subject location
+hi where is the subject building
 hey where is the class classroom
 hey where is the class room
 hey where is the class location
@@ -1358,6 +1610,10 @@ hey where is the lecture classroom
 hey where is the lecture room
 hey where is the lecture location
 hey where is the lecture building
+hey where is the subject classroom
+hey where is the subject room
+hey where is the subject location
+hey where is the subject building
 hello where is the class classroom
 hello where is the class room
 hello where is the class location
@@ -1378,6 +1634,10 @@ hello where is the lecture classroom
 hello where is the lecture room
 hello where is the lecture location
 hello where is the lecture building
+hello where is the subject classroom
+hello where is the subject room
+hello where is the subject location
+hello where is the subject building
 where does the class meet
 where does the class take place
 where does the course meet
@@ -1388,6 +1648,8 @@ where does the Deep Learning meet
 where does the Deep Learning take place
 where does the lecture meet
 where does the lecture take place
+where does the subject meet
+where does the subject take place
 hi where does the class meet
 hi where does the class take place
 hi where does the course meet
@@ -1398,6 +1660,8 @@ hi where does the Deep Learning meet
 hi where does the Deep Learning take place
 hi where does the lecture meet
 hi where does the lecture take place
+hi where does the subject meet
+hi where does the subject take place
 hey where does the class meet
 hey where does the class take place
 hey where does the course meet
@@ -1408,6 +1672,8 @@ hey where does the Deep Learning meet
 hey where does the Deep Learning take place
 hey where does the lecture meet
 hey where does the lecture take place
+hey where does the subject meet
+hey where does the subject take place
 hello where does the class meet
 hello where does the class take place
 hello where does the course meet
@@ -1418,166 +1684,200 @@ hello where does the Deep Learning meet
 hello where does the Deep Learning take place
 hello where does the lecture meet
 hello where does the lecture take place
+hello where does the subject meet
+hello where does the subject take place
 what is the classroom of class
 what is the classroom of course
 what is the classroom of CMPE297
 what is the classroom of Deep Learning
 what is the classroom of lecture
+what is the classroom of subject
 what is the classroom of the class
 what is the classroom of the course
 what is the classroom of the CMPE297
 what is the classroom of the Deep Learning
 what is the classroom of the lecture
+what is the classroom of the subject
 what is the room of class
 what is the room of course
 what is the room of CMPE297
 what is the room of Deep Learning
 what is the room of lecture
+what is the room of subject
 what is the room of the class
 what is the room of the course
 what is the room of the CMPE297
 what is the room of the Deep Learning
 what is the room of the lecture
+what is the room of the subject
 what is the location of class
 what is the location of course
 what is the location of CMPE297
 what is the location of Deep Learning
 what is the location of lecture
+what is the location of subject
 what is the location of the class
 what is the location of the course
 what is the location of the CMPE297
 what is the location of the Deep Learning
 what is the location of the lecture
+what is the location of the subject
 what is the building of class
 what is the building of course
 what is the building of CMPE297
 what is the building of Deep Learning
 what is the building of lecture
+what is the building of subject
 what is the building of the class
 what is the building of the course
 what is the building of the CMPE297
 what is the building of the Deep Learning
 what is the building of the lecture
+what is the building of the subject
 hi what is the classroom of class
 hi what is the classroom of course
 hi what is the classroom of CMPE297
 hi what is the classroom of Deep Learning
 hi what is the classroom of lecture
+hi what is the classroom of subject
 hi what is the classroom of the class
 hi what is the classroom of the course
 hi what is the classroom of the CMPE297
 hi what is the classroom of the Deep Learning
 hi what is the classroom of the lecture
+hi what is the classroom of the subject
 hi what is the room of class
 hi what is the room of course
 hi what is the room of CMPE297
 hi what is the room of Deep Learning
 hi what is the room of lecture
+hi what is the room of subject
 hi what is the room of the class
 hi what is the room of the course
 hi what is the room of the CMPE297
 hi what is the room of the Deep Learning
 hi what is the room of the lecture
+hi what is the room of the subject
 hi what is the location of class
 hi what is the location of course
 hi what is the location of CMPE297
 hi what is the location of Deep Learning
 hi what is the location of lecture
+hi what is the location of subject
 hi what is the location of the class
 hi what is the location of the course
 hi what is the location of the CMPE297
 hi what is the location of the Deep Learning
 hi what is the location of the lecture
+hi what is the location of the subject
 hi what is the building of class
 hi what is the building of course
 hi what is the building of CMPE297
 hi what is the building of Deep Learning
 hi what is the building of lecture
+hi what is the building of subject
 hi what is the building of the class
 hi what is the building of the course
 hi what is the building of the CMPE297
 hi what is the building of the Deep Learning
 hi what is the building of the lecture
+hi what is the building of the subject
 hey what is the classroom of class
 hey what is the classroom of course
 hey what is the classroom of CMPE297
 hey what is the classroom of Deep Learning
 hey what is the classroom of lecture
+hey what is the classroom of subject
 hey what is the classroom of the class
 hey what is the classroom of the course
 hey what is the classroom of the CMPE297
 hey what is the classroom of the Deep Learning
 hey what is the classroom of the lecture
+hey what is the classroom of the subject
 hey what is the room of class
 hey what is the room of course
 hey what is the room of CMPE297
 hey what is the room of Deep Learning
 hey what is the room of lecture
+hey what is the room of subject
 hey what is the room of the class
 hey what is the room of the course
 hey what is the room of the CMPE297
 hey what is the room of the Deep Learning
 hey what is the room of the lecture
+hey what is the room of the subject
 hey what is the location of class
 hey what is the location of course
 hey what is the location of CMPE297
 hey what is the location of Deep Learning
 hey what is the location of lecture
+hey what is the location of subject
 hey what is the location of the class
 hey what is the location of the course
 hey what is the location of the CMPE297
 hey what is the location of the Deep Learning
 hey what is the location of the lecture
+hey what is the location of the subject
 hey what is the building of class
 hey what is the building of course
 hey what is the building of CMPE297
 hey what is the building of Deep Learning
 hey what is the building of lecture
+hey what is the building of subject
 hey what is the building of the class
 hey what is the building of the course
 hey what is the building of the CMPE297
 hey what is the building of the Deep Learning
 hey what is the building of the lecture
+hey what is the building of the subject
 hello what is the classroom of class
 hello what is the classroom of course
 hello what is the classroom of CMPE297
 hello what is the classroom of Deep Learning
 hello what is the classroom of lecture
+hello what is the classroom of subject
 hello what is the classroom of the class
 hello what is the classroom of the course
 hello what is the classroom of the CMPE297
 hello what is the classroom of the Deep Learning
 hello what is the classroom of the lecture
+hello what is the classroom of the subject
 hello what is the room of class
 hello what is the room of course
 hello what is the room of CMPE297
 hello what is the room of Deep Learning
 hello what is the room of lecture
+hello what is the room of subject
 hello what is the room of the class
 hello what is the room of the course
 hello what is the room of the CMPE297
 hello what is the room of the Deep Learning
 hello what is the room of the lecture
+hello what is the room of the subject
 hello what is the location of class
 hello what is the location of course
 hello what is the location of CMPE297
 hello what is the location of Deep Learning
 hello what is the location of lecture
+hello what is the location of subject
 hello what is the location of the class
 hello what is the location of the course
 hello what is the location of the CMPE297
 hello what is the location of the Deep Learning
 hello what is the location of the lecture
+hello what is the location of the subject
 hello what is the building of class
 hello what is the building of course
 hello what is the building of CMPE297
 hello what is the building of Deep Learning
 hello what is the building of lecture
+hello what is the building of subject
 hello what is the building of the class
 hello what is the building of the course
 hello what is the building of the CMPE297
 hello what is the building of the Deep Learning
 hello what is the building of the lecture
+hello what is the building of the subject
 where is the classroom
 where is the room
 where is the location
@@ -1587,6 +1887,7 @@ where is the course
 where is the CMPE297
 where is the Deep Learning
 where is the lecture
+where is the subject
 hi where is the classroom
 hi where is the room
 hi where is the location
@@ -1596,6 +1897,7 @@ hi where is the course
 hi where is the CMPE297
 hi where is the Deep Learning
 hi where is the lecture
+hi where is the subject
 hey where is the classroom
 hey where is the room
 hey where is the location
@@ -1605,6 +1907,7 @@ hey where is the course
 hey where is the CMPE297
 hey where is the Deep Learning
 hey where is the lecture
+hey where is the subject
 hello where is the classroom
 hello where is the room
 hello where is the location
@@ -1614,6 +1917,7 @@ hello where is the course
 hello where is the CMPE297
 hello where is the Deep Learning
 hello where is the lecture
+hello where is the subject
 where is the class classroom
 where is the class room
 where is the class location
@@ -1634,6 +1938,10 @@ where is the lecture classroom
 where is the lecture room
 where is the lecture location
 where is the lecture building
+where is the subject classroom
+where is the subject room
+where is the subject location
+where is the subject building
 hi where is the class classroom
 hi where is the class room
 hi where is the class location
@@ -1654,6 +1962,10 @@ hi where is the lecture classroom
 hi where is the lecture room
 hi where is the lecture location
 hi where is the lecture building
+hi where is the subject classroom
+hi where is the subject room
+hi where is the subject location
+hi where is the subject building
 hey where is the class classroom
 hey where is the class room
 hey where is the class location
@@ -1674,6 +1986,10 @@ hey where is the lecture classroom
 hey where is the lecture room
 hey where is the lecture location
 hey where is the lecture building
+hey where is the subject classroom
+hey where is the subject room
+hey where is the subject location
+hey where is the subject building
 hello where is the class classroom
 hello where is the class room
 hello where is the class location
@@ -1694,6 +2010,10 @@ hello where is the lecture classroom
 hello where is the lecture room
 hello where is the lecture location
 hello where is the lecture building
+hello where is the subject classroom
+hello where is the subject room
+hello where is the subject location
+hello where is the subject building
 where does the class meet
 where does the class take place
 where does the course meet
@@ -1704,6 +2024,8 @@ where does the Deep Learning meet
 where does the Deep Learning take place
 where does the lecture meet
 where does the lecture take place
+where does the subject meet
+where does the subject take place
 hi where does the class meet
 hi where does the class take place
 hi where does the course meet
@@ -1714,6 +2036,8 @@ hi where does the Deep Learning meet
 hi where does the Deep Learning take place
 hi where does the lecture meet
 hi where does the lecture take place
+hi where does the subject meet
+hi where does the subject take place
 hey where does the class meet
 hey where does the class take place
 hey where does the course meet
@@ -1724,6 +2048,8 @@ hey where does the Deep Learning meet
 hey where does the Deep Learning take place
 hey where does the lecture meet
 hey where does the lecture take place
+hey where does the subject meet
+hey where does the subject take place
 hello where does the class meet
 hello where does the class take place
 hello where does the course meet
@@ -1734,166 +2060,200 @@ hello where does the Deep Learning meet
 hello where does the Deep Learning take place
 hello where does the lecture meet
 hello where does the lecture take place
+hello where does the subject meet
+hello where does the subject take place
 what is the classroom of class
 what is the classroom of course
 what is the classroom of CMPE297
 what is the classroom of Deep Learning
 what is the classroom of lecture
+what is the classroom of subject
 what is the classroom of the class
 what is the classroom of the course
 what is the classroom of the CMPE297
 what is the classroom of the Deep Learning
 what is the classroom of the lecture
+what is the classroom of the subject
 what is the room of class
 what is the room of course
 what is the room of CMPE297
 what is the room of Deep Learning
 what is the room of lecture
+what is the room of subject
 what is the room of the class
 what is the room of the course
 what is the room of the CMPE297
 what is the room of the Deep Learning
 what is the room of the lecture
+what is the room of the subject
 what is the location of class
 what is the location of course
 what is the location of CMPE297
 what is the location of Deep Learning
 what is the location of lecture
+what is the location of subject
 what is the location of the class
 what is the location of the course
 what is the location of the CMPE297
 what is the location of the Deep Learning
 what is the location of the lecture
+what is the location of the subject
 what is the building of class
 what is the building of course
 what is the building of CMPE297
 what is the building of Deep Learning
 what is the building of lecture
+what is the building of subject
 what is the building of the class
 what is the building of the course
 what is the building of the CMPE297
 what is the building of the Deep Learning
 what is the building of the lecture
+what is the building of the subject
 hi what is the classroom of class
 hi what is the classroom of course
 hi what is the classroom of CMPE297
 hi what is the classroom of Deep Learning
 hi what is the classroom of lecture
+hi what is the classroom of subject
 hi what is the classroom of the class
 hi what is the classroom of the course
 hi what is the classroom of the CMPE297
 hi what is the classroom of the Deep Learning
 hi what is the classroom of the lecture
+hi what is the classroom of the subject
 hi what is the room of class
 hi what is the room of course
 hi what is the room of CMPE297
 hi what is the room of Deep Learning
 hi what is the room of lecture
+hi what is the room of subject
 hi what is the room of the class
 hi what is the room of the course
 hi what is the room of the CMPE297
 hi what is the room of the Deep Learning
 hi what is the room of the lecture
+hi what is the room of the subject
 hi what is the location of class
 hi what is the location of course
 hi what is the location of CMPE297
 hi what is the location of Deep Learning
 hi what is the location of lecture
+hi what is the location of subject
 hi what is the location of the class
 hi what is the location of the course
 hi what is the location of the CMPE297
 hi what is the location of the Deep Learning
 hi what is the location of the lecture
+hi what is the location of the subject
 hi what is the building of class
 hi what is the building of course
 hi what is the building of CMPE297
 hi what is the building of Deep Learning
 hi what is the building of lecture
+hi what is the building of subject
 hi what is the building of the class
 hi what is the building of the course
 hi what is the building of the CMPE297
 hi what is the building of the Deep Learning
 hi what is the building of the lecture
+hi what is the building of the subject
 hey what is the classroom of class
 hey what is the classroom of course
 hey what is the classroom of CMPE297
 hey what is the classroom of Deep Learning
 hey what is the classroom of lecture
+hey what is the classroom of subject
 hey what is the classroom of the class
 hey what is the classroom of the course
 hey what is the classroom of the CMPE297
 hey what is the classroom of the Deep Learning
 hey what is the classroom of the lecture
+hey what is the classroom of the subject
 hey what is the room of class
 hey what is the room of course
 hey what is the room of CMPE297
 hey what is the room of Deep Learning
 hey what is the room of lecture
+hey what is the room of subject
 hey what is the room of the class
 hey what is the room of the course
 hey what is the room of the CMPE297
 hey what is the room of the Deep Learning
 hey what is the room of the lecture
+hey what is the room of the subject
 hey what is the location of class
 hey what is the location of course
 hey what is the location of CMPE297
 hey what is the location of Deep Learning
 hey what is the location of lecture
+hey what is the location of subject
 hey what is the location of the class
 hey what is the location of the course
 hey what is the location of the CMPE297
 hey what is the location of the Deep Learning
 hey what is the location of the lecture
+hey what is the location of the subject
 hey what is the building of class
 hey what is the building of course
 hey what is the building of CMPE297
 hey what is the building of Deep Learning
 hey what is the building of lecture
+hey what is the building of subject
 hey what is the building of the class
 hey what is the building of the course
 hey what is the building of the CMPE297
 hey what is the building of the Deep Learning
 hey what is the building of the lecture
+hey what is the building of the subject
 hello what is the classroom of class
 hello what is the classroom of course
 hello what is the classroom of CMPE297
 hello what is the classroom of Deep Learning
 hello what is the classroom of lecture
+hello what is the classroom of subject
 hello what is the classroom of the class
 hello what is the classroom of the course
 hello what is the classroom of the CMPE297
 hello what is the classroom of the Deep Learning
 hello what is the classroom of the lecture
+hello what is the classroom of the subject
 hello what is the room of class
 hello what is the room of course
 hello what is the room of CMPE297
 hello what is the room of Deep Learning
 hello what is the room of lecture
+hello what is the room of subject
 hello what is the room of the class
 hello what is the room of the course
 hello what is the room of the CMPE297
 hello what is the room of the Deep Learning
 hello what is the room of the lecture
+hello what is the room of the subject
 hello what is the location of class
 hello what is the location of course
 hello what is the location of CMPE297
 hello what is the location of Deep Learning
 hello what is the location of lecture
+hello what is the location of subject
 hello what is the location of the class
 hello what is the location of the course
 hello what is the location of the CMPE297
 hello what is the location of the Deep Learning
 hello what is the location of the lecture
+hello what is the location of the subject
 hello what is the building of class
 hello what is the building of course
 hello what is the building of CMPE297
 hello what is the building of Deep Learning
 hello what is the building of lecture
+hello what is the building of subject
 hello what is the building of the class
 hello what is the building of the course
 hello what is the building of the CMPE297
 hello what is the building of the Deep Learning
 hello what is the building of the lecture
+hello what is the building of the subject
 where is the classroom
 where is the room
 where is the location
@@ -1903,6 +2263,7 @@ where is the course
 where is the CMPE297
 where is the Deep Learning
 where is the lecture
+where is the subject
 hi where is the classroom
 hi where is the room
 hi where is the location
@@ -1912,6 +2273,7 @@ hi where is the course
 hi where is the CMPE297
 hi where is the Deep Learning
 hi where is the lecture
+hi where is the subject
 hey where is the classroom
 hey where is the room
 hey where is the location
@@ -1921,6 +2283,7 @@ hey where is the course
 hey where is the CMPE297
 hey where is the Deep Learning
 hey where is the lecture
+hey where is the subject
 hello where is the classroom
 hello where is the room
 hello where is the location
@@ -1930,6 +2293,7 @@ hello where is the course
 hello where is the CMPE297
 hello where is the Deep Learning
 hello where is the lecture
+hello where is the subject
 where is the class classroom
 where is the class room
 where is the class location
@@ -1950,6 +2314,10 @@ where is the lecture classroom
 where is the lecture room
 where is the lecture location
 where is the lecture building
+where is the subject classroom
+where is the subject room
+where is the subject location
+where is the subject building
 hi where is the class classroom
 hi where is the class room
 hi where is the class location
@@ -1970,6 +2338,10 @@ hi where is the lecture classroom
 hi where is the lecture room
 hi where is the lecture location
 hi where is the lecture building
+hi where is the subject classroom
+hi where is the subject room
+hi where is the subject location
+hi where is the subject building
 hey where is the class classroom
 hey where is the class room
 hey where is the class location
@@ -1990,6 +2362,10 @@ hey where is the lecture classroom
 hey where is the lecture room
 hey where is the lecture location
 hey where is the lecture building
+hey where is the subject classroom
+hey where is the subject room
+hey where is the subject location
+hey where is the subject building
 hello where is the class classroom
 hello where is the class room
 hello where is the class location
@@ -2010,6 +2386,10 @@ hello where is the lecture classroom
 hello where is the lecture room
 hello where is the lecture location
 hello where is the lecture building
+hello where is the subject classroom
+hello where is the subject room
+hello where is the subject location
+hello where is the subject building
 where does the class meet
 where does the class take place
 where does the course meet
@@ -2020,6 +2400,8 @@ where does the Deep Learning meet
 where does the Deep Learning take place
 where does the lecture meet
 where does the lecture take place
+where does the subject meet
+where does the subject take place
 hi where does the class meet
 hi where does the class take place
 hi where does the course meet
@@ -2030,6 +2412,8 @@ hi where does the Deep Learning meet
 hi where does the Deep Learning take place
 hi where does the lecture meet
 hi where does the lecture take place
+hi where does the subject meet
+hi where does the subject take place
 hey where does the class meet
 hey where does the class take place
 hey where does the course meet
@@ -2040,6 +2424,8 @@ hey where does the Deep Learning meet
 hey where does the Deep Learning take place
 hey where does the lecture meet
 hey where does the lecture take place
+hey where does the subject meet
+hey where does the subject take place
 hello where does the class meet
 hello where does the class take place
 hello where does the course meet
@@ -2050,166 +2436,200 @@ hello where does the Deep Learning meet
 hello where does the Deep Learning take place
 hello where does the lecture meet
 hello where does the lecture take place
+hello where does the subject meet
+hello where does the subject take place
 what is the classroom of class
 what is the classroom of course
 what is the classroom of CMPE297
 what is the classroom of Deep Learning
 what is the classroom of lecture
+what is the classroom of subject
 what is the classroom of the class
 what is the classroom of the course
 what is the classroom of the CMPE297
 what is the classroom of the Deep Learning
 what is the classroom of the lecture
+what is the classroom of the subject
 what is the room of class
 what is the room of course
 what is the room of CMPE297
 what is the room of Deep Learning
 what is the room of lecture
+what is the room of subject
 what is the room of the class
 what is the room of the course
 what is the room of the CMPE297
 what is the room of the Deep Learning
 what is the room of the lecture
+what is the room of the subject
 what is the location of class
 what is the location of course
 what is the location of CMPE297
 what is the location of Deep Learning
 what is the location of lecture
+what is the location of subject
 what is the location of the class
 what is the location of the course
 what is the location of the CMPE297
 what is the location of the Deep Learning
 what is the location of the lecture
+what is the location of the subject
 what is the building of class
 what is the building of course
 what is the building of CMPE297
 what is the building of Deep Learning
 what is the building of lecture
+what is the building of subject
 what is the building of the class
 what is the building of the course
 what is the building of the CMPE297
 what is the building of the Deep Learning
 what is the building of the lecture
+what is the building of the subject
 hi what is the classroom of class
 hi what is the classroom of course
 hi what is the classroom of CMPE297
 hi what is the classroom of Deep Learning
 hi what is the classroom of lecture
+hi what is the classroom of subject
 hi what is the classroom of the class
 hi what is the classroom of the course
 hi what is the classroom of the CMPE297
 hi what is the classroom of the Deep Learning
 hi what is the classroom of the lecture
+hi what is the classroom of the subject
 hi what is the room of class
 hi what is the room of course
 hi what is the room of CMPE297
 hi what is the room of Deep Learning
 hi what is the room of lecture
+hi what is the room of subject
 hi what is the room of the class
 hi what is the room of the course
 hi what is the room of the CMPE297
 hi what is the room of the Deep Learning
 hi what is the room of the lecture
+hi what is the room of the subject
 hi what is the location of class
 hi what is the location of course
 hi what is the location of CMPE297
 hi what is the location of Deep Learning
 hi what is the location of lecture
+hi what is the location of subject
 hi what is the location of the class
 hi what is the location of the course
 hi what is the location of the CMPE297
 hi what is the location of the Deep Learning
 hi what is the location of the lecture
+hi what is the location of the subject
 hi what is the building of class
 hi what is the building of course
 hi what is the building of CMPE297
 hi what is the building of Deep Learning
 hi what is the building of lecture
+hi what is the building of subject
 hi what is the building of the class
 hi what is the building of the course
 hi what is the building of the CMPE297
 hi what is the building of the Deep Learning
 hi what is the building of the lecture
+hi what is the building of the subject
 hey what is the classroom of class
 hey what is the classroom of course
 hey what is the classroom of CMPE297
 hey what is the classroom of Deep Learning
 hey what is the classroom of lecture
+hey what is the classroom of subject
 hey what is the classroom of the class
 hey what is the classroom of the course
 hey what is the classroom of the CMPE297
 hey what is the classroom of the Deep Learning
 hey what is the classroom of the lecture
+hey what is the classroom of the subject
 hey what is the room of class
 hey what is the room of course
 hey what is the room of CMPE297
 hey what is the room of Deep Learning
 hey what is the room of lecture
+hey what is the room of subject
 hey what is the room of the class
 hey what is the room of the course
 hey what is the room of the CMPE297
 hey what is the room of the Deep Learning
 hey what is the room of the lecture
+hey what is the room of the subject
 hey what is the location of class
 hey what is the location of course
 hey what is the location of CMPE297
 hey what is the location of Deep Learning
 hey what is the location of lecture
+hey what is the location of subject
 hey what is the location of the class
 hey what is the location of the course
 hey what is the location of the CMPE297
 hey what is the location of the Deep Learning
 hey what is the location of the lecture
+hey what is the location of the subject
 hey what is the building of class
 hey what is the building of course
 hey what is the building of CMPE297
 hey what is the building of Deep Learning
 hey what is the building of lecture
+hey what is the building of subject
 hey what is the building of the class
 hey what is the building of the course
 hey what is the building of the CMPE297
 hey what is the building of the Deep Learning
 hey what is the building of the lecture
+hey what is the building of the subject
 hello what is the classroom of class
 hello what is the classroom of course
 hello what is the classroom of CMPE297
 hello what is the classroom of Deep Learning
 hello what is the classroom of lecture
+hello what is the classroom of subject
 hello what is the classroom of the class
 hello what is the classroom of the course
 hello what is the classroom of the CMPE297
 hello what is the classroom of the Deep Learning
 hello what is the classroom of the lecture
+hello what is the classroom of the subject
 hello what is the room of class
 hello what is the room of course
 hello what is the room of CMPE297
 hello what is the room of Deep Learning
 hello what is the room of lecture
+hello what is the room of subject
 hello what is the room of the class
 hello what is the room of the course
 hello what is the room of the CMPE297
 hello what is the room of the Deep Learning
 hello what is the room of the lecture
+hello what is the room of the subject
 hello what is the location of class
 hello what is the location of course
 hello what is the location of CMPE297
 hello what is the location of Deep Learning
 hello what is the location of lecture
+hello what is the location of subject
 hello what is the location of the class
 hello what is the location of the course
 hello what is the location of the CMPE297
 hello what is the location of the Deep Learning
 hello what is the location of the lecture
+hello what is the location of the subject
 hello what is the building of class
 hello what is the building of course
 hello what is the building of CMPE297
 hello what is the building of Deep Learning
 hello what is the building of lecture
+hello what is the building of subject
 hello what is the building of the class
 hello what is the building of the course
 hello what is the building of the CMPE297
 hello what is the building of the Deep Learning
 hello what is the building of the lecture
+hello what is the building of the subject
 where is the classroom
 where is the room
 where is the location
@@ -2219,6 +2639,7 @@ where is the course
 where is the CMPE297
 where is the Deep Learning
 where is the lecture
+where is the subject
 hi where is the classroom
 hi where is the room
 hi where is the location
@@ -2228,6 +2649,7 @@ hi where is the course
 hi where is the CMPE297
 hi where is the Deep Learning
 hi where is the lecture
+hi where is the subject
 hey where is the classroom
 hey where is the room
 hey where is the location
@@ -2237,6 +2659,7 @@ hey where is the course
 hey where is the CMPE297
 hey where is the Deep Learning
 hey where is the lecture
+hey where is the subject
 hello where is the classroom
 hello where is the room
 hello where is the location
@@ -2246,6 +2669,7 @@ hello where is the course
 hello where is the CMPE297
 hello where is the Deep Learning
 hello where is the lecture
+hello where is the subject
 where is the class classroom
 where is the class room
 where is the class location
@@ -2266,6 +2690,10 @@ where is the lecture classroom
 where is the lecture room
 where is the lecture location
 where is the lecture building
+where is the subject classroom
+where is the subject room
+where is the subject location
+where is the subject building
 hi where is the class classroom
 hi where is the class room
 hi where is the class location
@@ -2286,6 +2714,10 @@ hi where is the lecture classroom
 hi where is the lecture room
 hi where is the lecture location
 hi where is the lecture building
+hi where is the subject classroom
+hi where is the subject room
+hi where is the subject location
+hi where is the subject building
 hey where is the class classroom
 hey where is the class room
 hey where is the class location
@@ -2306,6 +2738,10 @@ hey where is the lecture classroom
 hey where is the lecture room
 hey where is the lecture location
 hey where is the lecture building
+hey where is the subject classroom
+hey where is the subject room
+hey where is the subject location
+hey where is the subject building
 hello where is the class classroom
 hello where is the class room
 hello where is the class location
@@ -2326,6 +2762,10 @@ hello where is the lecture classroom
 hello where is the lecture room
 hello where is the lecture location
 hello where is the lecture building
+hello where is the subject classroom
+hello where is the subject room
+hello where is the subject location
+hello where is the subject building
 where does the class meet
 where does the class take place
 where does the course meet
@@ -2336,6 +2776,8 @@ where does the Deep Learning meet
 where does the Deep Learning take place
 where does the lecture meet
 where does the lecture take place
+where does the subject meet
+where does the subject take place
 hi where does the class meet
 hi where does the class take place
 hi where does the course meet
@@ -2346,6 +2788,8 @@ hi where does the Deep Learning meet
 hi where does the Deep Learning take place
 hi where does the lecture meet
 hi where does the lecture take place
+hi where does the subject meet
+hi where does the subject take place
 hey where does the class meet
 hey where does the class take place
 hey where does the course meet
@@ -2356,6 +2800,8 @@ hey where does the Deep Learning meet
 hey where does the Deep Learning take place
 hey where does the lecture meet
 hey where does the lecture take place
+hey where does the subject meet
+hey where does the subject take place
 hello where does the class meet
 hello where does the class take place
 hello where does the course meet
@@ -2366,166 +2812,200 @@ hello where does the Deep Learning meet
 hello where does the Deep Learning take place
 hello where does the lecture meet
 hello where does the lecture take place
+hello where does the subject meet
+hello where does the subject take place
 what is the classroom of class
 what is the classroom of course
 what is the classroom of CMPE297
 what is the classroom of Deep Learning
 what is the classroom of lecture
+what is the classroom of subject
 what is the classroom of the class
 what is the classroom of the course
 what is the classroom of the CMPE297
 what is the classroom of the Deep Learning
 what is the classroom of the lecture
+what is the classroom of the subject
 what is the room of class
 what is the room of course
 what is the room of CMPE297
 what is the room of Deep Learning
 what is the room of lecture
+what is the room of subject
 what is the room of the class
 what is the room of the course
 what is the room of the CMPE297
 what is the room of the Deep Learning
 what is the room of the lecture
+what is the room of the subject
 what is the location of class
 what is the location of course
 what is the location of CMPE297
 what is the location of Deep Learning
 what is the location of lecture
+what is the location of subject
 what is the location of the class
 what is the location of the course
 what is the location of the CMPE297
 what is the location of the Deep Learning
 what is the location of the lecture
+what is the location of the subject
 what is the building of class
 what is the building of course
 what is the building of CMPE297
 what is the building of Deep Learning
 what is the building of lecture
+what is the building of subject
 what is the building of the class
 what is the building of the course
 what is the building of the CMPE297
 what is the building of the Deep Learning
 what is the building of the lecture
+what is the building of the subject
 hi what is the classroom of class
 hi what is the classroom of course
 hi what is the classroom of CMPE297
 hi what is the classroom of Deep Learning
 hi what is the classroom of lecture
+hi what is the classroom of subject
 hi what is the classroom of the class
 hi what is the classroom of the course
 hi what is the classroom of the CMPE297
 hi what is the classroom of the Deep Learning
 hi what is the classroom of the lecture
+hi what is the classroom of the subject
 hi what is the room of class
 hi what is the room of course
 hi what is the room of CMPE297
 hi what is the room of Deep Learning
 hi what is the room of lecture
+hi what is the room of subject
 hi what is the room of the class
 hi what is the room of the course
 hi what is the room of the CMPE297
 hi what is the room of the Deep Learning
 hi what is the room of the lecture
+hi what is the room of the subject
 hi what is the location of class
 hi what is the location of course
 hi what is the location of CMPE297
 hi what is the location of Deep Learning
 hi what is the location of lecture
+hi what is the location of subject
 hi what is the location of the class
 hi what is the location of the course
 hi what is the location of the CMPE297
 hi what is the location of the Deep Learning
 hi what is the location of the lecture
+hi what is the location of the subject
 hi what is the building of class
 hi what is the building of course
 hi what is the building of CMPE297
 hi what is the building of Deep Learning
 hi what is the building of lecture
+hi what is the building of subject
 hi what is the building of the class
 hi what is the building of the course
 hi what is the building of the CMPE297
 hi what is the building of the Deep Learning
 hi what is the building of the lecture
+hi what is the building of the subject
 hey what is the classroom of class
 hey what is the classroom of course
 hey what is the classroom of CMPE297
 hey what is the classroom of Deep Learning
 hey what is the classroom of lecture
+hey what is the classroom of subject
 hey what is the classroom of the class
 hey what is the classroom of the course
 hey what is the classroom of the CMPE297
 hey what is the classroom of the Deep Learning
 hey what is the classroom of the lecture
+hey what is the classroom of the subject
 hey what is the room of class
 hey what is the room of course
 hey what is the room of CMPE297
 hey what is the room of Deep Learning
 hey what is the room of lecture
+hey what is the room of subject
 hey what is the room of the class
 hey what is the room of the course
 hey what is the room of the CMPE297
 hey what is the room of the Deep Learning
 hey what is the room of the lecture
+hey what is the room of the subject
 hey what is the location of class
 hey what is the location of course
 hey what is the location of CMPE297
 hey what is the location of Deep Learning
 hey what is the location of lecture
+hey what is the location of subject
 hey what is the location of the class
 hey what is the location of the course
 hey what is the location of the CMPE297
 hey what is the location of the Deep Learning
 hey what is the location of the lecture
+hey what is the location of the subject
 hey what is the building of class
 hey what is the building of course
 hey what is the building of CMPE297
 hey what is the building of Deep Learning
 hey what is the building of lecture
+hey what is the building of subject
 hey what is the building of the class
 hey what is the building of the course
 hey what is the building of the CMPE297
 hey what is the building of the Deep Learning
 hey what is the building of the lecture
+hey what is the building of the subject
 hello what is the classroom of class
 hello what is the classroom of course
 hello what is the classroom of CMPE297
 hello what is the classroom of Deep Learning
 hello what is the classroom of lecture
+hello what is the classroom of subject
 hello what is the classroom of the class
 hello what is the classroom of the course
 hello what is the classroom of the CMPE297
 hello what is the classroom of the Deep Learning
 hello what is the classroom of the lecture
+hello what is the classroom of the subject
 hello what is the room of class
 hello what is the room of course
 hello what is the room of CMPE297
 hello what is the room of Deep Learning
 hello what is the room of lecture
+hello what is the room of subject
 hello what is the room of the class
 hello what is the room of the course
 hello what is the room of the CMPE297
 hello what is the room of the Deep Learning
 hello what is the room of the lecture
+hello what is the room of the subject
 hello what is the location of class
 hello what is the location of course
 hello what is the location of CMPE297
 hello what is the location of Deep Learning
 hello what is the location of lecture
+hello what is the location of subject
 hello what is the location of the class
 hello what is the location of the course
 hello what is the location of the CMPE297
 hello what is the location of the Deep Learning
 hello what is the location of the lecture
+hello what is the location of the subject
 hello what is the building of class
 hello what is the building of course
 hello what is the building of CMPE297
 hello what is the building of Deep Learning
 hello what is the building of lecture
+hello what is the building of subject
 hello what is the building of the class
 hello what is the building of the course
 hello what is the building of the CMPE297
 hello what is the building of the Deep Learning
 hello what is the building of the lecture
+hello what is the building of the subject
 where is the classroom
 where is the room
 where is the location
@@ -2535,6 +3015,7 @@ where is the course
 where is the CMPE297
 where is the Deep Learning
 where is the lecture
+where is the subject
 hi where is the classroom
 hi where is the room
 hi where is the location
@@ -2544,6 +3025,7 @@ hi where is the course
 hi where is the CMPE297
 hi where is the Deep Learning
 hi where is the lecture
+hi where is the subject
 hey where is the classroom
 hey where is the room
 hey where is the location
@@ -2553,6 +3035,7 @@ hey where is the course
 hey where is the CMPE297
 hey where is the Deep Learning
 hey where is the lecture
+hey where is the subject
 hello where is the classroom
 hello where is the room
 hello where is the location
@@ -2562,6 +3045,7 @@ hello where is the course
 hello where is the CMPE297
 hello where is the Deep Learning
 hello where is the lecture
+hello where is the subject
 where is the class classroom
 where is the class room
 where is the class location
@@ -2582,6 +3066,10 @@ where is the lecture classroom
 where is the lecture room
 where is the lecture location
 where is the lecture building
+where is the subject classroom
+where is the subject room
+where is the subject location
+where is the subject building
 hi where is the class classroom
 hi where is the class room
 hi where is the class location
@@ -2602,6 +3090,10 @@ hi where is the lecture classroom
 hi where is the lecture room
 hi where is the lecture location
 hi where is the lecture building
+hi where is the subject classroom
+hi where is the subject room
+hi where is the subject location
+hi where is the subject building
 hey where is the class classroom
 hey where is the class room
 hey where is the class location
@@ -2622,6 +3114,10 @@ hey where is the lecture classroom
 hey where is the lecture room
 hey where is the lecture location
 hey where is the lecture building
+hey where is the subject classroom
+hey where is the subject room
+hey where is the subject location
+hey where is the subject building
 hello where is the class classroom
 hello where is the class room
 hello where is the class location
@@ -2642,6 +3138,10 @@ hello where is the lecture classroom
 hello where is the lecture room
 hello where is the lecture location
 hello where is the lecture building
+hello where is the subject classroom
+hello where is the subject room
+hello where is the subject location
+hello where is the subject building
 where does the class meet
 where does the class take place
 where does the course meet
@@ -2652,6 +3152,8 @@ where does the Deep Learning meet
 where does the Deep Learning take place
 where does the lecture meet
 where does the lecture take place
+where does the subject meet
+where does the subject take place
 hi where does the class meet
 hi where does the class take place
 hi where does the course meet
@@ -2662,6 +3164,8 @@ hi where does the Deep Learning meet
 hi where does the Deep Learning take place
 hi where does the lecture meet
 hi where does the lecture take place
+hi where does the subject meet
+hi where does the subject take place
 hey where does the class meet
 hey where does the class take place
 hey where does the course meet
@@ -2672,6 +3176,8 @@ hey where does the Deep Learning meet
 hey where does the Deep Learning take place
 hey where does the lecture meet
 hey where does the lecture take place
+hey where does the subject meet
+hey where does the subject take place
 hello where does the class meet
 hello where does the class take place
 hello where does the course meet
@@ -2682,163 +3188,1325 @@ hello where does the Deep Learning meet
 hello where does the Deep Learning take place
 hello where does the lecture meet
 hello where does the lecture take place
+hello where does the subject meet
+hello where does the subject take place
 what is the classroom of class
 what is the classroom of course
 what is the classroom of CMPE297
 what is the classroom of Deep Learning
 what is the classroom of lecture
+what is the classroom of subject
 what is the classroom of the class
 what is the classroom of the course
 what is the classroom of the CMPE297
 what is the classroom of the Deep Learning
 what is the classroom of the lecture
+what is the classroom of the subject
 what is the room of class
 what is the room of course
 what is the room of CMPE297
 what is the room of Deep Learning
 what is the room of lecture
+what is the room of subject
 what is the room of the class
 what is the room of the course
 what is the room of the CMPE297
 what is the room of the Deep Learning
 what is the room of the lecture
+what is the room of the subject
 what is the location of class
 what is the location of course
 what is the location of CMPE297
 what is the location of Deep Learning
 what is the location of lecture
+what is the location of subject
 what is the location of the class
 what is the location of the course
 what is the location of the CMPE297
 what is the location of the Deep Learning
 what is the location of the lecture
+what is the location of the subject
 what is the building of class
 what is the building of course
 what is the building of CMPE297
 what is the building of Deep Learning
 what is the building of lecture
+what is the building of subject
 what is the building of the class
 what is the building of the course
 what is the building of the CMPE297
 what is the building of the Deep Learning
 what is the building of the lecture
+what is the building of the subject
 hi what is the classroom of class
 hi what is the classroom of course
 hi what is the classroom of CMPE297
 hi what is the classroom of Deep Learning
 hi what is the classroom of lecture
+hi what is the classroom of subject
 hi what is the classroom of the class
 hi what is the classroom of the course
 hi what is the classroom of the CMPE297
 hi what is the classroom of the Deep Learning
 hi what is the classroom of the lecture
+hi what is the classroom of the subject
 hi what is the room of class
 hi what is the room of course
 hi what is the room of CMPE297
 hi what is the room of Deep Learning
 hi what is the room of lecture
+hi what is the room of subject
 hi what is the room of the class
 hi what is the room of the course
 hi what is the room of the CMPE297
 hi what is the room of the Deep Learning
 hi what is the room of the lecture
+hi what is the room of the subject
 hi what is the location of class
 hi what is the location of course
 hi what is the location of CMPE297
 hi what is the location of Deep Learning
 hi what is the location of lecture
+hi what is the location of subject
 hi what is the location of the class
 hi what is the location of the course
 hi what is the location of the CMPE297
 hi what is the location of the Deep Learning
 hi what is the location of the lecture
+hi what is the location of the subject
 hi what is the building of class
 hi what is the building of course
 hi what is the building of CMPE297
 hi what is the building of Deep Learning
 hi what is the building of lecture
+hi what is the building of subject
 hi what is the building of the class
 hi what is the building of the course
 hi what is the building of the CMPE297
 hi what is the building of the Deep Learning
 hi what is the building of the lecture
+hi what is the building of the subject
 hey what is the classroom of class
 hey what is the classroom of course
 hey what is the classroom of CMPE297
 hey what is the classroom of Deep Learning
 hey what is the classroom of lecture
+hey what is the classroom of subject
 hey what is the classroom of the class
 hey what is the classroom of the course
 hey what is the classroom of the CMPE297
 hey what is the classroom of the Deep Learning
 hey what is the classroom of the lecture
+hey what is the classroom of the subject
 hey what is the room of class
 hey what is the room of course
 hey what is the room of CMPE297
 hey what is the room of Deep Learning
 hey what is the room of lecture
+hey what is the room of subject
 hey what is the room of the class
 hey what is the room of the course
 hey what is the room of the CMPE297
 hey what is the room of the Deep Learning
 hey what is the room of the lecture
+hey what is the room of the subject
 hey what is the location of class
 hey what is the location of course
 hey what is the location of CMPE297
 hey what is the location of Deep Learning
 hey what is the location of lecture
+hey what is the location of subject
 hey what is the location of the class
 hey what is the location of the course
 hey what is the location of the CMPE297
 hey what is the location of the Deep Learning
 hey what is the location of the lecture
+hey what is the location of the subject
 hey what is the building of class
 hey what is the building of course
 hey what is the building of CMPE297
 hey what is the building of Deep Learning
 hey what is the building of lecture
+hey what is the building of subject
 hey what is the building of the class
 hey what is the building of the course
 hey what is the building of the CMPE297
 hey what is the building of the Deep Learning
 hey what is the building of the lecture
+hey what is the building of the subject
 hello what is the classroom of class
 hello what is the classroom of course
 hello what is the classroom of CMPE297
 hello what is the classroom of Deep Learning
 hello what is the classroom of lecture
+hello what is the classroom of subject
 hello what is the classroom of the class
 hello what is the classroom of the course
 hello what is the classroom of the CMPE297
 hello what is the classroom of the Deep Learning
 hello what is the classroom of the lecture
+hello what is the classroom of the subject
 hello what is the room of class
 hello what is the room of course
 hello what is the room of CMPE297
 hello what is the room of Deep Learning
 hello what is the room of lecture
+hello what is the room of subject
 hello what is the room of the class
 hello what is the room of the course
 hello what is the room of the CMPE297
 hello what is the room of the Deep Learning
 hello what is the room of the lecture
+hello what is the room of the subject
 hello what is the location of class
 hello what is the location of course
 hello what is the location of CMPE297
 hello what is the location of Deep Learning
 hello what is the location of lecture
+hello what is the location of subject
 hello what is the location of the class
 hello what is the location of the course
 hello what is the location of the CMPE297
 hello what is the location of the Deep Learning
 hello what is the location of the lecture
+hello what is the location of the subject
 hello what is the building of class
 hello what is the building of course
 hello what is the building of CMPE297
 hello what is the building of Deep Learning
 hello what is the building of lecture
+hello what is the building of subject
 hello what is the building of the class
 hello what is the building of the course
 hello what is the building of the CMPE297
 hello what is the building of the Deep Learning
 hello what is the building of the lecture
+hello what is the building of the subject
+where is the classroom
+where is the room
+where is the location
+where is the building
+where is the class
+where is the course
+where is the CMPE297
+where is the Deep Learning
+where is the lecture
+where is the subject
+hi where is the classroom
+hi where is the room
+hi where is the location
+hi where is the building
+hi where is the class
+hi where is the course
+hi where is the CMPE297
+hi where is the Deep Learning
+hi where is the lecture
+hi where is the subject
+hey where is the classroom
+hey where is the room
+hey where is the location
+hey where is the building
+hey where is the class
+hey where is the course
+hey where is the CMPE297
+hey where is the Deep Learning
+hey where is the lecture
+hey where is the subject
+hello where is the classroom
+hello where is the room
+hello where is the location
+hello where is the building
+hello where is the class
+hello where is the course
+hello where is the CMPE297
+hello where is the Deep Learning
+hello where is the lecture
+hello where is the subject
+where is the class classroom
+where is the class room
+where is the class location
+where is the class building
+where is the course classroom
+where is the course room
+where is the course location
+where is the course building
+where is the CMPE297 classroom
+where is the CMPE297 room
+where is the CMPE297 location
+where is the CMPE297 building
+where is the Deep Learning classroom
+where is the Deep Learning room
+where is the Deep Learning location
+where is the Deep Learning building
+where is the lecture classroom
+where is the lecture room
+where is the lecture location
+where is the lecture building
+where is the subject classroom
+where is the subject room
+where is the subject location
+where is the subject building
+hi where is the class classroom
+hi where is the class room
+hi where is the class location
+hi where is the class building
+hi where is the course classroom
+hi where is the course room
+hi where is the course location
+hi where is the course building
+hi where is the CMPE297 classroom
+hi where is the CMPE297 room
+hi where is the CMPE297 location
+hi where is the CMPE297 building
+hi where is the Deep Learning classroom
+hi where is the Deep Learning room
+hi where is the Deep Learning location
+hi where is the Deep Learning building
+hi where is the lecture classroom
+hi where is the lecture room
+hi where is the lecture location
+hi where is the lecture building
+hi where is the subject classroom
+hi where is the subject room
+hi where is the subject location
+hi where is the subject building
+hey where is the class classroom
+hey where is the class room
+hey where is the class location
+hey where is the class building
+hey where is the course classroom
+hey where is the course room
+hey where is the course location
+hey where is the course building
+hey where is the CMPE297 classroom
+hey where is the CMPE297 room
+hey where is the CMPE297 location
+hey where is the CMPE297 building
+hey where is the Deep Learning classroom
+hey where is the Deep Learning room
+hey where is the Deep Learning location
+hey where is the Deep Learning building
+hey where is the lecture classroom
+hey where is the lecture room
+hey where is the lecture location
+hey where is the lecture building
+hey where is the subject classroom
+hey where is the subject room
+hey where is the subject location
+hey where is the subject building
+hello where is the class classroom
+hello where is the class room
+hello where is the class location
+hello where is the class building
+hello where is the course classroom
+hello where is the course room
+hello where is the course location
+hello where is the course building
+hello where is the CMPE297 classroom
+hello where is the CMPE297 room
+hello where is the CMPE297 location
+hello where is the CMPE297 building
+hello where is the Deep Learning classroom
+hello where is the Deep Learning room
+hello where is the Deep Learning location
+hello where is the Deep Learning building
+hello where is the lecture classroom
+hello where is the lecture room
+hello where is the lecture location
+hello where is the lecture building
+hello where is the subject classroom
+hello where is the subject room
+hello where is the subject location
+hello where is the subject building
+where does the class meet
+where does the class take place
+where does the course meet
+where does the course take place
+where does the CMPE297 meet
+where does the CMPE297 take place
+where does the Deep Learning meet
+where does the Deep Learning take place
+where does the lecture meet
+where does the lecture take place
+where does the subject meet
+where does the subject take place
+hi where does the class meet
+hi where does the class take place
+hi where does the course meet
+hi where does the course take place
+hi where does the CMPE297 meet
+hi where does the CMPE297 take place
+hi where does the Deep Learning meet
+hi where does the Deep Learning take place
+hi where does the lecture meet
+hi where does the lecture take place
+hi where does the subject meet
+hi where does the subject take place
+hey where does the class meet
+hey where does the class take place
+hey where does the course meet
+hey where does the course take place
+hey where does the CMPE297 meet
+hey where does the CMPE297 take place
+hey where does the Deep Learning meet
+hey where does the Deep Learning take place
+hey where does the lecture meet
+hey where does the lecture take place
+hey where does the subject meet
+hey where does the subject take place
+hello where does the class meet
+hello where does the class take place
+hello where does the course meet
+hello where does the course take place
+hello where does the CMPE297 meet
+hello where does the CMPE297 take place
+hello where does the Deep Learning meet
+hello where does the Deep Learning take place
+hello where does the lecture meet
+hello where does the lecture take place
+hello where does the subject meet
+hello where does the subject take place
+what is the classroom of class
+what is the classroom of course
+what is the classroom of CMPE297
+what is the classroom of Deep Learning
+what is the classroom of lecture
+what is the classroom of subject
+what is the classroom of the class
+what is the classroom of the course
+what is the classroom of the CMPE297
+what is the classroom of the Deep Learning
+what is the classroom of the lecture
+what is the classroom of the subject
+what is the room of class
+what is the room of course
+what is the room of CMPE297
+what is the room of Deep Learning
+what is the room of lecture
+what is the room of subject
+what is the room of the class
+what is the room of the course
+what is the room of the CMPE297
+what is the room of the Deep Learning
+what is the room of the lecture
+what is the room of the subject
+what is the location of class
+what is the location of course
+what is the location of CMPE297
+what is the location of Deep Learning
+what is the location of lecture
+what is the location of subject
+what is the location of the class
+what is the location of the course
+what is the location of the CMPE297
+what is the location of the Deep Learning
+what is the location of the lecture
+what is the location of the subject
+what is the building of class
+what is the building of course
+what is the building of CMPE297
+what is the building of Deep Learning
+what is the building of lecture
+what is the building of subject
+what is the building of the class
+what is the building of the course
+what is the building of the CMPE297
+what is the building of the Deep Learning
+what is the building of the lecture
+what is the building of the subject
+hi what is the classroom of class
+hi what is the classroom of course
+hi what is the classroom of CMPE297
+hi what is the classroom of Deep Learning
+hi what is the classroom of lecture
+hi what is the classroom of subject
+hi what is the classroom of the class
+hi what is the classroom of the course
+hi what is the classroom of the CMPE297
+hi what is the classroom of the Deep Learning
+hi what is the classroom of the lecture
+hi what is the classroom of the subject
+hi what is the room of class
+hi what is the room of course
+hi what is the room of CMPE297
+hi what is the room of Deep Learning
+hi what is the room of lecture
+hi what is the room of subject
+hi what is the room of the class
+hi what is the room of the course
+hi what is the room of the CMPE297
+hi what is the room of the Deep Learning
+hi what is the room of the lecture
+hi what is the room of the subject
+hi what is the location of class
+hi what is the location of course
+hi what is the location of CMPE297
+hi what is the location of Deep Learning
+hi what is the location of lecture
+hi what is the location of subject
+hi what is the location of the class
+hi what is the location of the course
+hi what is the location of the CMPE297
+hi what is the location of the Deep Learning
+hi what is the location of the lecture
+hi what is the location of the subject
+hi what is the building of class
+hi what is the building of course
+hi what is the building of CMPE297
+hi what is the building of Deep Learning
+hi what is the building of lecture
+hi what is the building of subject
+hi what is the building of the class
+hi what is the building of the course
+hi what is the building of the CMPE297
+hi what is the building of the Deep Learning
+hi what is the building of the lecture
+hi what is the building of the subject
+hey what is the classroom of class
+hey what is the classroom of course
+hey what is the classroom of CMPE297
+hey what is the classroom of Deep Learning
+hey what is the classroom of lecture
+hey what is the classroom of subject
+hey what is the classroom of the class
+hey what is the classroom of the course
+hey what is the classroom of the CMPE297
+hey what is the classroom of the Deep Learning
+hey what is the classroom of the lecture
+hey what is the classroom of the subject
+hey what is the room of class
+hey what is the room of course
+hey what is the room of CMPE297
+hey what is the room of Deep Learning
+hey what is the room of lecture
+hey what is the room of subject
+hey what is the room of the class
+hey what is the room of the course
+hey what is the room of the CMPE297
+hey what is the room of the Deep Learning
+hey what is the room of the lecture
+hey what is the room of the subject
+hey what is the location of class
+hey what is the location of course
+hey what is the location of CMPE297
+hey what is the location of Deep Learning
+hey what is the location of lecture
+hey what is the location of subject
+hey what is the location of the class
+hey what is the location of the course
+hey what is the location of the CMPE297
+hey what is the location of the Deep Learning
+hey what is the location of the lecture
+hey what is the location of the subject
+hey what is the building of class
+hey what is the building of course
+hey what is the building of CMPE297
+hey what is the building of Deep Learning
+hey what is the building of lecture
+hey what is the building of subject
+hey what is the building of the class
+hey what is the building of the course
+hey what is the building of the CMPE297
+hey what is the building of the Deep Learning
+hey what is the building of the lecture
+hey what is the building of the subject
+hello what is the classroom of class
+hello what is the classroom of course
+hello what is the classroom of CMPE297
+hello what is the classroom of Deep Learning
+hello what is the classroom of lecture
+hello what is the classroom of subject
+hello what is the classroom of the class
+hello what is the classroom of the course
+hello what is the classroom of the CMPE297
+hello what is the classroom of the Deep Learning
+hello what is the classroom of the lecture
+hello what is the classroom of the subject
+hello what is the room of class
+hello what is the room of course
+hello what is the room of CMPE297
+hello what is the room of Deep Learning
+hello what is the room of lecture
+hello what is the room of subject
+hello what is the room of the class
+hello what is the room of the course
+hello what is the room of the CMPE297
+hello what is the room of the Deep Learning
+hello what is the room of the lecture
+hello what is the room of the subject
+hello what is the location of class
+hello what is the location of course
+hello what is the location of CMPE297
+hello what is the location of Deep Learning
+hello what is the location of lecture
+hello what is the location of subject
+hello what is the location of the class
+hello what is the location of the course
+hello what is the location of the CMPE297
+hello what is the location of the Deep Learning
+hello what is the location of the lecture
+hello what is the location of the subject
+hello what is the building of class
+hello what is the building of course
+hello what is the building of CMPE297
+hello what is the building of Deep Learning
+hello what is the building of lecture
+hello what is the building of subject
+hello what is the building of the class
+hello what is the building of the course
+hello what is the building of the CMPE297
+hello what is the building of the Deep Learning
+hello what is the building of the lecture
+hello what is the building of the subject
+where is the classroom
+where is the room
+where is the location
+where is the building
+where is the class
+where is the course
+where is the CMPE297
+where is the Deep Learning
+where is the lecture
+where is the subject
+hi where is the classroom
+hi where is the room
+hi where is the location
+hi where is the building
+hi where is the class
+hi where is the course
+hi where is the CMPE297
+hi where is the Deep Learning
+hi where is the lecture
+hi where is the subject
+hey where is the classroom
+hey where is the room
+hey where is the location
+hey where is the building
+hey where is the class
+hey where is the course
+hey where is the CMPE297
+hey where is the Deep Learning
+hey where is the lecture
+hey where is the subject
+hello where is the classroom
+hello where is the room
+hello where is the location
+hello where is the building
+hello where is the class
+hello where is the course
+hello where is the CMPE297
+hello where is the Deep Learning
+hello where is the lecture
+hello where is the subject
+where is the class classroom
+where is the class room
+where is the class location
+where is the class building
+where is the course classroom
+where is the course room
+where is the course location
+where is the course building
+where is the CMPE297 classroom
+where is the CMPE297 room
+where is the CMPE297 location
+where is the CMPE297 building
+where is the Deep Learning classroom
+where is the Deep Learning room
+where is the Deep Learning location
+where is the Deep Learning building
+where is the lecture classroom
+where is the lecture room
+where is the lecture location
+where is the lecture building
+where is the subject classroom
+where is the subject room
+where is the subject location
+where is the subject building
+hi where is the class classroom
+hi where is the class room
+hi where is the class location
+hi where is the class building
+hi where is the course classroom
+hi where is the course room
+hi where is the course location
+hi where is the course building
+hi where is the CMPE297 classroom
+hi where is the CMPE297 room
+hi where is the CMPE297 location
+hi where is the CMPE297 building
+hi where is the Deep Learning classroom
+hi where is the Deep Learning room
+hi where is the Deep Learning location
+hi where is the Deep Learning building
+hi where is the lecture classroom
+hi where is the lecture room
+hi where is the lecture location
+hi where is the lecture building
+hi where is the subject classroom
+hi where is the subject room
+hi where is the subject location
+hi where is the subject building
+hey where is the class classroom
+hey where is the class room
+hey where is the class location
+hey where is the class building
+hey where is the course classroom
+hey where is the course room
+hey where is the course location
+hey where is the course building
+hey where is the CMPE297 classroom
+hey where is the CMPE297 room
+hey where is the CMPE297 location
+hey where is the CMPE297 building
+hey where is the Deep Learning classroom
+hey where is the Deep Learning room
+hey where is the Deep Learning location
+hey where is the Deep Learning building
+hey where is the lecture classroom
+hey where is the lecture room
+hey where is the lecture location
+hey where is the lecture building
+hey where is the subject classroom
+hey where is the subject room
+hey where is the subject location
+hey where is the subject building
+hello where is the class classroom
+hello where is the class room
+hello where is the class location
+hello where is the class building
+hello where is the course classroom
+hello where is the course room
+hello where is the course location
+hello where is the course building
+hello where is the CMPE297 classroom
+hello where is the CMPE297 room
+hello where is the CMPE297 location
+hello where is the CMPE297 building
+hello where is the Deep Learning classroom
+hello where is the Deep Learning room
+hello where is the Deep Learning location
+hello where is the Deep Learning building
+hello where is the lecture classroom
+hello where is the lecture room
+hello where is the lecture location
+hello where is the lecture building
+hello where is the subject classroom
+hello where is the subject room
+hello where is the subject location
+hello where is the subject building
+where does the class meet
+where does the class take place
+where does the course meet
+where does the course take place
+where does the CMPE297 meet
+where does the CMPE297 take place
+where does the Deep Learning meet
+where does the Deep Learning take place
+where does the lecture meet
+where does the lecture take place
+where does the subject meet
+where does the subject take place
+hi where does the class meet
+hi where does the class take place
+hi where does the course meet
+hi where does the course take place
+hi where does the CMPE297 meet
+hi where does the CMPE297 take place
+hi where does the Deep Learning meet
+hi where does the Deep Learning take place
+hi where does the lecture meet
+hi where does the lecture take place
+hi where does the subject meet
+hi where does the subject take place
+hey where does the class meet
+hey where does the class take place
+hey where does the course meet
+hey where does the course take place
+hey where does the CMPE297 meet
+hey where does the CMPE297 take place
+hey where does the Deep Learning meet
+hey where does the Deep Learning take place
+hey where does the lecture meet
+hey where does the lecture take place
+hey where does the subject meet
+hey where does the subject take place
+hello where does the class meet
+hello where does the class take place
+hello where does the course meet
+hello where does the course take place
+hello where does the CMPE297 meet
+hello where does the CMPE297 take place
+hello where does the Deep Learning meet
+hello where does the Deep Learning take place
+hello where does the lecture meet
+hello where does the lecture take place
+hello where does the subject meet
+hello where does the subject take place
+what is the classroom of class
+what is the classroom of course
+what is the classroom of CMPE297
+what is the classroom of Deep Learning
+what is the classroom of lecture
+what is the classroom of subject
+what is the classroom of the class
+what is the classroom of the course
+what is the classroom of the CMPE297
+what is the classroom of the Deep Learning
+what is the classroom of the lecture
+what is the classroom of the subject
+what is the room of class
+what is the room of course
+what is the room of CMPE297
+what is the room of Deep Learning
+what is the room of lecture
+what is the room of subject
+what is the room of the class
+what is the room of the course
+what is the room of the CMPE297
+what is the room of the Deep Learning
+what is the room of the lecture
+what is the room of the subject
+what is the location of class
+what is the location of course
+what is the location of CMPE297
+what is the location of Deep Learning
+what is the location of lecture
+what is the location of subject
+what is the location of the class
+what is the location of the course
+what is the location of the CMPE297
+what is the location of the Deep Learning
+what is the location of the lecture
+what is the location of the subject
+what is the building of class
+what is the building of course
+what is the building of CMPE297
+what is the building of Deep Learning
+what is the building of lecture
+what is the building of subject
+what is the building of the class
+what is the building of the course
+what is the building of the CMPE297
+what is the building of the Deep Learning
+what is the building of the lecture
+what is the building of the subject
+hi what is the classroom of class
+hi what is the classroom of course
+hi what is the classroom of CMPE297
+hi what is the classroom of Deep Learning
+hi what is the classroom of lecture
+hi what is the classroom of subject
+hi what is the classroom of the class
+hi what is the classroom of the course
+hi what is the classroom of the CMPE297
+hi what is the classroom of the Deep Learning
+hi what is the classroom of the lecture
+hi what is the classroom of the subject
+hi what is the room of class
+hi what is the room of course
+hi what is the room of CMPE297
+hi what is the room of Deep Learning
+hi what is the room of lecture
+hi what is the room of subject
+hi what is the room of the class
+hi what is the room of the course
+hi what is the room of the CMPE297
+hi what is the room of the Deep Learning
+hi what is the room of the lecture
+hi what is the room of the subject
+hi what is the location of class
+hi what is the location of course
+hi what is the location of CMPE297
+hi what is the location of Deep Learning
+hi what is the location of lecture
+hi what is the location of subject
+hi what is the location of the class
+hi what is the location of the course
+hi what is the location of the CMPE297
+hi what is the location of the Deep Learning
+hi what is the location of the lecture
+hi what is the location of the subject
+hi what is the building of class
+hi what is the building of course
+hi what is the building of CMPE297
+hi what is the building of Deep Learning
+hi what is the building of lecture
+hi what is the building of subject
+hi what is the building of the class
+hi what is the building of the course
+hi what is the building of the CMPE297
+hi what is the building of the Deep Learning
+hi what is the building of the lecture
+hi what is the building of the subject
+hey what is the classroom of class
+hey what is the classroom of course
+hey what is the classroom of CMPE297
+hey what is the classroom of Deep Learning
+hey what is the classroom of lecture
+hey what is the classroom of subject
+hey what is the classroom of the class
+hey what is the classroom of the course
+hey what is the classroom of the CMPE297
+hey what is the classroom of the Deep Learning
+hey what is the classroom of the lecture
+hey what is the classroom of the subject
+hey what is the room of class
+hey what is the room of course
+hey what is the room of CMPE297
+hey what is the room of Deep Learning
+hey what is the room of lecture
+hey what is the room of subject
+hey what is the room of the class
+hey what is the room of the course
+hey what is the room of the CMPE297
+hey what is the room of the Deep Learning
+hey what is the room of the lecture
+hey what is the room of the subject
+hey what is the location of class
+hey what is the location of course
+hey what is the location of CMPE297
+hey what is the location of Deep Learning
+hey what is the location of lecture
+hey what is the location of subject
+hey what is the location of the class
+hey what is the location of the course
+hey what is the location of the CMPE297
+hey what is the location of the Deep Learning
+hey what is the location of the lecture
+hey what is the location of the subject
+hey what is the building of class
+hey what is the building of course
+hey what is the building of CMPE297
+hey what is the building of Deep Learning
+hey what is the building of lecture
+hey what is the building of subject
+hey what is the building of the class
+hey what is the building of the course
+hey what is the building of the CMPE297
+hey what is the building of the Deep Learning
+hey what is the building of the lecture
+hey what is the building of the subject
+hello what is the classroom of class
+hello what is the classroom of course
+hello what is the classroom of CMPE297
+hello what is the classroom of Deep Learning
+hello what is the classroom of lecture
+hello what is the classroom of subject
+hello what is the classroom of the class
+hello what is the classroom of the course
+hello what is the classroom of the CMPE297
+hello what is the classroom of the Deep Learning
+hello what is the classroom of the lecture
+hello what is the classroom of the subject
+hello what is the room of class
+hello what is the room of course
+hello what is the room of CMPE297
+hello what is the room of Deep Learning
+hello what is the room of lecture
+hello what is the room of subject
+hello what is the room of the class
+hello what is the room of the course
+hello what is the room of the CMPE297
+hello what is the room of the Deep Learning
+hello what is the room of the lecture
+hello what is the room of the subject
+hello what is the location of class
+hello what is the location of course
+hello what is the location of CMPE297
+hello what is the location of Deep Learning
+hello what is the location of lecture
+hello what is the location of subject
+hello what is the location of the class
+hello what is the location of the course
+hello what is the location of the CMPE297
+hello what is the location of the Deep Learning
+hello what is the location of the lecture
+hello what is the location of the subject
+hello what is the building of class
+hello what is the building of course
+hello what is the building of CMPE297
+hello what is the building of Deep Learning
+hello what is the building of lecture
+hello what is the building of subject
+hello what is the building of the class
+hello what is the building of the course
+hello what is the building of the CMPE297
+hello what is the building of the Deep Learning
+hello what is the building of the lecture
+hello what is the building of the subject
+where is the classroom
+where is the room
+where is the location
+where is the building
+where is the class
+where is the course
+where is the CMPE297
+where is the Deep Learning
+where is the lecture
+where is the subject
+hi where is the classroom
+hi where is the room
+hi where is the location
+hi where is the building
+hi where is the class
+hi where is the course
+hi where is the CMPE297
+hi where is the Deep Learning
+hi where is the lecture
+hi where is the subject
+hey where is the classroom
+hey where is the room
+hey where is the location
+hey where is the building
+hey where is the class
+hey where is the course
+hey where is the CMPE297
+hey where is the Deep Learning
+hey where is the lecture
+hey where is the subject
+hello where is the classroom
+hello where is the room
+hello where is the location
+hello where is the building
+hello where is the class
+hello where is the course
+hello where is the CMPE297
+hello where is the Deep Learning
+hello where is the lecture
+hello where is the subject
+where is the class classroom
+where is the class room
+where is the class location
+where is the class building
+where is the course classroom
+where is the course room
+where is the course location
+where is the course building
+where is the CMPE297 classroom
+where is the CMPE297 room
+where is the CMPE297 location
+where is the CMPE297 building
+where is the Deep Learning classroom
+where is the Deep Learning room
+where is the Deep Learning location
+where is the Deep Learning building
+where is the lecture classroom
+where is the lecture room
+where is the lecture location
+where is the lecture building
+where is the subject classroom
+where is the subject room
+where is the subject location
+where is the subject building
+hi where is the class classroom
+hi where is the class room
+hi where is the class location
+hi where is the class building
+hi where is the course classroom
+hi where is the course room
+hi where is the course location
+hi where is the course building
+hi where is the CMPE297 classroom
+hi where is the CMPE297 room
+hi where is the CMPE297 location
+hi where is the CMPE297 building
+hi where is the Deep Learning classroom
+hi where is the Deep Learning room
+hi where is the Deep Learning location
+hi where is the Deep Learning building
+hi where is the lecture classroom
+hi where is the lecture room
+hi where is the lecture location
+hi where is the lecture building
+hi where is the subject classroom
+hi where is the subject room
+hi where is the subject location
+hi where is the subject building
+hey where is the class classroom
+hey where is the class room
+hey where is the class location
+hey where is the class building
+hey where is the course classroom
+hey where is the course room
+hey where is the course location
+hey where is the course building
+hey where is the CMPE297 classroom
+hey where is the CMPE297 room
+hey where is the CMPE297 location
+hey where is the CMPE297 building
+hey where is the Deep Learning classroom
+hey where is the Deep Learning room
+hey where is the Deep Learning location
+hey where is the Deep Learning building
+hey where is the lecture classroom
+hey where is the lecture room
+hey where is the lecture location
+hey where is the lecture building
+hey where is the subject classroom
+hey where is the subject room
+hey where is the subject location
+hey where is the subject building
+hello where is the class classroom
+hello where is the class room
+hello where is the class location
+hello where is the class building
+hello where is the course classroom
+hello where is the course room
+hello where is the course location
+hello where is the course building
+hello where is the CMPE297 classroom
+hello where is the CMPE297 room
+hello where is the CMPE297 location
+hello where is the CMPE297 building
+hello where is the Deep Learning classroom
+hello where is the Deep Learning room
+hello where is the Deep Learning location
+hello where is the Deep Learning building
+hello where is the lecture classroom
+hello where is the lecture room
+hello where is the lecture location
+hello where is the lecture building
+hello where is the subject classroom
+hello where is the subject room
+hello where is the subject location
+hello where is the subject building
+where does the class meet
+where does the class take place
+where does the course meet
+where does the course take place
+where does the CMPE297 meet
+where does the CMPE297 take place
+where does the Deep Learning meet
+where does the Deep Learning take place
+where does the lecture meet
+where does the lecture take place
+where does the subject meet
+where does the subject take place
+hi where does the class meet
+hi where does the class take place
+hi where does the course meet
+hi where does the course take place
+hi where does the CMPE297 meet
+hi where does the CMPE297 take place
+hi where does the Deep Learning meet
+hi where does the Deep Learning take place
+hi where does the lecture meet
+hi where does the lecture take place
+hi where does the subject meet
+hi where does the subject take place
+hey where does the class meet
+hey where does the class take place
+hey where does the course meet
+hey where does the course take place
+hey where does the CMPE297 meet
+hey where does the CMPE297 take place
+hey where does the Deep Learning meet
+hey where does the Deep Learning take place
+hey where does the lecture meet
+hey where does the lecture take place
+hey where does the subject meet
+hey where does the subject take place
+hello where does the class meet
+hello where does the class take place
+hello where does the course meet
+hello where does the course take place
+hello where does the CMPE297 meet
+hello where does the CMPE297 take place
+hello where does the Deep Learning meet
+hello where does the Deep Learning take place
+hello where does the lecture meet
+hello where does the lecture take place
+hello where does the subject meet
+hello where does the subject take place
+what is the classroom of class
+what is the classroom of course
+what is the classroom of CMPE297
+what is the classroom of Deep Learning
+what is the classroom of lecture
+what is the classroom of subject
+what is the classroom of the class
+what is the classroom of the course
+what is the classroom of the CMPE297
+what is the classroom of the Deep Learning
+what is the classroom of the lecture
+what is the classroom of the subject
+what is the room of class
+what is the room of course
+what is the room of CMPE297
+what is the room of Deep Learning
+what is the room of lecture
+what is the room of subject
+what is the room of the class
+what is the room of the course
+what is the room of the CMPE297
+what is the room of the Deep Learning
+what is the room of the lecture
+what is the room of the subject
+what is the location of class
+what is the location of course
+what is the location of CMPE297
+what is the location of Deep Learning
+what is the location of lecture
+what is the location of subject
+what is the location of the class
+what is the location of the course
+what is the location of the CMPE297
+what is the location of the Deep Learning
+what is the location of the lecture
+what is the location of the subject
+what is the building of class
+what is the building of course
+what is the building of CMPE297
+what is the building of Deep Learning
+what is the building of lecture
+what is the building of subject
+what is the building of the class
+what is the building of the course
+what is the building of the CMPE297
+what is the building of the Deep Learning
+what is the building of the lecture
+what is the building of the subject
+hi what is the classroom of class
+hi what is the classroom of course
+hi what is the classroom of CMPE297
+hi what is the classroom of Deep Learning
+hi what is the classroom of lecture
+hi what is the classroom of subject
+hi what is the classroom of the class
+hi what is the classroom of the course
+hi what is the classroom of the CMPE297
+hi what is the classroom of the Deep Learning
+hi what is the classroom of the lecture
+hi what is the classroom of the subject
+hi what is the room of class
+hi what is the room of course
+hi what is the room of CMPE297
+hi what is the room of Deep Learning
+hi what is the room of lecture
+hi what is the room of subject
+hi what is the room of the class
+hi what is the room of the course
+hi what is the room of the CMPE297
+hi what is the room of the Deep Learning
+hi what is the room of the lecture
+hi what is the room of the subject
+hi what is the location of class
+hi what is the location of course
+hi what is the location of CMPE297
+hi what is the location of Deep Learning
+hi what is the location of lecture
+hi what is the location of subject
+hi what is the location of the class
+hi what is the location of the course
+hi what is the location of the CMPE297
+hi what is the location of the Deep Learning
+hi what is the location of the lecture
+hi what is the location of the subject
+hi what is the building of class
+hi what is the building of course
+hi what is the building of CMPE297
+hi what is the building of Deep Learning
+hi what is the building of lecture
+hi what is the building of subject
+hi what is the building of the class
+hi what is the building of the course
+hi what is the building of the CMPE297
+hi what is the building of the Deep Learning
+hi what is the building of the lecture
+hi what is the building of the subject
+hey what is the classroom of class
+hey what is the classroom of course
+hey what is the classroom of CMPE297
+hey what is the classroom of Deep Learning
+hey what is the classroom of lecture
+hey what is the classroom of subject
+hey what is the classroom of the class
+hey what is the classroom of the course
+hey what is the classroom of the CMPE297
+hey what is the classroom of the Deep Learning
+hey what is the classroom of the lecture
+hey what is the classroom of the subject
+hey what is the room of class
+hey what is the room of course
+hey what is the room of CMPE297
+hey what is the room of Deep Learning
+hey what is the room of lecture
+hey what is the room of subject
+hey what is the room of the class
+hey what is the room of the course
+hey what is the room of the CMPE297
+hey what is the room of the Deep Learning
+hey what is the room of the lecture
+hey what is the room of the subject
+hey what is the location of class
+hey what is the location of course
+hey what is the location of CMPE297
+hey what is the location of Deep Learning
+hey what is the location of lecture
+hey what is the location of subject
+hey what is the location of the class
+hey what is the location of the course
+hey what is the location of the CMPE297
+hey what is the location of the Deep Learning
+hey what is the location of the lecture
+hey what is the location of the subject
+hey what is the building of class
+hey what is the building of course
+hey what is the building of CMPE297
+hey what is the building of Deep Learning
+hey what is the building of lecture
+hey what is the building of subject
+hey what is the building of the class
+hey what is the building of the course
+hey what is the building of the CMPE297
+hey what is the building of the Deep Learning
+hey what is the building of the lecture
+hey what is the building of the subject
+hello what is the classroom of class
+hello what is the classroom of course
+hello what is the classroom of CMPE297
+hello what is the classroom of Deep Learning
+hello what is the classroom of lecture
+hello what is the classroom of subject
+hello what is the classroom of the class
+hello what is the classroom of the course
+hello what is the classroom of the CMPE297
+hello what is the classroom of the Deep Learning
+hello what is the classroom of the lecture
+hello what is the classroom of the subject
+hello what is the room of class
+hello what is the room of course
+hello what is the room of CMPE297
+hello what is the room of Deep Learning
+hello what is the room of lecture
+hello what is the room of subject
+hello what is the room of the class
+hello what is the room of the course
+hello what is the room of the CMPE297
+hello what is the room of the Deep Learning
+hello what is the room of the lecture
+hello what is the room of the subject
+hello what is the location of class
+hello what is the location of course
+hello what is the location of CMPE297
+hello what is the location of Deep Learning
+hello what is the location of lecture
+hello what is the location of subject
+hello what is the location of the class
+hello what is the location of the course
+hello what is the location of the CMPE297
+hello what is the location of the Deep Learning
+hello what is the location of the lecture
+hello what is the location of the subject
+hello what is the building of class
+hello what is the building of course
+hello what is the building of CMPE297
+hello what is the building of Deep Learning
+hello what is the building of lecture
+hello what is the building of subject
+hello what is the building of the class
+hello what is the building of the course
+hello what is the building of the CMPE297
+hello what is the building of the Deep Learning
+hello what is the building of the lecture
+hello what is the building of the subject
