@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/kaushik/Downloads/DeepLearning-297/297-chatbot/model/saved/lstm-model.tfl"
+all_model_checkpoint_paths: "/home/kaushik/Downloads/DeepLearning-297/297-chatbot/model/saved/lstm-model.tfl"
