@@ -10,20 +10,20 @@ processor = wp.Word_Processor('../grammar/')
 ml_classes = wp.ml_classes
 _, _, lexicon_size = processor.words_to_vectors()
 
+print("all ml",tf.__version__)
+
 #TODO need a common file to read our hyerparameters
 lstm_units = 256
-learning_rate = 0.01 
+learning_rate = 0.001 
 lstm_net = tflearn.input_data(shape=[None, lexicon_size, 1])
 #lstm_net = tflearn.embedding(lstm_net)
-lstm_net = tflearn.lstm(lstm_net, n_units=lstm_units, return_seq=False)
-#lstm_net = tflearn.lstm(lstm_net, n_units = lstm_units)
+lstm_net = tflearn.lstm(lstm_net, n_units=lstm_units, return_seq=True)
+lstm_net = tflearn.lstm(lstm_net, n_units = lstm_units)
 lstm_net = tflearn.fully_connected(
     lstm_net, n_units=len(ml_classes), activation='softmax')
-lstm_net = tflearn.regression(lstm_net, optimizer='adam', learning_rate=learning_rate,
-                              loss='categorical_crossentropy')
 
 model = tflearn.DNN(lstm_net, tensorboard_verbose=0)
-model.load("lstm-model.tfl")
+model.load("saved/lstm-model.tfl")
 
 while True:
     tr_data = input('Enter testing string : ')

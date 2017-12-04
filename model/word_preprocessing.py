@@ -16,7 +16,7 @@ lemmatizer = WordNetLemmatizer()
 ml_classes = ['about_the_class','location', 'professor', 'time', 
                'professor_office_hours','professor_office_location', 
                'project_details', 'syllabus',
-              'exam_details','farewell','greeting','feeling','fallback']
+              'exam_details','farewell','greeting','feeling']
 
 
 class Word_Processor:

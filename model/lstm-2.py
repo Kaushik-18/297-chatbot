@@ -13,9 +13,9 @@ feature_set, class_set, lexicon_size = processor.words_to_vectors()
 
 
 lstm_units = 256
-batch_size = 10
+batch_size = 5
 lstm_layers = 1
-learning_rate = 0.01
+learning_rate = 0.001
 
 
 def split_sets(data, classes, split_point=1):
@@ -36,8 +36,8 @@ print(trainX.shape, trainY.shape)
 lstm_net = tflearn.input_data(shape=[None, lexicon_size, 1])
 trainY = to_categorical(trainY, nb_classes=len(ml_classes))
 #lstm_net = tflearn.embedding(lstm_net)
-lstm_net = tflearn.lstm(lstm_net, n_units=lstm_units, return_seq=False)
-#lstm_net = tflearn.lstm(lstm_net, n_units = lstm_units)
+lstm_net = tflearn.lstm(lstm_net,weights_init='xavier', n_units=lstm_units, return_seq=True)
+lstm_net = tflearn.lstm(lstm_net,weights_init='xavier', n_units = lstm_units)
 lstm_net = tflearn.fully_connected(
     lstm_net, n_units=len(ml_classes), activation='softmax')
 lstm_net = tflearn.regression(lstm_net, optimizer='adam', learning_rate=learning_rate,
@@ -45,4 +45,4 @@ lstm_net = tflearn.regression(lstm_net, optimizer='adam', learning_rate=learning
 
 model = tflearn.DNN(lstm_net, tensorboard_verbose=0)
 model.fit(trainX, trainY, show_metric=True, batch_size=batch_size, n_epoch=10)
-model.save("lstm-model.tfl")
+model.save("saved/lstm-model.tfl")
