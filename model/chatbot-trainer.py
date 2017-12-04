@@ -6,6 +6,7 @@
 
 import numpy as np
 import tensorflow as tf
+tf.logging.set_verbosity(tf.logging.INFO)
 import nltk
 from nltk.corpus import stopwords
 from collections import defaultdict
@@ -36,13 +37,25 @@ print(train_X.shape)
 print(train_Y.shape)
 
 
+test_X = train_X[-10000:,]
+test_Y = train_Y[-10000:,]
+train_X = train_X[:-10000, ]
+train_Y = train_Y[:-10000, ]
+
+print(train_X.shape)
+print(train_Y.shape)
 # In[3]:
 
 
 feature_columns = tf.contrib.learn.infer_real_valued_columns_from_input(train_X)
 print(feature_columns)
-dnn_clf = tf.contrib.learn.DNNClassifier(hidden_units=[100, 10], n_classes=15, feature_columns=feature_columns, model_dir="./chat_model")
-dnn_clf.fit(x=train_X, y=train_Y, steps=10000)
+dnn_clf = tf.contrib.learn.DNNClassifier(hidden_units=[100, 100, 100, 50, 50], n_classes=15, feature_columns=feature_columns, model_dir="./chat_model")
+dnn_clf.fit(x=train_X, y=train_Y, batch_size=64, steps=24000)
+results = dnn_clf.evaluate(x=train_X, y=train_Y)
+print('resutls')
+print(results)
+results2 = dnn_clf.evaluate(x=test_X, y=test_Y)
+print(results2)
 
 
 # In[ ]:
