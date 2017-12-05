@@ -51,10 +51,10 @@ model.add(Dense(units=class_size))
 model.compile(optimizer='adam',
               loss='categorical_crossentropy', metrics=['acc'])
 print(model.summary())
-model.fit(padded_test_encoding, test_encode_labels, epochs=500, verbose=0)
+''' model.fit(padded_test_encoding, test_encode_labels, epochs=200, verbose=1)
 loss, accuracy = model.evaluate(
     padded_test_encoding, test_encode_labels, verbose=1)
-print('Accuracy: %f' % (accuracy * 100))
+print('Accuracy: %f' % (accuracy * 100)) '''
 #classes = model.predict(x_test, batch_size=128)
 
 
