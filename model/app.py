@@ -30,6 +30,10 @@ def hello():
     if not request.json:
         abort(400)
     message = request.json['message']
+
+    if message == 'hi' or message == 'hello':
+        return 'greeting'
+
     x = processor.vectorize(message, all_uniq_words)
 
     test_X = np.array(x).reshape(1, -1)
