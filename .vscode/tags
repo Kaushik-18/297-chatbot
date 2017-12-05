@@ -4,6 +4,7 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Bottle_s2s.py	../seq2seq/Bottle_s2s.py	1;"	kind:file	line:1
 DeterministicGenerator.py	../grammar/DeterministicGenerator.py	1;"	kind:file	line:1
 Disjunction	../grammar/JSGFGrammar.py	/^class Disjunction(JSGFExpression):$/;"	kind:class	line:34
 Expression	../grammar/JSGFParser.py	/^Expression = MatchFirst([nonterminal, token])$/;"	kind:variable	line:191
@@ -18,7 +19,9 @@ OptionalGrouping	../grammar/JSGFParser.py	/^OptionalGrouping = (Literal('[').sup
 Rule	../grammar/JSGFGrammar.py	/^class Rule():$/;"	kind:class	line:87
 Sequence	../grammar/JSGFParser.py	/^Sequence = Forward()$/;"	kind:variable	line:175
 StartSymbol	../grammar/JSGFParser.py	/^StartSymbol = Optional(Literal('public')).setResultsName('public') + nonterminal.setResultsName('identifier') + Literal('=').suppress() + Group(topLevel).setResultsName('ruleDef') + Literal(';').suppress() + stringEnd$/;"	kind:variable	line:188
-Word_Processor	../model/word_preprocessing.py	/^class Word_Processor:$/;"	kind:class	line:19
+Word_Processor	../model/word_preprocessing.py	/^class Word_Processor:$/;"	kind:class	line:23
+X	../seq2seq/main_simple_seq2seq.py	/^        X = tl.prepro.pad_sequences(X)$/;"	kind:variable	line:159
+X	../seq2seq/main_simple_seq2seq_twitter.py	/^        X = tl.prepro.pad_sequences(X)$/;"	kind:variable	line:159
 __getitem__	../grammar/JSGFGrammar.py	/^    def __getitem__(self):$/;"	kind:member	line:48
 __getitem__	../grammar/JSGFGrammar.py	/^    def __getitem__(self):$/;"	kind:member	line:66
 __getitem__	../grammar/JSGFGrammar.py	/^    def __getitem__(self):$/;"	kind:member	line:83
@@ -30,7 +33,7 @@ __init__	../grammar/JSGFGrammar.py	/^    def __init__(self, lhs):$/;"	kind:membe
 __init__	../grammar/JSGFGrammar.py	/^    def __init__(self, lhs, rhs):$/;"	kind:member	line:107
 __init__	../grammar/JSGFGrammar.py	/^    def __init__(self, ntName):$/;"	kind:member	line:74
 __init__	../grammar/JSGFGrammar.py	/^    def __init__(self, option):$/;"	kind:member	line:57
-__init__	../model/word_preprocessing.py	/^    def __init__(self, folder_path):$/;"	kind:member	line:20
+__init__	../model/word_preprocessing.py	/^    def __init__(self, folder_path, ml_classes):$/;"	kind:member	line:24
 __init__.py	../grammar/__init__.py	1;"	kind:file	line:1
 __repr__	../grammar/JSGFGrammar.py	/^    def __repr__(self):$/;"	kind:member	line:117
 __repr__	../grammar/JSGFGrammar.py	/^    def __repr__(self):$/;"	kind:member	line:45
@@ -41,23 +44,70 @@ __str__	../grammar/JSGFGrammar.py	/^    def __str__(self):$/;"	kind:member	line:
 __str__	../grammar/JSGFGrammar.py	/^    def __str__(self):$/;"	kind:member	line:42
 __str__	../grammar/JSGFGrammar.py	/^    def __str__(self):$/;"	kind:member	line:60
 __str__	../grammar/JSGFGrammar.py	/^    def __str__(self):$/;"	kind:member	line:77
-a	../model/chatbot-predictor.py	/^a = "who is the professor"$/;"	kind:variable	line:54
+_decode_seqs	../seq2seq/main_simple_seq2seq.py	/^        _decode_seqs = tl.prepro.pad_sequences(_decode_seqs)$/;"	kind:variable	line:164
+_decode_seqs	../seq2seq/main_simple_seq2seq.py	/^        _decode_seqs = tl.prepro.sequences_add_start_id(Y, start_id=start_id, remove_last=False)$/;"	kind:variable	line:163
+_decode_seqs	../seq2seq/main_simple_seq2seq_twitter.py	/^        _decode_seqs = tl.prepro.pad_sequences(_decode_seqs)$/;"	kind:variable	line:164
+_decode_seqs	../seq2seq/main_simple_seq2seq_twitter.py	/^        _decode_seqs = tl.prepro.sequences_add_start_id(Y, start_id=start_id, remove_last=False)$/;"	kind:variable	line:163
+_target_mask	../seq2seq/main_simple_seq2seq.py	/^        _target_mask = tl.prepro.sequences_get_mask(_target_seqs)$/;"	kind:variable	line:165
+_target_mask	../seq2seq/main_simple_seq2seq_twitter.py	/^        _target_mask = tl.prepro.sequences_get_mask(_target_seqs)$/;"	kind:variable	line:165
+_target_seqs	../seq2seq/main_simple_seq2seq.py	/^        _target_seqs = tl.prepro.pad_sequences(_target_seqs)$/;"	kind:variable	line:161
+_target_seqs	../seq2seq/main_simple_seq2seq.py	/^        _target_seqs = tl.prepro.sequences_add_end_id(Y, end_id=end_id)$/;"	kind:variable	line:160
+_target_seqs	../seq2seq/main_simple_seq2seq_twitter.py	/^        _target_seqs = tl.prepro.pad_sequences(_target_seqs)$/;"	kind:variable	line:161
+_target_seqs	../seq2seq/main_simple_seq2seq_twitter.py	/^        _target_seqs = tl.prepro.sequences_add_end_id(Y, end_id=end_id)$/;"	kind:variable	line:160
+a	../model/chatbot-predictor.py	/^a = "who teaches the class?"$/;"	kind:variable	line:43
+a	../model/chatbot-trainer.py	/^a = "is it raining today?"$/;"	kind:variable	line:78
+a	../model/chatbot-trainer.py	/^a = "what is the assignement on?"$/;"	kind:variable	line:75
+a	../model/chatbot-trainer.py	/^a = "what is the project"$/;"	kind:variable	line:74
+a	../model/chatbot-trainer.py	/^a = "where is class?"$/;"	kind:variable	line:70
+a	../model/chatbot-trainer.py	/^a = "where is professor office?"$/;"	kind:variable	line:71
+a	../model/chatbot-trainer.py	/^a = "who is stupid?"$/;"	kind:variable	line:79
+a	../model/chatbot-trainer.py	/^a = "who is the president?"$/;"	kind:variable	line:76
+a	../model/chatbot-trainer.py	/^a = "who is the professor"$/;"	kind:variable	line:77
+a	../model/chatbot-trainer.py	/^a = "yo when class start eh?"$/;"	kind:variable	line:72
 addPublicRule	../grammar/JSGFGrammar.py	/^    def addPublicRule(self, rule):$/;"	kind:member	line:137
 addRule	../grammar/JSGFGrammar.py	/^    def addRule(self, rule):$/;"	kind:member	line:131
-all_uniq_words	../model/chatbot-predictor.py	/^all_uniq_words = data['all_uniq_words']$/;"	kind:variable	line:40
-all_uniq_words	../model/chatbot-trainer.py	/^all_uniq_words = list(set(all_words))$/;"	kind:variable	line:59
-all_words	../model/chatbot-trainer.py	/^all_words = []$/;"	kind:variable	line:36
+all_uniq_words	../model/app.py	/^all_uniq_words = data['all_uniq_words']$/;"	kind:variable	line:23
+all_uniq_words	../model/chatbot-predictor.py	/^all_uniq_words = data['all_uniq_words']$/;"	kind:variable	line:25
+answers	../model/app.py	/^answers = { 'location': ['The class meets at Health Building 407', 'Health Building 407'], 'professor': ['Professor Simon Shim', 'The class is being taught by Professor Simon Shim'], 'time': ['Every Tuesday 3 to 6 PM'], 'professor_office_hours': ['Monday 2:30 to 4:00 PM'], 'professor_office_location': ['Engineering building room 269'], 'project_details': ['The final project is to create an highly intelligent chatbot'], 'syllabus': ['The class covers all the deep learning architechtures such as DNN, CNN, RNN in detail'], 'exam_details': ['There is a mid term and final exam.', 'The final exam is on December 14th'], 'about_the_class': ['The class is all learning the latest deep learning techniques'], 'greeting': ['Hey!', 'Hello!', 'Hi!'], 'feeling': ['I am good. How are you?'], 'ta': ['Abhiram and Srivatsa are the teaching assistants for the course']}$/;"	kind:variable	line:32
+app	../model/app.py	/^app = Flask(__name__)$/;"	kind:variable	line:20
+app.py	../model/app.py	1;"	kind:file	line:1
+batch_size	../seq2seq/main_simple_seq2seq.py	/^batch_size = 32$/;"	kind:variable	line:42
+batch_size	../seq2seq/main_simple_seq2seq_twitter.py	/^batch_size = 32$/;"	kind:variable	line:42
 chatbot-predictor.py	../model/chatbot-predictor.py	1;"	kind:file	line:1
 chatbot-trainer.py	../model/chatbot-trainer.py	1;"	kind:file	line:1
 combineSets	../grammar/DeterministicGenerator.py	/^def combineSets(listOfSets):$/;"	kind:function	line:46
-data	../model/chatbot-predictor.py	/^data = pickle.load( open( "training_data", "rb" ) )$/;"	kind:variable	line:39
+data	../model/app.py	/^data = pickle.load( open( "training_data", "rb" ) )$/;"	kind:variable	line:22
+data	../model/chatbot-predictor.py	/^data = pickle.load( open( "training_data", "rb" ) )$/;"	kind:variable	line:24
+decode_seqs	../seq2seq/main_simple_seq2seq.py	/^decode_seqs = tf.placeholder(dtype=tf.int64, shape=[batch_size, None], name="decode_seqs")$/;"	kind:variable	line:114
+decode_seqs	../seq2seq/main_simple_seq2seq.py	/^decode_seqs = tl.prepro.sequences_add_start_id([trainY[10]], start_id=start_id, remove_last=False)[0]$/;"	kind:variable	line:73
+decode_seqs	../seq2seq/main_simple_seq2seq_twitter.py	/^decode_seqs = tf.placeholder(dtype=tf.int64, shape=[batch_size, None], name="decode_seqs")$/;"	kind:variable	line:114
+decode_seqs	../seq2seq/main_simple_seq2seq_twitter.py	/^decode_seqs = tl.prepro.sequences_add_start_id([trainY[10]], start_id=start_id, remove_last=False)[0]$/;"	kind:variable	line:73
+decode_seqs2	../seq2seq/main_simple_seq2seq.py	/^decode_seqs2 = tf.placeholder(dtype=tf.int64, shape=[1, None], name="decode_seqs")$/;"	kind:variable	line:121
+decode_seqs2	../seq2seq/main_simple_seq2seq_twitter.py	/^decode_seqs2 = tf.placeholder(dtype=tf.int64, shape=[1, None], name="decode_seqs")$/;"	kind:variable	line:121
 disj	../grammar/JSGFParser.py	/^disj = Forward()$/;"	kind:variable	line:183
 disjPrime	../grammar/JSGFParser.py	/^disjPrime = Literal('|').suppress() + disj$/;"	kind:variable	line:184
-dnn_clf	../model/chatbot-predictor.py	/^dnn_clf = tf.contrib.learn.DNNClassifier(hidden_units=[10, 10], n_classes=3, feature_columns=feature_columns, model_dir=".\/chat_model")$/;"	kind:variable	line:48
-dnn_clf	../model/chatbot-trainer.py	/^dnn_clf = tf.contrib.learn.DNNClassifier(hidden_units=[10, 10], n_classes=3, feature_columns=feature_columns, model_dir=".\/chat_model")$/;"	kind:variable	line:92
-feature_columns	../model/chatbot-predictor.py	/^feature_columns=[tf.contrib.layers.real_valued_column(column_name='', dimension=31, default_value=None, dtype=tf.int64, normalizer=None)]$/;"	kind:variable	line:47
-feature_columns	../model/chatbot-trainer.py	/^feature_columns = tf.contrib.learn.infer_real_valued_columns_from_input(train_X)$/;"	kind:variable	line:90
+dnn_clf	../model/app.py	/^dnn_clf = tf.contrib.learn.DNNClassifier(hidden_units=[100, 100, 100, 50, 50], n_classes=15, feature_columns=feature_columns, model_dir=".\/chat_model")$/;"	kind:variable	line:30
+dnn_clf	../model/chatbot-predictor.py	/^dnn_clf = tf.contrib.learn.DNNClassifier(hidden_units=[100, 10], n_classes=15, feature_columns=feature_columns, model_dir=".\/chat_model")$/;"	kind:variable	line:37
+dnn_clf	../model/chatbot-trainer.py	/^dnn_clf = tf.contrib.learn.DNNClassifier(hidden_units=[100, 100, 100, 50, 50], n_classes=15, feature_columns=feature_columns, model_dir=".\/chat_model")$/;"	kind:variable	line:52
+emb_dim	../seq2seq/main_simple_seq2seq.py	/^emb_dim = 1024$/;"	kind:variable	line:45
+emb_dim	../seq2seq/main_simple_seq2seq_twitter.py	/^emb_dim = 1024$/;"	kind:variable	line:45
+encode_seqs	../seq2seq/main_simple_seq2seq.py	/^encode_seqs = tf.placeholder(dtype=tf.int64, shape=[batch_size, None], name="encode_seqs")$/;"	kind:variable	line:113
+encode_seqs	../seq2seq/main_simple_seq2seq_twitter.py	/^encode_seqs = tf.placeholder(dtype=tf.int64, shape=[batch_size, None], name="encode_seqs")$/;"	kind:variable	line:113
+encode_seqs2	../seq2seq/main_simple_seq2seq.py	/^encode_seqs2 = tf.placeholder(dtype=tf.int64, shape=[1, None], name="encode_seqs")$/;"	kind:variable	line:120
+encode_seqs2	../seq2seq/main_simple_seq2seq_twitter.py	/^encode_seqs2 = tf.placeholder(dtype=tf.int64, shape=[1, None], name="encode_seqs")$/;"	kind:variable	line:120
+end_id	../seq2seq/main_simple_seq2seq.py	/^end_id = xvocab_size+1  # 8003$/;"	kind:variable	line:54
+end_id	../seq2seq/main_simple_seq2seq_twitter.py	/^end_id = xvocab_size+1  # 8003$/;"	kind:variable	line:54
+epoch_time	../seq2seq/main_simple_seq2seq.py	/^    epoch_time = time.time()$/;"	kind:variable	line:150
+epoch_time	../seq2seq/main_simple_seq2seq_twitter.py	/^    epoch_time = time.time()$/;"	kind:variable	line:150
+feature_columns	../model/app.py	/^feature_columns=[tf.contrib.layers.real_valued_column(column_name='', dimension=912, default_value=None, dtype=tf.int64, normalizer=None)]$/;"	kind:variable	line:29
+feature_columns	../model/chatbot-predictor.py	/^feature_columns=[tf.contrib.layers.real_valued_column(column_name='', dimension=912, default_value=None, dtype=tf.int64, normalizer=None)]$/;"	kind:variable	line:36
+feature_columns	../model/chatbot-trainer.py	/^feature_columns = tf.contrib.learn.infer_real_valued_columns_from_input(train_X)$/;"	kind:variable	line:50
+feedback	../seq2seq/Bottle_s2s.py	/^def feedback():$/;"	kind:function	line:26
+feedback2	../seq2seq/Bottle_s2s.py	/^def feedback2():$/;"	kind:function	line:37
+feedback2	../seq2seq/Bottle_s2s.py	/^def feedback2():$/;"	kind:function	line:45
+feedback2	../seq2seq/Bottle_s2s.py	/^def feedback2(dc):$/;"	kind:function	line:32
 fileStream	../grammar/JSGFParser.py	/^    fileStream = open(sys.argv[1])$/;"	kind:variable	line:244
+filter_words	../model/word_preprocessing.py	/^filter_words = ['who']$/;"	kind:variable	line:21
 foundNonterminal	../grammar/JSGFParser.py	/^def foundNonterminal(s, loc, toks):$/;"	kind:function	line:90
 foundOptionalGroup	../grammar/JSGFParser.py	/^def foundOptionalGroup(s, loc, toks):$/;"	kind:function	line:139
 foundPair	../grammar/JSGFParser.py	/^def foundPair(s, loc, toks):$/;"	kind:function	line:113
@@ -68,56 +118,148 @@ foundWeightedExpression	../grammar/JSGFParser.py	/^def foundWeightedExpression(s
 getGrammarObject	../grammar/JSGFParser.py	/^def getGrammarObject(fileStream):$/;"	kind:function	line:212
 getRHS	../grammar/JSGFGrammar.py	/^    def getRHS(self, nt):$/;"	kind:member	line:143
 grammar	../grammar/JSGFParser.py	/^    grammar = getGrammarObject(fileStream)$/;"	kind:variable	line:245
+hello	../model/app.py	/^def hello():$/;"	kind:function	line:36
+idx2w	../seq2seq/main_simple_seq2seq.py	/^idx2w = idx2w + ['start_id', 'end_id']$/;"	kind:variable	line:58
+idx2w	../seq2seq/main_simple_seq2seq.py	/^idx2w = metadata['idx2w']   # list index 2 word$/;"	kind:variable	line:48
+idx2w	../seq2seq/main_simple_seq2seq_twitter.py	/^idx2w = idx2w + ['start_id', 'end_id']$/;"	kind:variable	line:58
+idx2w	../seq2seq/main_simple_seq2seq_twitter.py	/^idx2w = metadata['idx2w']   # list index 2 word$/;"	kind:variable	line:48
 jgDisj	../grammar/JSGFGrammar.py	/^    jgDisj = Disjunction(['hello', 'world'])$/;"	kind:variable	line:167
 jgOpt	../grammar/JSGFGrammar.py	/^    jgOpt = Optional(jgDisj)$/;"	kind:variable	line:168
 jgRule	../grammar/JSGFGrammar.py	/^    jgRule = Rule("<greeting>", jgOpt)$/;"	kind:variable	line:169
-lemmatizer	../model/chatbot-predictor.py	/^lemmatizer = WordNetLemmatizer()$/;"	kind:variable	line:16
-lemmatizer	../model/chatbot-trainer.py	/^lemmatizer = WordNetLemmatizer()$/;"	kind:variable	line:19
-lemmatizer	../model/word_preprocessing.py	/^lemmatizer = WordNetLemmatizer()$/;"	kind:variable	line:14
-lines	../model/chatbot-trainer.py	/^        lines = file.read().splitlines()$/;"	kind:variable	line:29
-ml_classes	../model/chatbot-trainer.py	/^ml_classes = ['location', 'professor', 'time']$/;"	kind:variable	line:25
-ml_classes	../model/word_preprocessing.py	/^ml_classes = ['location', 'professor', 'time']$/;"	kind:variable	line:16
+lemmatizer	../model/app.py	/^lemmatizer = WordNetLemmatizer()$/;"	kind:variable	line:18
+lemmatizer	../model/chatbot-predictor.py	/^lemmatizer = WordNetLemmatizer()$/;"	kind:variable	line:17
+lemmatizer	../model/chatbot-trainer.py	/^lemmatizer = WordNetLemmatizer()$/;"	kind:variable	line:21
+lemmatizer	../model/word_preprocessing.py	/^lemmatizer = WordNetLemmatizer()$/;"	kind:variable	line:15
+loss	../seq2seq/main_simple_seq2seq.py	/^loss = tl.cost.cross_entropy_seq_with_mask(logits=net_out.outputs, target_seqs=target_seqs, input_mask=target_mask, return_details=False, name='cost')$/;"	kind:variable	line:130
+loss	../seq2seq/main_simple_seq2seq_twitter.py	/^loss = tl.cost.cross_entropy_seq_with_mask(logits=net_out.outputs, target_seqs=target_seqs, input_mask=target_mask, return_details=False, name='cost')$/;"	kind:variable	line:130
+lr	../seq2seq/main_simple_seq2seq.py	/^lr = 0.0001$/;"	kind:variable	line:134
+lr	../seq2seq/main_simple_seq2seq_twitter.py	/^lr = 0.0001$/;"	kind:variable	line:134
+main	../seq2seq/Bottle_s2s.py	/^def main():$/;"	kind:function	line:93
+main_simple_seq2seq.py	../seq2seq/main_simple_seq2seq.py	1;"	kind:file	line:1
+main_simple_seq2seq_twitter.py	../seq2seq/main_simple_seq2seq_twitter.py	1;"	kind:file	line:1
+ml_classes	../model/chatbot-trainer.py	/^ml_classes = ['location', 'professor', 'time', 'professor_office_hours',$/;"	kind:variable	line:27
+model	../seq2seq/Bottle_s2s.py	/^    def model(encode_seqs, decode_seqs, is_train=True, reuse=False):$/;"	kind:function	line:166
+model	../seq2seq/main_simple_seq2seq.py	/^def model(encode_seqs, decode_seqs, is_train=True, reuse=False):$/;"	kind:function	line:81
+model	../seq2seq/main_simple_seq2seq_twitter.py	/^def model(encode_seqs, decode_seqs, is_train=True, reuse=False):$/;"	kind:function	line:81
+n_epoch	../seq2seq/main_simple_seq2seq.py	/^n_epoch = 50$/;"	kind:variable	line:148
+n_epoch	../seq2seq/main_simple_seq2seq_twitter.py	/^n_epoch = 50$/;"	kind:variable	line:148
+n_step	../seq2seq/main_simple_seq2seq.py	/^n_step = int(xseq_len\/batch_size)$/;"	kind:variable	line:43
+n_step	../seq2seq/main_simple_seq2seq_twitter.py	/^n_step = int(xseq_len\/batch_size)$/;"	kind:variable	line:43
 nocomment	../grammar/JSGFParser.py	/^def nocomment(oldline):$/;"	kind:function	line:198
 nonterminal	../grammar/JSGFParser.py	/^nonterminal = Combine(Literal('<') + Word(alphanums+'$_:;,=|\/\\\\()[]@#%!^&~') + Literal('>')).setParseAction(foundNonterminal).setResultsName('NonTerminal')$/;"	kind:variable	line:173
-preprocess	../model/chatbot-predictor.py	/^def preprocess(sentence):$/;"	kind:function	line:23
-preprocess	../model/chatbot-trainer.py	/^def preprocess(sentence):$/;"	kind:function	line:39
-preprocess	../model/word_preprocessing.py	/^    def preprocess(self, sentence):$/;"	kind:member	line:29
+pad_id	../seq2seq/main_simple_seq2seq.py	/^pad_id = w2idx['_']     # 0$/;"	kind:variable	line:51
+pad_id	../seq2seq/main_simple_seq2seq_twitter.py	/^pad_id = w2idx['_']     # 0$/;"	kind:variable	line:51
+preprocess	../model/word_preprocessing.py	/^    def preprocess(self, sentence):$/;"	kind:member	line:34
 processDisjunction	../grammar/DeterministicGenerator.py	/^def processDisjunction(disj):$/;"	kind:function	line:78
 processNonTerminal	../grammar/DeterministicGenerator.py	/^def processNonTerminal(nt):$/;"	kind:function	line:72
 processOptional	../grammar/DeterministicGenerator.py	/^def processOptional(opt):$/;"	kind:function	line:93
 processRHS	../grammar/DeterministicGenerator.py	/^def processRHS(rhs):$/;"	kind:function	line:104
 processSequence	../grammar/DeterministicGenerator.py	/^def processSequence(seq):$/;"	kind:function	line:62
-processed_tokens	../model/chatbot-trainer.py	/^        processed_tokens = preprocess(line)$/;"	kind:variable	line:51
-procs	../model/word_preprocessing.py	/^    procs = Word_Processor('..\/grammar\/')$/;"	kind:variable	line:73
-sentences	../model/chatbot-trainer.py	/^sentences = []$/;"	kind:variable	line:37
-stemmer	../model/chatbot-predictor.py	/^stemmer = LancasterStemmer()$/;"	kind:variable	line:13
-stemmer	../model/chatbot-trainer.py	/^stemmer = LancasterStemmer()$/;"	kind:variable	line:16
-stemmer	../model/word_preprocessing.py	/^stemmer = LancasterStemmer()$/;"	kind:variable	line:11
-stop_words	../model/chatbot-trainer.py	/^stop_words = set(stopwords.words('english'))$/;"	kind:variable	line:33
-store	../model/chatbot-trainer.py	/^store = defaultdict(list)$/;"	kind:variable	line:26
-test_X	../model/chatbot-predictor.py	/^test_X = np.array(x).reshape(1, -1)$/;"	kind:variable	line:60
+processor	../model/app.py	/^processor  =  wp.Word_Processor('..\/grammar\/', uniq_ml_classes)$/;"	kind:variable	line:26
+processor	../model/chatbot-predictor.py	/^processor  =  wp.Word_Processor('..\/grammar\/', uniq_ml_classes)$/;"	kind:variable	line:30
+processor	../model/chatbot-trainer.py	/^processor  =  wp.Word_Processor('..\/grammar\/', ml_classes)$/;"	kind:variable	line:32
+procs	../model/word_preprocessing.py	/^    procs = Word_Processor('..\/grammar\/')$/;"	kind:variable	line:82
+results	../model/chatbot-trainer.py	/^results = dnn_clf.evaluate(x=train_X, y=train_Y)$/;"	kind:variable	line:54
+results2	../model/chatbot-trainer.py	/^results2 = dnn_clf.evaluate(x=test_X, y=test_Y)$/;"	kind:variable	line:57
+seed_id	../seq2seq/main_simple_seq2seq.py	/^                seed_id = [w2idx[w] for w in seed.split(" ")]$/;"	kind:variable	line:194
+seed_id	../seq2seq/main_simple_seq2seq_twitter.py	/^                seed_id = [w2idx[w] for w in seed.split(" ")]$/;"	kind:variable	line:194
+seeds	../seq2seq/main_simple_seq2seq.py	/^            seeds = ["happy birthday have a nice day"]$/;"	kind:variable	line:190
+seeds	../seq2seq/main_simple_seq2seq_twitter.py	/^            seeds = ["happy birthday have a nice day"]$/;"	kind:variable	line:190
+sentence	../seq2seq/main_simple_seq2seq.py	/^                        sentence = sentence + [w]$/;"	kind:variable	line:216
+sentence	../seq2seq/main_simple_seq2seq.py	/^                    sentence = [w]$/;"	kind:variable	line:207
+sentence	../seq2seq/main_simple_seq2seq_twitter.py	/^                        sentence = sentence + [w]$/;"	kind:variable	line:216
+sentence	../seq2seq/main_simple_seq2seq_twitter.py	/^                    sentence = [w]$/;"	kind:variable	line:207
+sess	../seq2seq/main_simple_seq2seq.py	/^sess = tf.Session(config=tf.ConfigProto(allow_soft_placement=True, log_device_placement=False))$/;"	kind:variable	line:143
+sess	../seq2seq/main_simple_seq2seq_twitter.py	/^sess = tf.Session(config=tf.ConfigProto(allow_soft_placement=True, log_device_placement=False))$/;"	kind:variable	line:143
+start_id	../seq2seq/main_simple_seq2seq.py	/^start_id = xvocab_size  # 8002$/;"	kind:variable	line:53
+start_id	../seq2seq/main_simple_seq2seq_twitter.py	/^start_id = xvocab_size  # 8002$/;"	kind:variable	line:53
+state	../seq2seq/main_simple_seq2seq.py	/^                    state = sess.run(net_rnn.final_state_encode,$/;"	kind:variable	line:197
+state	../seq2seq/main_simple_seq2seq_twitter.py	/^                    state = sess.run(net_rnn.final_state_encode,$/;"	kind:variable	line:197
+stemmer	../model/app.py	/^stemmer = LancasterStemmer()$/;"	kind:variable	line:15
+stemmer	../model/chatbot-predictor.py	/^stemmer = LancasterStemmer()$/;"	kind:variable	line:14
+stemmer	../model/chatbot-trainer.py	/^stemmer = LancasterStemmer()$/;"	kind:variable	line:18
+stemmer	../model/word_preprocessing.py	/^stemmer = LancasterStemmer()$/;"	kind:variable	line:12
+step_time	../seq2seq/main_simple_seq2seq.py	/^        step_time = time.time()$/;"	kind:variable	line:157
+step_time	../seq2seq/main_simple_seq2seq_twitter.py	/^        step_time = time.time()$/;"	kind:variable	line:157
+target_mask	../seq2seq/main_simple_seq2seq.py	/^target_mask = tf.placeholder(dtype=tf.int64, shape=[batch_size, None], name="target_mask") # tl.prepro.sequences_get_mask()$/;"	kind:variable	line:116
+target_mask	../seq2seq/main_simple_seq2seq.py	/^target_mask = tl.prepro.sequences_get_mask([target_seqs])[0]$/;"	kind:variable	line:76
+target_mask	../seq2seq/main_simple_seq2seq_twitter.py	/^target_mask = tf.placeholder(dtype=tf.int64, shape=[batch_size, None], name="target_mask") # tl.prepro.sequences_get_mask()$/;"	kind:variable	line:116
+target_mask	../seq2seq/main_simple_seq2seq_twitter.py	/^target_mask = tl.prepro.sequences_get_mask([target_seqs])[0]$/;"	kind:variable	line:76
+target_seqs	../seq2seq/main_simple_seq2seq.py	/^target_seqs = tf.placeholder(dtype=tf.int64, shape=[batch_size, None], name="target_seqs")$/;"	kind:variable	line:115
+target_seqs	../seq2seq/main_simple_seq2seq.py	/^target_seqs = tl.prepro.sequences_add_end_id([trainY[10]], end_id=end_id)[0]$/;"	kind:variable	line:70
+target_seqs	../seq2seq/main_simple_seq2seq_twitter.py	/^target_seqs = tf.placeholder(dtype=tf.int64, shape=[batch_size, None], name="target_seqs")$/;"	kind:variable	line:115
+target_seqs	../seq2seq/main_simple_seq2seq_twitter.py	/^target_seqs = tl.prepro.sequences_add_end_id([trainY[10]], end_id=end_id)[0]$/;"	kind:variable	line:70
+test	../seq2seq/Bottle_s2s.py	/^def test():$/;"	kind:function	line:22
+testX	../seq2seq/main_simple_seq2seq.py	/^testX = testX.tolist()$/;"	kind:variable	line:26
+testX	../seq2seq/main_simple_seq2seq.py	/^testX = tl.prepro.remove_pad_sequences(testX)$/;"	kind:variable	line:33
+testX	../seq2seq/main_simple_seq2seq_twitter.py	/^testX = testX.tolist()$/;"	kind:variable	line:26
+testX	../seq2seq/main_simple_seq2seq_twitter.py	/^testX = tl.prepro.remove_pad_sequences(testX)$/;"	kind:variable	line:33
+testY	../seq2seq/main_simple_seq2seq.py	/^testY = testY.tolist()$/;"	kind:variable	line:27
+testY	../seq2seq/main_simple_seq2seq.py	/^testY = tl.prepro.remove_pad_sequences(testY)$/;"	kind:variable	line:34
+testY	../seq2seq/main_simple_seq2seq_twitter.py	/^testY = testY.tolist()$/;"	kind:variable	line:27
+testY	../seq2seq/main_simple_seq2seq_twitter.py	/^testY = tl.prepro.remove_pad_sequences(testY)$/;"	kind:variable	line:34
+test_X	../model/chatbot-predictor.py	/^test_X = np.array(x).reshape(1, -1)$/;"	kind:variable	line:47
+test_X	../model/chatbot-trainer.py	/^test_X = np.array(x).reshape(1, -1)$/;"	kind:variable	line:83
+test_X	../model/chatbot-trainer.py	/^test_X = train_X[-10000:,]$/;"	kind:variable	line:40
+test_Y	../model/chatbot-trainer.py	/^test_Y = train_Y[-10000:,]$/;"	kind:variable	line:41
 token	../grammar/JSGFParser.py	/^token = Word(alphanums+"'_-").setResultsName('token').setParseAction(foundToken)$/;"	kind:variable	line:170
-token_set	../model/chatbot-predictor.py	/^token_set = set(tokens)$/;"	kind:variable	line:58
-tokens	../model/chatbot-predictor.py	/^tokens = preprocess(a)$/;"	kind:variable	line:57
 topLevel	../grammar/JSGFParser.py	/^topLevel = MatchFirst([disj, weightAlternatives])$/;"	kind:variable	line:187
-train_X	../model/chatbot-trainer.py	/^train_X = np.vstack(train_X)$/;"	kind:variable	line:77
-train_X	../model/chatbot-trainer.py	/^train_X = train_set[:, 0]$/;"	kind:variable	line:76
-train_Y	../model/chatbot-trainer.py	/^train_Y = np.vstack(train_Y)$/;"	kind:variable	line:81
-train_Y	../model/chatbot-trainer.py	/^train_Y = train_set[:, 1]$/;"	kind:variable	line:80
-train_set	../model/chatbot-trainer.py	/^train_set = np.asarray(training)$/;"	kind:variable	line:74
-training	../model/chatbot-trainer.py	/^training = []$/;"	kind:variable	line:65
-uniq_ml_classes	../model/chatbot-predictor.py	/^uniq_ml_classes = data['uniq_ml_classes']$/;"	kind:variable	line:41
-uniq_ml_classes	../model/chatbot-trainer.py	/^uniq_ml_classes = list(set(ml_classes))$/;"	kind:variable	line:60
+trainX	../seq2seq/main_simple_seq2seq.py	/^trainX = tl.prepro.remove_pad_sequences(trainX)$/;"	kind:variable	line:31
+trainX	../seq2seq/main_simple_seq2seq.py	/^trainX = trainX.tolist()$/;"	kind:variable	line:24
+trainX	../seq2seq/main_simple_seq2seq_twitter.py	/^trainX = tl.prepro.remove_pad_sequences(trainX)$/;"	kind:variable	line:31
+trainX	../seq2seq/main_simple_seq2seq_twitter.py	/^trainX = trainX.tolist()$/;"	kind:variable	line:24
+trainY	../seq2seq/main_simple_seq2seq.py	/^trainY = tl.prepro.remove_pad_sequences(trainY)$/;"	kind:variable	line:32
+trainY	../seq2seq/main_simple_seq2seq.py	/^trainY = trainY.tolist()$/;"	kind:variable	line:25
+trainY	../seq2seq/main_simple_seq2seq_twitter.py	/^trainY = tl.prepro.remove_pad_sequences(trainY)$/;"	kind:variable	line:32
+trainY	../seq2seq/main_simple_seq2seq_twitter.py	/^trainY = trainY.tolist()$/;"	kind:variable	line:25
+train_X	../model/chatbot-trainer.py	/^train_X = train_X[:-10000, ]$/;"	kind:variable	line:42
+train_Y	../model/chatbot-trainer.py	/^train_Y = train_Y.reshape(-1,1)$/;"	kind:variable	line:34
+train_Y	../model/chatbot-trainer.py	/^train_Y = train_Y[:-10000, ]$/;"	kind:variable	line:43
+train_op	../seq2seq/main_simple_seq2seq.py	/^train_op = tf.train.AdamOptimizer(learning_rate=lr).minimize(loss)$/;"	kind:variable	line:135
+train_op	../seq2seq/main_simple_seq2seq_twitter.py	/^train_op = tf.train.AdamOptimizer(learning_rate=lr).minimize(loss)$/;"	kind:variable	line:135
+translator	../model/app.py	/^translator=str.maketrans('','',string.punctuation)$/;"	kind:variable	line:12
+uniq_ml_classes	../model/app.py	/^uniq_ml_classes = data['uniq_ml_classes']$/;"	kind:variable	line:24
+uniq_ml_classes	../model/chatbot-predictor.py	/^uniq_ml_classes = data['uniq_ml_classes']$/;"	kind:variable	line:26
+unk_id	../seq2seq/main_simple_seq2seq.py	/^unk_id = w2idx['unk']   # 1$/;"	kind:variable	line:50
+unk_id	../seq2seq/main_simple_seq2seq_twitter.py	/^unk_id = w2idx['unk']   # 1$/;"	kind:variable	line:50
 usePackrat	../grammar/JSGFParser.py	/^usePackrat = True$/;"	kind:variable	line:68
-vectorize	../model/chatbot-predictor.py	/^def vectorize(token_set, all_uniq_words):$/;"	kind:function	line:32
-vectorize	../model/chatbot-trainer.py	/^def vectorize(token_set, all_uniq_words):$/;"	kind:function	line:62
-vectorize	../model/word_preprocessing.py	/^    def vectorize(self, token_set, all_uniq_words):$/;"	kind:member	line:39
-vectorize_input	../model/word_preprocessing.py	/^    def vectorize_input(self, sentence):$/;"	kind:member	line:67
+validX	../seq2seq/main_simple_seq2seq.py	/^validX = tl.prepro.remove_pad_sequences(validX)$/;"	kind:variable	line:35
+validX	../seq2seq/main_simple_seq2seq.py	/^validX = validX.tolist()$/;"	kind:variable	line:28
+validX	../seq2seq/main_simple_seq2seq_twitter.py	/^validX = tl.prepro.remove_pad_sequences(validX)$/;"	kind:variable	line:35
+validX	../seq2seq/main_simple_seq2seq_twitter.py	/^validX = validX.tolist()$/;"	kind:variable	line:28
+validY	../seq2seq/main_simple_seq2seq.py	/^validY = tl.prepro.remove_pad_sequences(validY)$/;"	kind:variable	line:36
+validY	../seq2seq/main_simple_seq2seq.py	/^validY = validY.tolist()$/;"	kind:variable	line:29
+validY	../seq2seq/main_simple_seq2seq_twitter.py	/^validY = tl.prepro.remove_pad_sequences(validY)$/;"	kind:variable	line:36
+validY	../seq2seq/main_simple_seq2seq_twitter.py	/^validY = validY.tolist()$/;"	kind:variable	line:29
+vectorize	../model/word_preprocessing.py	/^    def vectorize(self, token_set, all_uniq_words):$/;"	kind:member	line:45
+vectorize_input	../model/word_preprocessing.py	/^    def vectorize_input(self, sentence, all_uniq_words):$/;"	kind:member	line:74
+w	../seq2seq/main_simple_seq2seq.py	/^                        w = idx2w[w_id]$/;"	kind:variable	line:213
+w	../seq2seq/main_simple_seq2seq.py	/^                    w = idx2w[w_id]$/;"	kind:variable	line:205
+w	../seq2seq/main_simple_seq2seq_twitter.py	/^                        w = idx2w[w_id]$/;"	kind:variable	line:213
+w	../seq2seq/main_simple_seq2seq_twitter.py	/^                    w = idx2w[w_id]$/;"	kind:variable	line:205
+w2idx	../seq2seq/main_simple_seq2seq.py	/^w2idx = metadata['w2idx']   # dict  word 2 index$/;"	kind:variable	line:47
+w2idx	../seq2seq/main_simple_seq2seq_twitter.py	/^w2idx = metadata['w2idx']   # dict  word 2 index$/;"	kind:variable	line:47
+w_id	../seq2seq/main_simple_seq2seq.py	/^                        w_id = tl.nlp.sample_top(o[0], top_k=2)$/;"	kind:variable	line:212
+w_id	../seq2seq/main_simple_seq2seq.py	/^                    w_id = tl.nlp.sample_top(o[0], top_k=3)$/;"	kind:variable	line:204
+w_id	../seq2seq/main_simple_seq2seq_twitter.py	/^                        w_id = tl.nlp.sample_top(o[0], top_k=2)$/;"	kind:variable	line:212
+w_id	../seq2seq/main_simple_seq2seq_twitter.py	/^                    w_id = tl.nlp.sample_top(o[0], top_k=3)$/;"	kind:variable	line:204
 weight	../grammar/JSGFParser.py	/^weight = (Literal('\/').suppress() + (Word(nums + '.')).setResultsName('weightAmount') + Literal('\/').suppress()).setParseAction(foundWeight).setResultsName("weight")$/;"	kind:variable	line:167
 weightAlternatives	../grammar/JSGFParser.py	/^weightAlternatives = Forward()$/;"	kind:variable	line:179
 weightedExpression	../grammar/JSGFParser.py	/^weightedExpression = (weight + Group(Sequence).setResultsName("expr")).setResultsName('weightedExpression').setParseAction(foundWeightedExpression)$/;"	kind:variable	line:177
 weightedPrime	../grammar/JSGFParser.py	/^weightedPrime = Literal('|').suppress() + weightAlternatives$/;"	kind:variable	line:180
 word_preprocessing.py	../model/word_preprocessing.py	1;"	kind:file	line:1
-words_to_vectors	../model/word_preprocessing.py	/^    def words_to_vectors(self):$/;"	kind:member	line:42
-x	../model/chatbot-predictor.py	/^x = vectorize(token_set, all_uniq_words)$/;"	kind:variable	line:59
-y_pred	../model/chatbot-predictor.py	/^y_pred = list(dnn_clf.predict(test_X))$/;"	kind:variable	line:61
+words_to_vectors	../model/word_preprocessing.py	/^    def words_to_vectors(self):$/;"	kind:member	line:48
+x	../model/chatbot-predictor.py	/^x = processor.vectorize(a, all_uniq_words)$/;"	kind:variable	line:45
+x	../model/chatbot-trainer.py	/^x = processor.vectorize(a, all_uniq_words)$/;"	kind:variable	line:81
+xseq_len	../seq2seq/main_simple_seq2seq.py	/^xseq_len = len(trainX)#.shape[-1]$/;"	kind:variable	line:39
+xseq_len	../seq2seq/main_simple_seq2seq_twitter.py	/^xseq_len = len(trainX)#.shape[-1]$/;"	kind:variable	line:39
+xvocab_size	../seq2seq/main_simple_seq2seq.py	/^xvocab_size = len(metadata['idx2w']) # 8002 (0~8001)$/;"	kind:variable	line:44
+xvocab_size	../seq2seq/main_simple_seq2seq_twitter.py	/^xvocab_size = len(metadata['idx2w']) # 8002 (0~8001)$/;"	kind:variable	line:44
+y	../seq2seq/main_simple_seq2seq.py	/^y = tf.nn.softmax(net.outputs)$/;"	kind:variable	line:123
+y	../seq2seq/main_simple_seq2seq_twitter.py	/^y = tf.nn.softmax(net.outputs)$/;"	kind:variable	line:123
+y_pred	../model/chatbot-predictor.py	/^y_pred = list(dnn_clf.predict(test_X))$/;"	kind:variable	line:48
+y_pred	../model/chatbot-trainer.py	/^y_pred = list(dnn_clf.predict(test_X))$/;"	kind:variable	line:85
+y_pred_proba	../model/chatbot-predictor.py	/^y_pred_proba = list(dnn_clf.predict_proba(test_X))$/;"	kind:variable	line:49
+y_pred_proba	../model/chatbot-trainer.py	/^y_pred_proba = list(dnn_clf.predict_proba(test_X))$/;"	kind:variable	line:86
+yseq_len	../seq2seq/main_simple_seq2seq.py	/^yseq_len = len(trainY)#.shape[-1]$/;"	kind:variable	line:40
+yseq_len	../seq2seq/main_simple_seq2seq_twitter.py	/^yseq_len = len(trainY)#.shape[-1]$/;"	kind:variable	line:40
